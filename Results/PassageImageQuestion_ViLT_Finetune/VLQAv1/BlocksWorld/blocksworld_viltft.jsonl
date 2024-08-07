@@ -1,0 +1,2809 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "mscoco",
+    "license": {},
+    "data_subtype": "blocksworld",
+    "questions": [
+        {
+            "image_id": "./images/Merged_BW_1_0#BW_1_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 0,
+            "answer_choices": [
+                "1",
+                "5",
+                "2",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_2_0#BW_2_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 1,
+            "answer_choices": [
+                "4",
+                "5",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_3_0#BW_3_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 2,
+            "answer_choices": [
+                "1",
+                "3",
+                "7",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_4_0#BW_4_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 3,
+            "answer_choices": [
+                "1",
+                "5",
+                "2",
+                "7"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_5_0#BW_5_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 4,
+            "answer_choices": [
+                "1",
+                "7",
+                "0",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_6_0#BW_6_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 5,
+            "answer_choices": [
+                "1",
+                "0",
+                "2",
+                "7"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_7_0#BW_7_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 6,
+            "answer_choices": [
+                "1",
+                "3",
+                "7",
+                "4"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_8_0#BW_8_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 7,
+            "answer_choices": [
+                "3",
+                "4",
+                "1",
+                "6"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_9_0#BW_9_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 8,
+            "answer_choices": [
+                "4",
+                "7",
+                "6",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_10_0#BW_10_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 9,
+            "answer_choices": [
+                "5",
+                "6",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_11_0#BW_11_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 10,
+            "answer_choices": [
+                "2",
+                "4",
+                "0",
+                "5"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_12_0#BW_12_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 11,
+            "answer_choices": [
+                "4",
+                "7",
+                "2",
+                "5"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_13_0#BW_13_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 12,
+            "answer_choices": [
+                "5",
+                "6",
+                "1",
+                "2"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_14_0#BW_14_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 13,
+            "answer_choices": [
+                "1",
+                "2",
+                "6",
+                "3"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_15_0#BW_15_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 14,
+            "answer_choices": [
+                "4",
+                "2",
+                "3",
+                "5"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_16_0#BW_16_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 15,
+            "answer_choices": [
+                "6",
+                "2",
+                "0",
+                "3"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_17_0#BW_17_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 16,
+            "answer_choices": [
+                "4",
+                "5",
+                "2",
+                "1"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_18_0#BW_18_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 17,
+            "answer_choices": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_19_0#BW_19_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 18,
+            "answer_choices": [
+                "0",
+                "4",
+                "2",
+                "3"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_20_0#BW_20_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 19,
+            "answer_choices": [
+                "0",
+                "6",
+                "3",
+                "2"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_21_0#BW_21_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 20,
+            "answer_choices": [
+                "5",
+                "3",
+                "0",
+                "7"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_22_0#BW_22_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 21,
+            "answer_choices": [
+                "3",
+                "7",
+                "6",
+                "0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_23_0#BW_23_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 22,
+            "answer_choices": [
+                "3",
+                "6",
+                "7",
+                "5"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_24_0#BW_24_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 23,
+            "answer_choices": [
+                "0",
+                "1",
+                "5",
+                "3"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_25_0#BW_25_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 24,
+            "answer_choices": [
+                "6",
+                "2",
+                "3",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_26_0#BW_26_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 25,
+            "answer_choices": [
+                "4",
+                "6",
+                "3",
+                "2"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_27_0#BW_27_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 26,
+            "answer_choices": [
+                "7",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_28_0#BW_28_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 27,
+            "answer_choices": [
+                "5",
+                "6",
+                "0",
+                "3"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_29_0#BW_29_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 28,
+            "answer_choices": [
+                "7",
+                "2",
+                "6",
+                "3"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_30_0#BW_30_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 29,
+            "answer_choices": [
+                "6",
+                "4",
+                "3",
+                "5"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_31_0#BW_31_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 30,
+            "answer_choices": [
+                "4",
+                "2",
+                "5",
+                "0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_32_0#BW_32_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 31,
+            "answer_choices": [
+                "7",
+                "0",
+                "1",
+                "4"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_33_0#BW_33_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 32,
+            "answer_choices": [
+                "7",
+                "0",
+                "4",
+                "1"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_34_0#BW_34_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 33,
+            "answer_choices": [
+                "4",
+                "3",
+                "6",
+                "7"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_35_0#BW_35_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 34,
+            "answer_choices": [
+                "7",
+                "4",
+                "6",
+                "0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_36_0#BW_36_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 35,
+            "answer_choices": [
+                "4",
+                "3",
+                "0",
+                "5"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_37_0#BW_37_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 36,
+            "answer_choices": [
+                "1",
+                "5",
+                "4",
+                "7"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_38_0#BW_38_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 37,
+            "answer_choices": [
+                "4",
+                "5",
+                "1",
+                "7"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_39_0#BW_39_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 38,
+            "answer_choices": [
+                "7",
+                "0",
+                "1",
+                "4"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_40_0#BW_40_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 39,
+            "answer_choices": [
+                "3",
+                "4",
+                "0",
+                "5"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_1_0#BW_1_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 40,
+            "answer_choices": [
+                "3",
+                "1",
+                "2",
+                "0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_2_0#BW_2_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 41,
+            "answer_choices": [
+                "0",
+                "2",
+                "1",
+                "3"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_3_0#BW_3_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 42,
+            "answer_choices": [
+                "3",
+                "2",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_4_0#BW_4_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 43,
+            "answer_choices": [
+                "3",
+                "2",
+                "0",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_5_0#BW_5_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 44,
+            "answer_choices": [
+                "1",
+                "0",
+                "3",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_6_0#BW_6_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 45,
+            "answer_choices": [
+                "2",
+                "0",
+                "1",
+                "3"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_7_0#BW_7_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 46,
+            "answer_choices": [
+                "2",
+                "3",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_8_0#BW_8_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 47,
+            "answer_choices": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_9_0#BW_9_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 48,
+            "answer_choices": [
+                "3",
+                "2",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_10_0#BW_10_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 49,
+            "answer_choices": [
+                "0",
+                "1",
+                "3",
+                "2"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_11_0#BW_11_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 50,
+            "answer_choices": [
+                "2",
+                "3",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_12_0#BW_12_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 51,
+            "answer_choices": [
+                "0",
+                "2",
+                "3",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_13_0#BW_13_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 52,
+            "answer_choices": [
+                "2",
+                "1",
+                "0",
+                "3"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_14_0#BW_14_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 53,
+            "answer_choices": [
+                "3",
+                "0",
+                "1",
+                "2"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_15_0#BW_15_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 54,
+            "answer_choices": [
+                "1",
+                "0",
+                "3",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_16_0#BW_16_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 55,
+            "answer_choices": [
+                "2",
+                "0",
+                "3",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_17_0#BW_17_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 56,
+            "answer_choices": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_18_0#BW_18_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 57,
+            "answer_choices": [
+                "2",
+                "0",
+                "3",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_19_0#BW_19_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 58,
+            "answer_choices": [
+                "1",
+                "0",
+                "2",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_20_0#BW_20_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 59,
+            "answer_choices": [
+                "2",
+                "0",
+                "1",
+                "3"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_21_0#BW_21_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 60,
+            "answer_choices": [
+                "2",
+                "3",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_22_0#BW_22_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 61,
+            "answer_choices": [
+                "1",
+                "3",
+                "0",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_23_0#BW_23_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 62,
+            "answer_choices": [
+                "2",
+                "3",
+                "0",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_24_0#BW_24_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 63,
+            "answer_choices": [
+                "1",
+                "0",
+                "3",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_25_0#BW_25_1.jpg",
+            "question": "How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 64,
+            "answer_choices": [
+                "0",
+                "1",
+                "3",
+                "2"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_26_0#BW_26_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 65,
+            "answer_choices": [
+                "3",
+                "1",
+                "2",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_27_0#BW_27_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 66,
+            "answer_choices": [
+                "1",
+                "3",
+                "0",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_28_0#BW_28_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 67,
+            "answer_choices": [
+                "3",
+                "2",
+                "0",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_29_0#BW_29_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 68,
+            "answer_choices": [
+                "1",
+                "0",
+                "3",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_30_0#BW_30_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 69,
+            "answer_choices": [
+                "3",
+                "1",
+                "2",
+                "0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_31_0#BW_31_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 70,
+            "answer_choices": [
+                "0",
+                "3",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_32_0#BW_32_1.jpg",
+            "question": "How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 71,
+            "answer_choices": [
+                "3",
+                "1",
+                "0",
+                "2"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_33_0#BW_33_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 72,
+            "answer_choices": [
+                "3",
+                "1",
+                "0",
+                "2"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_34_0#BW_34_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 73,
+            "answer_choices": [
+                "0",
+                "1",
+                "3",
+                "2"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_35_0#BW_35_1.jpg",
+            "question": "How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 74,
+            "answer_choices": [
+                "3",
+                "1",
+                "0",
+                "2"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_36_0#BW_36_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 75,
+            "answer_choices": [
+                "3",
+                "0",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_37_0#BW_37_1.jpg",
+            "question": "How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 76,
+            "answer_choices": [
+                "0",
+                "3",
+                "1",
+                "2"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_38_0#BW_38_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 77,
+            "answer_choices": [
+                "3",
+                "0",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_39_0#BW_39_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 78,
+            "answer_choices": [
+                "1",
+                "2",
+                "0",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_40_0#BW_40_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 79,
+            "answer_choices": [
+                "2",
+                "0",
+                "3",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_41_0#BW_41_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 80,
+            "answer_choices": [
+                "1",
+                "6",
+                "4",
+                "5"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_42_0#BW_42_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 81,
+            "answer_choices": [
+                "5",
+                "2",
+                "0",
+                "3"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_43_0#BW_43_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 82,
+            "answer_choices": [
+                "4",
+                "1",
+                "0",
+                "5"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_44_0#BW_44_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 83,
+            "answer_choices": [
+                "3",
+                "2",
+                "5",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_45_0#BW_45_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 84,
+            "answer_choices": [
+                "5",
+                "3",
+                "0",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_41_0#BW_41_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 85,
+            "answer_choices": [
+                "3",
+                "0",
+                "1",
+                "2"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_42_0#BW_42_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 86,
+            "answer_choices": [
+                "2",
+                "3",
+                "0",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_43_0#BW_43_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 87,
+            "answer_choices": [
+                "0",
+                "3",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_44_0#BW_44_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 88,
+            "answer_choices": [
+                "0",
+                "2",
+                "3",
+                "1"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_45_0#BW_45_1.jpg",
+            "question": "How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 89,
+            "answer_choices": [
+                "3",
+                "0",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_46_0#BW_46_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 90,
+            "answer_choices": [
+                "7",
+                "0",
+                "5",
+                "6"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_47_0#BW_47_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 91,
+            "answer_choices": [
+                "7",
+                "2",
+                "6",
+                "5"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_48_0#BW_48_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 92,
+            "answer_choices": [
+                "1",
+                "5",
+                "2",
+                "6"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_49_0#BW_49_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 93,
+            "answer_choices": [
+                "1",
+                "5",
+                "3",
+                "6"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_50_0#BW_50_1.jpg",
+            "question": "How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 94,
+            "answer_choices": [
+                "6",
+                "5",
+                "2",
+                "1"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_46_0#BW_46_1.jpg",
+            "question": "How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 95,
+            "answer_choices": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_47_0#BW_47_1.jpg",
+            "question": "How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 96,
+            "answer_choices": [
+                "2",
+                "3",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_48_0#BW_48_1.jpg",
+            "question": "How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 97,
+            "answer_choices": [
+                "1",
+                "0",
+                "3",
+                "2"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_49_0#BW_49_1.jpg",
+            "question": "How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 98,
+            "answer_choices": [
+                "0",
+                "3",
+                "2",
+                "1"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_50_0#BW_50_1.jpg",
+            "question": "How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]? Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 99,
+            "answer_choices": [
+                "3",
+                "2",
+                "1",
+                "0"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_51_0#BW_51_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images: I. move(Red,OutOfTable) II. move(Purple,Yellow) III. move(Green,Purple) IV. move(Orange,Green)",
+            "question_id": 100,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_52_0#BW_52_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Orange) II. move(Purple,OutOfTable) III. move(Blue,OutOfTable) IV. move(Yellow,OutOfTable)",
+            "question_id": 101,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_53_0#BW_53_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Table) II. move(Orange,Table) III. move(Purple,Red) IV. move(Yellow,OutOfTable)",
+            "question_id": 102,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_54_0#BW_54_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Purple,Table) III. move(Yellow,Table) IV. move(Red,Green)",
+            "question_id": 103,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_55_0#BW_55_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,OutOfTable) II. move(Orange,OutOfTable) III. move(Blue,Table) IV. move(Purple,OutOfTable)",
+            "question_id": 104,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_56_0#BW_56_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,OutOfTable) II. move(Yellow,OutOfTable) III. move(Blue,OutOfTable) IV. move(Orange,OutOfTable)",
+            "question_id": 105,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_57_0#BW_57_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Table) II. move(Green,Blue) III. move(Purple,Green) IV. move(Red,Table)",
+            "question_id": 106,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_58_0#BW_58_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Table) II. move(Red,OutOfTable) III. move(Yellow,OutOfTable) IV. move(Green,Purple)",
+            "question_id": 107,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_59_0#BW_59_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,OutOfTable) II. move(Blue,Yellow) III. move(Purple,Blue) IV. move(Orange,OutOfTable)",
+            "question_id": 108,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_60_0#BW_60_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Purple,OutOfTable) II. move(Green,OutOfTable) III. move(Orange,OutOfTable) IV. move(Blue,OutOfTable)",
+            "question_id": 109,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_61_0#BW_61_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Orange,Purple) III. move(Blue,Red) IV. move(Red,Green)",
+            "question_id": 110,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_62_0#BW_62_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Red) II. move(Purple,OutOfTable) III. move(Blue,Table) IV. move(Yellow,Blue)",
+            "question_id": 111,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_63_0#BW_63_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Purple,Table) II. move(Purple,Yellow) III. move(Yellow,Blue) IV. move(Red,OutOfTable)",
+            "question_id": 112,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_64_0#BW_64_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Yellow,OutOfTable) III. move(Blue,Orange) IV. move(Red,Table)",
+            "question_id": 113,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_65_0#BW_65_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,OutOfTable) II. move(Green,OutOfTable) III. move(Purple,Orange) IV. move(Yellow,Table)",
+            "question_id": 114,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_66_0#BW_66_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Blue,Table) III. move(Yellow,OutOfTable) IV. move(Red,OutOfTable)",
+            "question_id": 115,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_67_0#BW_67_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Blue,OutOfTable) II. move(Purple,OutOfTable) III. move(Yellow,Table) IV. move(Red,Green)",
+            "question_id": 116,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_68_0#BW_68_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Purple,OutOfTable) III. move(Yellow,OutOfTable) IV. move(Red,Table)",
+            "question_id": 117,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_69_0#BW_69_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,OutOfTable) II. move(Blue,Green) III. move(Yellow,Purple) IV. move(Purple,Table)",
+            "question_id": 118,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_70_0#BW_70_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Green) II. move(Purple,Yellow) III. move(Yellow,Orange) IV. move(Red,OutOfTable)",
+            "question_id": 119,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_71_0#BW_71_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Blue,OutOfTable) III. move(Yellow,OutOfTable) IV. move(Red,Table)",
+            "question_id": 120,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_72_0#BW_72_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,Green) II. move(Purple,OutOfTable) III. move(Green,Blue) IV. move(Red,Yellow)",
+            "question_id": 121,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_73_0#BW_73_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,Green) II. move(Blue,OutOfTable) III. move(Red,OutOfTable) IV. move(Orange,OutOfTable)",
+            "question_id": 122,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_74_0#BW_74_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,Green) II. move(Orange,Table) III. move(Blue,OutOfTable) IV. move(Purple,Table)",
+            "question_id": 123,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_75_0#BW_75_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,OutOfTable) II. move(Yellow,OutOfTable) III. move(Blue,OutOfTable) IV. move(Green,OutOfTable)",
+            "question_id": 124,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_76_0#BW_76_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Yellow) II. move(Blue,OutOfTable) III. move(Purple,OutOfTable) IV. move(Red,Green)",
+            "question_id": 125,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_77_0#BW_77_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,Red) II. move(Blue,Table) III. move(Green,OutOfTable) IV. move(Purple,OutOfTable)",
+            "question_id": 126,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_78_0#BW_78_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Green) II. move(Purple,OutOfTable) III. move(Yellow,Table) IV. move(Yellow,Orange)",
+            "question_id": 127,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_79_0#BW_79_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Table) II. move(Blue,Table) III. move(Green,Purple) IV. move(Orange,Blue)",
+            "question_id": 128,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_80_0#BW_80_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Orange) II. move(Yellow,Green) III. move(Blue,OutOfTable) IV. move(Purple,Yellow)",
+            "question_id": 129,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_81_0#BW_81_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Table) II. move(Purple,OutOfTable) III. move(Blue,Table) IV. move(Orange,Table)",
+            "question_id": 130,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_82_0#BW_82_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Yellow) II. move(Green,Red) III. move(Yellow,Green) IV. move(Purple,OutOfTable)",
+            "question_id": 131,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_83_0#BW_83_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Red) II. move(Green,Table) III. move(Yellow,OutOfTable) IV. move(Purple,Green)",
+            "question_id": 132,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_84_0#BW_84_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Yellow,OutOfTable) III. move(Orange,OutOfTable) IV. move(Red,Table)",
+            "question_id": 133,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_85_0#BW_85_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,Table) II. move(Orange,OutOfTable) III. move(Purple,OutOfTable) IV. move(Red,Table)",
+            "question_id": 134,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_86_0#BW_86_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Blue) II. move(Orange,Yellow) III. move(Blue,Table) IV. move(Green,OutOfTable)",
+            "question_id": 135,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_87_0#BW_87_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Table) II. move(Yellow,Table) III. move(Purple,Table) IV. move(Green,OutOfTable)",
+            "question_id": 136,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_88_0#BW_88_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Purple,Table) II. move(Green,Red) III. move(Yellow,Orange) IV. move(Orange,Purple)",
+            "question_id": 137,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_89_0#BW_89_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Purple,OutOfTable) II. move(Yellow,Table) III. move(Blue,Yellow) IV. move(Red,Orange)",
+            "question_id": 138,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_90_0#BW_90_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Table) II. move(Green,OutOfTable) III. move(Blue,Orange) IV. move(Red,OutOfTable)",
+            "question_id": 139,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_91_0#BW_91_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Table) II. move(Blue,Table) III. move(Red,Table) IV. move(Purple,OutOfTable)",
+            "question_id": 140,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_92_0#BW_92_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,OutOfTable) II. move(Blue,OutOfTable) III. move(Red,OutOfTable) IV. move(Orange,OutOfTable)",
+            "question_id": 141,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_93_0#BW_93_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Yellow,OutOfTable) II. move(Red,OutOfTable) III. move(Green,Orange) IV. move(Orange,Purple)",
+            "question_id": 142,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_94_0#BW_94_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Table) II. move(Purple,Green) III. move(Blue,Orange) IV. move(Green,Table)",
+            "question_id": 143,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_95_0#BW_95_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Table) II. move(Yellow,Blue) III. move(Orange,OutOfTable) IV. move(Purple,Yellow)",
+            "question_id": 144,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_96_0#BW_96_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Purple,OutOfTable) II. move(Blue,Table) III. move(Yellow,Green) IV. move(Green,Table)",
+            "question_id": 145,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_97_0#BW_97_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,Yellow) II. move(Orange,Table) III. move(Yellow,Orange) IV. move(Purple,OutOfTable)",
+            "question_id": 146,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "./images/Merged_BW_98_0#BW_98_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Orange,Table) II. move(Yellow,Orange) III. move(Green,Purple) IV. move(Purple,Blue)",
+            "question_id": 147,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_99_0#BW_99_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Red,OutOfTable) II. move(Green,OutOfTable) III. move(Orange,OutOfTable) IV. move(Blue,OutOfTable)",
+            "question_id": 148,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_100_0#BW_100_1.jpg",
+            "question": "Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. The move(X,Y) denotes that block with color X is moved onto location Y. Y can be any other block (but X itself), OutOfTable or OnTable. Consider following 4 moves for the given pair of images:   I. move(Green,Purple) II. move(Red,OutOfTable) III. move(Yellow,Green) IV. move(Orange,OutOfTable)",
+            "question_id": 149,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "./images/Merged_BW_1_0#BW_1_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 150,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_2_0#BW_2_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 151,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_3_0#BW_3_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 152,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_4_0#BW_4_1.jpg",
+            "question": "There are 6 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 153,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_5_0#BW_5_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 154,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_6_0#BW_6_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 155,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_7_0#BW_7_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 156,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_8_0#BW_8_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 157,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_9_0#BW_9_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 158,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_10_0#BW_10_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 159,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_11_0#BW_11_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 160,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_12_0#BW_12_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 161,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_13_0#BW_13_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 162,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_14_0#BW_14_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 163,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_15_0#BW_15_1.jpg",
+            "question": "There are 0 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 164,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_16_0#BW_16_1.jpg",
+            "question": "There are 0 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 165,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_17_0#BW_17_1.jpg",
+            "question": "There are 6 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 166,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_18_0#BW_18_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 167,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_19_0#BW_19_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 168,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_20_0#BW_20_1.jpg",
+            "question": "There are 0 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 169,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_21_0#BW_21_1.jpg",
+            "question": "There are 7 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 170,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_22_0#BW_22_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 171,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_23_0#BW_23_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 172,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_24_0#BW_24_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 173,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_25_0#BW_25_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 174,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_26_0#BW_26_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 175,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_27_0#BW_27_1.jpg",
+            "question": "There are 0 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 176,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_28_0#BW_28_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 177,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_29_0#BW_29_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 178,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_30_0#BW_30_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 179,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_31_0#BW_31_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 180,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_32_0#BW_32_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 181,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_33_0#BW_33_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 182,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_34_0#BW_34_1.jpg",
+            "question": "There are 3 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 183,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_35_0#BW_35_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 184,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_36_0#BW_36_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 185,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_37_0#BW_37_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 186,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_38_0#BW_38_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 187,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_39_0#BW_39_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 188,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_40_0#BW_40_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 189,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_1_0#BW_1_1.jpg",
+            "question": "The Green block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 190,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_2_0#BW_2_1.jpg",
+            "question": "The Purple block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 191,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_3_0#BW_3_1.jpg",
+            "question": "The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 192,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_4_0#BW_4_1.jpg",
+            "question": "The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 193,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_5_0#BW_5_1.jpg",
+            "question": "The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 194,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_6_0#BW_6_1.jpg",
+            "question": "The Orange block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 195,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_7_0#BW_7_1.jpg",
+            "question": "The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 196,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_8_0#BW_8_1.jpg",
+            "question": "The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 197,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_9_0#BW_9_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 198,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_10_0#BW_10_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 199,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_11_0#BW_11_1.jpg",
+            "question": "The Yellow block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 200,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_12_0#BW_12_1.jpg",
+            "question": "The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 201,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_13_0#BW_13_1.jpg",
+            "question": "The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 202,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_14_0#BW_14_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 203,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_15_0#BW_15_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 204,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_16_0#BW_16_1.jpg",
+            "question": "The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 205,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_17_0#BW_17_1.jpg",
+            "question": "The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 206,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_18_0#BW_18_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 207,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_19_0#BW_19_1.jpg",
+            "question": "The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 208,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_20_0#BW_20_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 209,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_21_0#BW_21_1.jpg",
+            "question": "The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 210,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_22_0#BW_22_1.jpg",
+            "question": "The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 211,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_23_0#BW_23_1.jpg",
+            "question": "The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 212,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_24_0#BW_24_1.jpg",
+            "question": "The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 213,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_25_0#BW_25_1.jpg",
+            "question": "The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 214,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_26_0#BW_26_1.jpg",
+            "question": "The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 215,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_27_0#BW_27_1.jpg",
+            "question": "The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 216,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_28_0#BW_28_1.jpg",
+            "question": "The Red block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 217,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_29_0#BW_29_1.jpg",
+            "question": "The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 218,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_30_0#BW_30_1.jpg",
+            "question": "The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 219,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_31_0#BW_31_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 220,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_32_0#BW_32_1.jpg",
+            "question": "The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 221,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_33_0#BW_33_1.jpg",
+            "question": "The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 222,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_34_0#BW_34_1.jpg",
+            "question": "The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 223,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_35_0#BW_35_1.jpg",
+            "question": "The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 224,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_36_0#BW_36_1.jpg",
+            "question": "The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 225,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_37_0#BW_37_1.jpg",
+            "question": "The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 226,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_38_0#BW_38_1.jpg",
+            "question": "The Blue block is moved 3 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 227,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_39_0#BW_39_1.jpg",
+            "question": "The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 228,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_40_0#BW_40_1.jpg",
+            "question": "The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 229,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_41_0#BW_41_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 230,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_42_0#BW_42_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 231,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_43_0#BW_43_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 232,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_44_0#BW_44_1.jpg",
+            "question": "There are 2 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 233,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_45_0#BW_45_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 234,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_41_0#BW_41_1.jpg",
+            "question": "The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 235,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_42_0#BW_42_1.jpg",
+            "question": "The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 236,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_43_0#BW_43_1.jpg",
+            "question": "The Blue block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 237,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_44_0#BW_44_1.jpg",
+            "question": "The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 238,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_45_0#BW_45_1.jpg",
+            "question": "The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 239,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_46_0#BW_46_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 240,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_47_0#BW_47_1.jpg",
+            "question": "There are 1 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 241,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_48_0#BW_48_1.jpg",
+            "question": "There are 5 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 242,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_49_0#BW_49_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 243,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_50_0#BW_50_1.jpg",
+            "question": "There are 4 moves required if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 244,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_46_0#BW_46_1.jpg",
+            "question": "The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 245,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "./images/Merged_BW_47_0#BW_47_1.jpg",
+            "question": "The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 246,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_48_0#BW_48_1.jpg",
+            "question": "The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 247,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_49_0#BW_49_1.jpg",
+            "question": "The Red block is moved 0 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 248,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "./images/Merged_BW_50_0#BW_50_1.jpg",
+            "question": "The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1]. Consider 6 blocks of colors [Red, Green, Purple, Orange, Yellow and Blue]. Blocks can be moved as per three conditions below. A block can be moved if there is no other block on it. At each time stamp only one block can be moved. A block can be moved OnTable, OutOfTable or on any other block.",
+            "question_id": 249,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        }
+    ]
+}

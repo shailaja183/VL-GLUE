@@ -1,0 +1,664 @@
+index,qid,question,origanswer,generatedanswer,correctness
+0,948,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+1,949,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+2,950,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+3,951,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+4,952,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+5,953,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+6,954,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+7,955,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+8,956,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+9,957,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+10,958,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+11,959,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+12,960,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+13,961,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+14,962,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+15,963,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+16,964,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+17,965,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+18,966,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+19,967,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+20,968,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+21,969,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+22,970,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+23,971,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+24,972,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+25,973,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+26,974,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+27,975,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+28,976,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+29,977,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+30,978,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+31,979,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+32,980,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+33,981,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+34,982,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+35,983,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+36,984,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+37,985,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+38,986,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+39,987,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+40,988,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+41,989,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+42,990,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+43,991,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+44,992,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+45,993,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+46,994,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+47,995,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+48,996,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+49,997,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+50,998,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+51,999,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+52,1000,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+53,1001,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+54,1002,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+55,1003,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+56,1004,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+57,1005,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+58,1006,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+59,1007,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+60,1008,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+61,1009,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+62,1010,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+63,1011,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+64,1012,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+65,1013,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+66,1014,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+67,1015,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+68,1016,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+69,1017,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+70,1018,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+71,1019,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+72,1020,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+73,1021,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+74,1022,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+75,1023,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+76,1024,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+77,1025,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+78,1026,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+79,1027,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+80,1028,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+81,1029,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+82,1030,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+83,1031,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+84,1032,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+85,1033,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+86,1034,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+87,1035,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+88,1036,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+89,1037,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+90,1038,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+91,1039,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+92,1040,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+93,1041,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+94,1042,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+95,1043,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+96,1044,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+97,1045,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+98,1046,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+99,1047,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+100,1048,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+101,1049,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+102,1050,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+103,1051,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+104,1052,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+105,1053,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+106,1054,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+107,1055,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+108,1056,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+109,1057,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+110,1058,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+111,1059,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+112,1060,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+113,1061,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+114,1062,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+115,1063,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+116,1064,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+117,1065,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+118,1066,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+119,1067,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+120,1068,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+121,1069,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+122,1070,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+123,1071,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+124,1072,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+125,1073,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+126,1074,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+127,1075,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+128,1076,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+129,1077,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+130,1078,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+131,1079,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+132,1080,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+133,1081,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+134,1082,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+135,1083,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+136,1084,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+137,1085,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+138,1086,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+139,1087,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+140,1088,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+141,1089,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+142,1090,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+143,1091,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+144,1092,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+145,1093,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+146,1094,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+147,1095,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+148,1096,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+149,1097,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+150,1098,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+151,1099,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+152,1100,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+153,1101,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+154,1102,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+155,1103,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+156,1104,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+157,1105,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+158,1106,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+159,1107,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+160,1108,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+161,1109,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+162,1110,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+163,1111,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+164,1112,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+165,1113,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+166,1114,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+167,1115,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+168,1116,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+169,1117,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+170,1118,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+171,1119,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+172,1120,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+173,1121,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+174,1122,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+175,1123,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+176,1124,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+177,1125,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+178,1126,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+179,1127,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+180,1128,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+181,1129,Select an image from the following choices for which information provided in the passage holds true. ,0,0,1
+182,1130,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+183,1131,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+184,1132,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+185,1133,Select an image from the following choices for which information provided in the passage holds true. ,0,1,0
+186,1134,Select an image from the following choices for which information provided in the passage holds true. ,1,0,0
+187,1135,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+188,1136,Select an image from the following choices for which information provided in the passage holds true. ,1,1,1
+189,1137,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+190,1138,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+191,1139,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+192,1140,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+193,1141,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+194,1142,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+195,1143,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+196,1144,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+197,1145,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+198,1146,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+199,1147,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+200,1148,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+201,1149,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+202,1150,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+203,1151,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+204,1152,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+205,1153,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+206,1154,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+207,1155,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+208,1156,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+209,1157,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+210,1158,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+211,1159,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+212,1160,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+213,1161,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+214,1162,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+215,1163,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+216,1164,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+217,1165,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+218,1166,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+219,1167,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+220,1168,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+221,1169,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+222,1170,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+223,1171,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+224,1172,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+225,1173,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+226,1174,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+227,1175,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+228,1176,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+229,1177,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+230,1178,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+231,1179,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+232,1180,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+233,1181,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+234,1182,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+235,1183,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+236,1184,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+237,1185,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+238,1186,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+239,1187,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+240,1188,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+241,1189,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+242,1190,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+243,1191,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+244,1192,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+245,1193,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+246,1194,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+247,1195,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+248,1196,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+249,1197,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+250,1198,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+251,1199,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+252,1200,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+253,1201,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+254,1202,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+255,1203,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+256,1204,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+257,1205,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+258,1206,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+259,1207,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+260,1208,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+261,1209,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+262,1210,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+263,1211,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+264,1212,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+265,1213,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+266,1214,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+267,1215,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+268,1216,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+269,1217,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+270,1218,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+271,1219,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+272,1220,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+273,1221,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+274,1222,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+275,1223,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+276,1224,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+277,1225,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+278,1226,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+279,1227,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+280,1228,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+281,1229,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+282,1230,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+283,1231,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+284,1232,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+285,1233,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+286,1234,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+287,1235,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+288,1236,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+289,1237,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+290,1238,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+291,1239,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+292,1240,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+293,1241,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+294,1242,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+295,1243,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+296,1244,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+297,1245,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+298,1246,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+299,1247,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+300,1248,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+301,1249,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+302,1250,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+303,1251,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+304,1252,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+305,1253,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+306,1254,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+307,1255,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+308,1256,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+309,1257,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+310,1258,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+311,1259,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+312,1260,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+313,1261,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+314,1262,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+315,1263,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+316,1264,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+317,1265,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+318,1266,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+319,1267,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+320,1268,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+321,1269,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+322,1270,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+323,1271,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+324,1272,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+325,1273,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+326,1274,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+327,1275,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+328,1276,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+329,1277,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+330,1278,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+331,1279,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+332,1280,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+333,1281,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+334,1282,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+335,1283,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+336,1284,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+337,1285,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+338,1286,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+339,1287,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+340,1288,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+341,1289,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+342,1290,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+343,1291,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+344,1292,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+345,1293,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+346,1294,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+347,1295,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+348,1296,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+349,1297,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+350,1298,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+351,1299,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+352,1300,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+353,1301,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+354,1302,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+355,1303,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+356,1304,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+357,1305,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+358,1306,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+359,1307,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+360,1308,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+361,1309,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+362,1310,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+363,1311,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+364,1312,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+365,1313,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+366,1314,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+367,1315,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+368,1316,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+369,1317,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+370,1318,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+371,1319,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+372,1320,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+373,1321,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+374,1322,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+375,1323,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+376,1324,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+377,1325,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+378,1326,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+379,1327,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+380,1328,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+381,1329,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+382,1330,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+383,1331,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+384,1332,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+385,1333,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+386,1334,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+387,1335,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+388,1336,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+389,1337,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+390,1338,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+391,1339,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+392,1340,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+393,1341,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+394,1342,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+395,1343,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+396,1344,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+397,1345,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+398,1346,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+399,1347,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+400,1348,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+401,1349,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+402,1350,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+403,1351,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+404,1352,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+405,1353,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+406,1354,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+407,1355,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+408,1356,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+409,1357,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+410,1358,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+411,1359,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+412,1360,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+413,1361,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+414,1362,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+415,1363,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+416,1364,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+417,1365,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+418,1366,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+419,1367,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+420,1368,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+421,1369,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+422,1370,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+423,1371,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+424,1372,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+425,1373,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+426,1374,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+427,1375,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+428,1376,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+429,1377,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+430,1378,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+431,1379,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+432,1380,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+433,1381,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+434,1382,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+435,1383,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+436,1384,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+437,1385,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+438,1386,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+439,1387,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+440,1388,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+441,1389,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+442,1390,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+443,1391,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+444,1392,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+445,1393,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+446,1394,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+447,1395,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+448,1396,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+449,1397,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+450,1398,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+451,1399,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+452,1400,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+453,1401,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+454,1402,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+455,1403,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+456,1404,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+457,1405,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+458,1406,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+459,1407,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+460,1408,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+461,1409,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+462,1410,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+463,1411,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+464,1412,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+465,1413,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+466,1414,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+467,1415,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+468,1416,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+469,1417,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+470,1418,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+471,1419,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+472,1420,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+473,1421,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+474,1422,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+475,1423,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+476,1424,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+477,1425,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+478,1426,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+479,1427,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+480,1428,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+481,1429,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+482,1430,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+483,1431,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+484,1432,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+485,1433,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+486,1434,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+487,1435,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+488,1436,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+489,1437,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+490,1438,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+491,1439,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+492,1440,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+493,1441,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+494,1442,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+495,1443,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+496,1444,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+497,1445,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+498,1446,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+499,1447,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+500,1448,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+501,1449,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+502,1450,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+503,1451,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+504,1452,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+505,1453,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+506,1454,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+507,1455,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+508,1456,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+509,1457,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+510,1458,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+511,1459,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+512,1460,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+513,1461,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+514,1462,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+515,1463,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+516,1464,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+517,1465,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+518,1466,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+519,1467,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+520,1468,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+521,1469,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+522,1470,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+523,1471,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+524,1472,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+525,1473,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+526,1474,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+527,1475,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+528,1476,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+529,1477,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+530,1478,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+531,1479,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+532,1480,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+533,1481,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+534,1482,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+535,1483,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+536,1484,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+537,1485,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+538,1486,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+539,1487,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+540,1488,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+541,1489,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+542,1490,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+543,1491,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+544,1492,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+545,1493,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+546,1494,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+547,1495,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+548,1496,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+549,1497,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+550,1498,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+551,1499,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+552,1500,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+553,1501,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+554,1502,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+555,1503,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+556,1504,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+557,1505,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+558,1506,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+559,1507,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+560,1508,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+561,1509,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+562,1510,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+563,1511,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+564,1512,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+565,1513,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+566,1514,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+567,1515,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+568,1516,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+569,1517,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+570,1518,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+571,1519,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+572,1520,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+573,1521,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+574,1522,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+575,1523,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+576,1524,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+577,1525,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+578,1526,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+579,1527,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+580,1528,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+581,1529,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+582,1530,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+583,1531,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+584,1532,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+585,1533,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+586,1534,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+587,1535,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+588,1536,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+589,1537,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+590,1538,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+591,1539,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+592,1540,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+593,1541,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+594,1542,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+595,1543,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+596,1544,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+597,1545,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+598,1546,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+599,1547,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+600,1548,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+601,1549,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+602,1550,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+603,1551,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+604,1552,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+605,1553,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+606,1554,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+607,1555,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+608,1556,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+609,1557,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+610,1558,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+611,1559,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+612,1560,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+613,1561,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+614,1562,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+615,1563,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+616,1564,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+617,1565,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+618,1566,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+619,1567,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+620,1568,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+621,1569,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+622,1570,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+623,1571,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+624,1572,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+625,1573,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+626,1574,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+627,1575,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+628,1576,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+629,1577,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+630,1578,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+631,1579,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+632,1580,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+633,1581,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+634,1582,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+635,1583,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+636,1584,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+637,1585,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+638,1586,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+639,1587,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+640,1588,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+641,1589,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+642,1590,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+643,1591,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+644,1592,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+645,1593,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+646,1594,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+647,1595,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+648,1596,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+649,1597,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+650,1598,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+651,1599,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+652,1600,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+653,1601,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+654,1602,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0
+655,1603,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+656,1604,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+657,1605,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+658,1606,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,0,1
+659,1607,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+660,1608,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,1,1
+661,1609,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,0,1,0
+662,1610,Determine if the information in the passage is correct for a given pair of  images. Left image is denoted by [0] and right image is denoted by [1].,1,0,0

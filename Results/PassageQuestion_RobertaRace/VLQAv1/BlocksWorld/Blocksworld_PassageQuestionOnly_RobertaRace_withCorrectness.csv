@@ -1,0 +1,251 @@
+index,qid,question,origanswer,generatedanswer,correctness
+0,0,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,3,0
+1,1,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+2,2,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+3,3,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,2,0
+4,4,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,3,0
+5,5,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,2,0
+6,6,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+7,7,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,0,0
+8,8,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+9,9,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+10,10,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,0,1
+11,11,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,2,1
+12,12,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+13,13,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+14,14,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+15,15,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+16,16,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,2,1
+17,17,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+18,18,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+19,19,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+20,20,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,1,1
+21,21,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,0,1
+22,22,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,0,1
+23,23,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+24,24,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,2,1
+25,25,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,2,1
+26,26,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,1,1
+27,27,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+28,28,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+29,29,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,2,1
+30,30,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+31,31,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+32,32,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+33,33,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+34,34,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+35,35,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+36,36,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,0,0
+37,37,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,2,0
+38,38,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+39,39,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,0,0
+40,40,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+41,41,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,0,0
+42,42,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+43,43,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+44,44,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+45,45,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,1,0
+46,46,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+47,47,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,0,0
+48,48,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+49,49,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,0,0
+50,50,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+51,51,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,0,0
+52,52,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+53,53,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,1,0
+54,54,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+55,55,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+56,56,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+57,57,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+58,58,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+59,59,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,1,0
+60,60,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+61,61,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,2,0
+62,62,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+63,63,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+64,64,How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+65,65,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+66,66,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,3,0
+67,67,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+68,68,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,3,0
+69,69,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+70,70,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,0,0
+71,71,How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,3,1
+72,72,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+73,73,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,0,0
+74,74,How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,3,0
+75,75,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+76,76,How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+77,77,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+78,78,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+79,79,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+80,80,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,0,0
+81,81,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,3,0
+82,82,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+83,83,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,0,0
+84,84,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+85,85,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,1,0
+86,86,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+87,87,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,2,0
+88,88,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,0,0
+89,89,How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+90,90,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,2,1,0
+91,91,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,3,1,0
+92,92,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+93,93,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+94,94,How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+95,95,How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,1,2,0
+96,96,How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,0,0
+97,97,How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,0,1,0
+98,98,How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,3,0,0
+99,99,How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?,2,3,0
+100,100,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,2,1
+101,101,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,0,0
+102,102,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,2,0
+103,103,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+104,104,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,0,0
+105,105,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+106,106,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+107,107,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+108,108,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+109,109,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+110,110,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,0,0
+111,111,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+112,112,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+113,113,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,2,0
+114,114,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+115,115,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,2,0
+116,116,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+117,117,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+118,118,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,0,1
+119,119,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+120,120,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+121,121,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+122,122,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+123,123,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,2,0
+124,124,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+125,125,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+126,126,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+127,127,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+128,128,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,0,1
+129,129,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,2,0
+130,130,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+131,131,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,2,1
+132,132,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,2,0
+133,133,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+134,134,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+135,135,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,2,1
+136,136,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,2,0
+137,137,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+138,138,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+139,139,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,3,0
+140,140,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,3,0
+141,141,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+142,142,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+143,143,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,0,0
+144,144,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,2,1
+145,145,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+146,146,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,2,2,1
+147,147,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,0,2,0
+148,148,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,1,3,0
+149,149,Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].,3,3,1
+150,150,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+151,151,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+152,152,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+153,153,There are 6 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+154,154,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+155,155,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+156,156,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+157,157,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+158,158,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+159,159,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+160,160,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+161,161,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+162,162,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+163,163,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+164,164,There are 0 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+165,165,There are 0 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+166,166,There are 6 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+167,167,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+168,168,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+169,169,There are 0 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+170,170,There are 7 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+171,171,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+172,172,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+173,173,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+174,174,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+175,175,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+176,176,There are 0 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+177,177,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+178,178,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+179,179,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+180,180,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+181,181,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+182,182,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+183,183,There are 3 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+184,184,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+185,185,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+186,186,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+187,187,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+188,188,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+189,189,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+190,190,The Green block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+191,191,The Purple block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+192,192,The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+193,193,The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+194,194,The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+195,195,The Orange block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+196,196,The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+197,197,The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+198,198,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+199,199,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+200,200,The Yellow block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+201,201,The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+202,202,The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+203,203,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+204,204,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+205,205,The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+206,206,The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+207,207,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+208,208,The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+209,209,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+210,210,The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+211,211,The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+212,212,The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+213,213,The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+214,214,The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+215,215,The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+216,216,The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+217,217,The Red block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+218,218,The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+219,219,The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+220,220,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+221,221,The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+222,222,The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+223,223,The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+224,224,The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+225,225,The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+226,226,The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+227,227,The Blue block is moved 3 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+228,228,The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+229,229,The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+230,230,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+231,231,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+232,232,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+233,233,There are 2 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+234,234,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+235,235,The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+236,236,The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+237,237,The Blue block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+238,238,The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+239,239,The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+240,240,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+241,241,There are 1 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+242,242,There are 5 moves required if image [0] is to be transformed into configuration in image [1].,0,0,1
+243,243,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+244,244,There are 4 moves required if image [0] is to be transformed into configuration in image [1].,1,0,0
+245,245,The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].,0,0,1
+246,246,The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+247,247,The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+248,248,The Red block is moved 0 times if image [0] is to be transformed into configuration in image [1].,1,0,0
+249,249,The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].,1,0,0
