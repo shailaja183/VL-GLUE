@@ -31,7 +31,7 @@ Code and data for Visuo-Linguistic GLUE Benchmark
 
 - For Finetune notebooks, GPU is recommended. 
 
-# Results
+# Batch-Run Results
 
 - The Results/ directory contains scripts/prediction results for unimodal, multi-modal (prediction only) and multi-modal (fine-tuning) baselines that are used to report performance of each VL-GLUE dataset in the paper
 
