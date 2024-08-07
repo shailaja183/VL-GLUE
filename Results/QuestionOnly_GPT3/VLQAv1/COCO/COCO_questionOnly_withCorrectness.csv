@@ -1,0 +1,4887 @@
+index,qid,question,origanswer,generatedanswer,correctness
+0,250,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+1,251,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+2,252,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,0
+3,253,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows an empty swimming pool.,1
+4,254,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the moon orbits Earth. The image shows the moon orbiting Earth. Therefore, the answer is a. True.",1
+5,255,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,A) True,0
+6,256,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+7,257,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+8,258,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+9,259,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+10,260,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+11,261,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is not true for the image.,1
+12,262,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,passage:,1
+13,263,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b. False.,1
+14,264,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+15,265,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+16,266,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,What is the capital of Algeria?,1
+17,267,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+18,268,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+19,269,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+20,270,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+21,271,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+22,272,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,c. The information is not provided in the passage.,0
+23,273,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a dress that is green with a print of white flowers.,1
+24,274,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+25,275,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a high-angle close-up of a man and a woman embracing.,1
+26,276,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b.False,0
+27,277,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+28,278,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+29,279,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+30,280,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+31,281,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+32,282,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+33,283,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+34,284,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The correct answer is b.,0
+35,285,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+36,286,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+37,287,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is false for the given image.,1
+38,288,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+39,289,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,c.,0
+40,290,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+41,291,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+42,292,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+43,293,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+44,294,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+45,295,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+46,296,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+47,297,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+48,298,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+49,299,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The image on the right is a computer-generated simulation of what our Milky Way galaxy might look like from above."" The image [0] is a computer-generated simulation of what our Milky Way galaxy might look like from above, so the answer is a. True.",0
+50,300,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+51,301,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+52,302,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+53,303,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that a blue whale's tongue can weigh as much as an elephant. In the given image, the blue whale's tongue does not appear to be much larger than the size of its head, so the answer is False.",1
+54,304,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,passage: The image shows a group of people celebrating the Fourth of July.,1
+55,305,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+56,306,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+57,307,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,,0
+58,308,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+59,309,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a chessboard.,1
+60,310,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+61,311,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true.,0
+62,312,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a supermarket.,1
+63,313,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that “in the center of each cell is a small vacuole that helps maintain the cell’s shape.” The image appears to show a cell with a vacuole, so the answer is a. True.",0
+64,314,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,0
+65,315,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+66,316,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+67,317,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a field with a line of trees in the distance.,1
+68,318,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+69,319,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+70,320,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+71,321,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The passage provides information about ducks.,1
+72,322,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""In the image, the buildings appear to be leaning to the right."" The buildings in the image do appear to be leaning to the right, so the answer is a. True.",1
+73,323,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+74,324,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+75,325,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The sun is a star.,0
+76,326,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+77,327,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+78,328,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The passage states that the image shows a room in a house. The image does not show a room in a house.,0
+79,329,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a close up of a blue jay's wing.,0
+80,330,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+81,331,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,Passage:,0
+82,332,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+83,333,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+84,334,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+85,335,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+86,336,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,State whether or not the information provided in the passage is true for the given image [0].,1
+87,337,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+88,338,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+89,339,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+90,340,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,A. True,1
+91,341,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+92,342,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+93,343,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b. False.,1
+94,344,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+95,345,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a snake.,1
+96,346,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+97,347,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is true for the given image.,0
+98,348,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+99,349,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+100,350,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+101,351,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The image shows two people, one who is clearly much taller than the other.",1
+102,352,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+103,353,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+104,354,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+105,355,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+106,356,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+107,357,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+108,358,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+109,359,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+110,360,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,false,0
+111,361,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+112,362,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is not true for the given image.,1
+113,363,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+114,364,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image depicts a police officer in riot gear.,0
+115,365,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+116,366,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+117,367,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a water droplet on the leaf of a plant.,0
+118,368,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+119,369,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+120,370,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+121,371,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,true,0
+122,372,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+123,373,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+124,374,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The image is of a gate with a sign that reads, ""No Trespassing.""",0
+125,375,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a map of the world.,1
+126,376,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+127,377,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+128,378,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The image depicts a character from the video game ""Assassin's Creed III.""",1
+129,379,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The rock is made up of many smaller rocks that have been cemented together."" The image shows a close-up of a rock that appears to be made up of many smaller rocks that have been cemented together, so the answer is a. True.",0
+130,380,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""the image is of a spiral galaxy."" The image does in fact depict a spiral galaxy, so the answer is ""true.""",1
+131,381,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+132,382,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+133,383,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+134,384,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+135,385,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+136,386,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+137,387,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+138,388,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+139,389,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is true for the given image.,0
+140,390,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+141,391,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+142,392,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+143,393,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+144,394,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a black bear.,1
+145,395,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+146,396,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+147,397,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+148,398,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+149,399,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+150,400,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a,1
+151,401,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+152,402,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+153,403,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The image depicts a person wearing a gas mask and is carrying a sign that reads “No Gas, No Peace.” Gas masks were commonly used during wartime to protect people from the harmful effects of gas attacks.",0
+154,404,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+155,405,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+156,406,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+157,407,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+158,408,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a black and white cat.,1
+159,409,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a painting of a woman.,1
+160,410,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+161,411,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+162,412,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+163,413,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The image shows a bottle of water with a label that reads ""Water.""",1
+164,414,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+165,415,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+166,416,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The correct answer is b.,0
+167,417,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+168,418,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+169,419,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+170,420,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+171,421,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+172,422,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+173,423,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The scene is a still life of a bowl of fruit."" The image is of a bowl of fruit. Therefore, the statement is true.",0
+174,424,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+175,425,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,c. Cannot determine,0
+176,426,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+177,427,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+178,428,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+179,429,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+180,430,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+181,431,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a Tyrannosaurus rex.,0
+182,432,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+183,433,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+184,434,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+185,435,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+186,436,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+187,437,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+188,438,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a close-up of a human eye.,0
+189,439,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a ""solar coronal hole."" The answer is therefore b, False.",0
+190,440,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+191,441,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+192,442,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+193,443,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+194,444,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+195,445,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+196,446,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+197,447,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+198,448,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+199,449,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+200,450,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+201,451,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The female Southern Cassowary is slightly smaller than the male and lacks the Casque."" The image shows a Southern Cassowary with a Casque, so the information in the passage is false.",1
+202,452,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,c. The image is not referred to in the passage,0
+203,453,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+204,454,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+205,455,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+206,456,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The author concludes that the image is of a very young child.,1
+207,457,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+208,458,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a river with trees on the bank.,1
+209,459,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+210,460,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+211,461,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b.False,1
+212,462,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+213,463,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+214,464,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+215,465,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+216,466,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+217,467,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+218,468,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"I. In the tropics, the bulbul can be found in scrublands, gardens, and rural areas.",1
+219,469,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+220,470,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+221,471,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+222,472,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+223,473,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+224,474,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+225,475,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+226,476,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+227,477,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+228,478,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The correct answer is a. The information in the passage is true for the image.,1
+229,479,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+230,480,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+231,481,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+232,482,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+233,483,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+234,484,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+235,485,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states: ""The moon orbits around Earth."" The given image is of the moon. Therefore, the answer is a. True.",0
+236,486,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+237,487,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+238,488,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,0
+239,489,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+240,490,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+241,491,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+242,492,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is true for the given image.,0
+243,493,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+244,494,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+245,495,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image [0] is of a glowing gem.,1
+246,496,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+247,497,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+248,498,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+249,499,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+250,500,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The image states that 11% of the world is left handed. The passage states that only 10% of the world is left handed. Based on this information, the correct answer is False.",0
+251,501,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+252,502,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+253,503,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+254,504,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,True,1
+255,505,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+256,506,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+257,507,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+258,508,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+259,509,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+260,510,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+261,511,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+262,512,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+263,513,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+264,514,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+265,515,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+266,516,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is not true for the given image.,1
+267,517,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. false,1
+268,518,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+269,519,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+270,520,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+271,521,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+272,522,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+273,523,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+274,524,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+275,525,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+276,526,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,Incorrect. The information in the passage does not correspond to the image.,0
+277,527,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+278,528,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+279,529,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+280,530,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+281,531,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+282,532,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False. The small town depicted in the image is not suffering from high levels of poverty.,0
+283,533,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+284,534,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+285,535,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+286,536,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+287,537,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+288,538,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""The image shows a small, dark creature with two large, luminous eyes."" The creature in the given image does not have two eyes, making the statement false. As such, the correct answer is b.",0
+289,539,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+290,540,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a group of children playing together.,1
+291,541,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+292,542,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+293,543,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+294,544,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is not true for the given image.,1
+295,545,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+296,546,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+297,547,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+298,548,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+299,549,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is b. False.,1
+300,550,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+301,551,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The more energy an atom has, the more times it wobbles."" The image depicts an atom with a lot of energy, so the answer is a.",0
+302,552,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+303,553,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image [0] is a representation of the traditional Japanese kimono.,1
+304,554,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+305,555,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+306,556,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+307,557,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+308,558,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a ""woman in a long dress."" The image is of a woman in a long dress, so the answer is a. True.",1
+309,559,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+310,560,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+311,561,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The image is of a young woman in a white shirt with dark hair. She is standing in front of a store window, and her reflection is visible in the glass.",1
+312,562,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+313,563,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a map of the world.,0
+314,564,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+315,565,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+316,566,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image [0] shows a diagram of the human brain.,1
+317,567,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is not true for the image.,1
+318,568,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+319,569,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+320,570,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+321,571,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,false,1
+322,572,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+323,573,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+324,574,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+325,575,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+326,576,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+327,577,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+328,578,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+329,579,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+330,580,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image provided shows the moon in its waxing gibbous phase.,1
+331,581,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+332,582,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+333,583,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+334,584,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+335,585,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+336,586,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"False. While the image shows the Moon in close proximity to the Earth, it is not actually possible for the Moon to pass in front of the Earth from this perspective. From this view, the Moon would actually appear to be orbiting behind the Earth.",0
+337,587,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+338,588,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+339,589,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+340,590,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+341,591,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+342,592,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+343,593,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,Image shows Saturn,1
+344,594,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+345,595,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+346,596,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+347,597,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The image is of a large, ornate chair with red velvet upholstery and gold details.",0
+348,598,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+349,599,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+350,600,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+351,601,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+352,602,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+353,603,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a group of people playing football.,0
+354,604,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+355,605,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+356,606,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+357,607,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+358,608,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+359,609,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+360,610,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+361,611,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of ""a young black girl."" The image is of a young black girl. Therefore, the answer is ""a.""",0
+362,612,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+363,613,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+364,614,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+365,615,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+366,616,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+367,617,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+368,618,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is false for the given image.,0
+369,619,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+370,620,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+371,621,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+372,622,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""The photographer managed to capture the bird in midair, which is difficult to do."" The image shows a bird in midair. Therefore, the information in the passage is true for the given image.",1
+373,623,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+374,624,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+375,625,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is not true for the given image [0].,0
+376,626,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""objects with a small angular size appear blurry when viewed from a distance."" The image [0] is of an object that appears blurry when viewed from a distance, so the answer is a. True.",1
+377,627,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+378,628,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+379,629,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+380,630,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+381,631,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+382,632,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+383,633,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+384,634,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+385,635,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+386,636,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a ""man with a long, thin mustache."" The mustached man in the image does indeed have a long, thin mustache. Therefore, the answer is a. True.",1
+387,637,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+388,638,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+389,639,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+390,640,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+391,641,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+392,642,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+393,643,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+394,644,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,A) b,0
+395,645,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+396,646,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+397,647,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,the image shows a pair of blue jeans,1
+398,648,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a politician giving a speech to a crowd of people.,1
+399,649,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+400,650,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+401,651,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image [0] is of a bluebird nest with three chicks.,1
+402,652,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+403,653,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+404,654,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+405,655,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+406,656,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true.,1
+407,657,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of an individual with blue hair.,1
+408,658,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a) True,1
+409,659,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,There is no information given in the passage for the given image.,0
+410,660,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+411,661,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a horse.,0
+412,662,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+413,663,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+414,664,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+415,665,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+416,666,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+417,667,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+418,668,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The author states that the image depicts a scene from a ""lost civilization."" The image does not depict a scene from a ""lost civilization."" Therefore, the author's statement is false. The correct answer is b.",0
+419,669,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a black bear.,1
+420,670,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+421,671,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+422,672,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+423,673,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+424,674,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+425,675,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+426,676,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+427,677,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+428,678,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+429,679,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is true for the given image.,0
+430,680,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+431,681,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a teapot which is not a bird.,1
+432,682,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+433,683,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+434,684,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+435,685,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a map of the world.,0
+436,686,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage states that the image shows a gathering of supporters for a presidential candidate. The image does not show a gathering of supporters for a presidential candidate.,0
+437,687,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+438,688,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+439,689,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+440,690,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+441,691,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+442,692,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+443,693,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+444,694,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+445,695,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of the United States Capitol.,0
+446,696,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b. False.,0
+447,697,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+448,698,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+449,699,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+450,700,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+451,701,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+452,702,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""All of the gas stations in the state of California are required to post the price of gas in big, red numbers."" The image shows a gas station in California with red numbers posted. Therefore, the answer is a. True.",1
+453,703,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,d.,1
+454,704,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+455,705,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+456,706,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+457,707,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+458,708,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+459,709,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image [0] shows a person driving a car. The person driving the car is not wearing a seatbelt.,1
+460,710,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+461,711,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+462,712,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+463,713,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+464,714,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a horse.,1
+465,715,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that the moon is tidally locked to Earth, meaning that the same side of the moon always faces Earth. This is true for the given image.",0
+466,716,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,Answer: b,0
+467,717,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+468,718,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+469,719,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true.,0
+470,720,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+471,721,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information provided in the passage is true for the given image.,0
+472,722,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+473,723,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+474,724,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False.,0
+475,725,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+476,726,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image [0] shows a plant.,1
+477,727,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+478,728,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a group of people in a field. There is a man in the middle of the group who is taller than the rest of the people.,1
+479,729,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+480,730,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+481,731,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The image shows a television with the words ""Hello, world"" displayed on the screen.",0
+482,732,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. false,0
+483,733,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+484,734,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+485,735,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+486,736,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+487,737,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+488,738,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+489,739,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+490,740,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+491,741,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+492,742,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+493,743,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+494,744,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""The moon orbits Earth every 27.3 days."" The moon is not visible in the given image, so it is unable to confirm whether or not this is true.",1
+495,745,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The Answers are:,1
+496,746,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+497,747,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+498,748,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+499,749,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that the image is of a person walking their dog. This is true, so the answer is ""a. True.""",0
+500,750,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+501,751,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+502,752,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+503,753,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+504,754,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+505,755,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+506,756,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+507,757,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+508,758,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+509,759,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+510,760,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+511,761,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+512,762,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+513,763,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+514,764,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a girl with a backpack and a lunchbox.,1
+515,765,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+516,766,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The correct answer is b.,0
+517,767,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of Saturn.,0
+518,768,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a dog. The image is of a dog, so the answer is a.",0
+519,769,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+520,770,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"Yes, the information in the passage is true for the given image.",1
+521,771,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+522,772,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b. False.,0
+523,773,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a snowman with a top hat.,0
+524,774,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+525,775,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The image on the left is a view from above of the Nazca Lines."" The image on the left is a view from above of the Nazca Lines, so the answer is a. True.",0
+526,776,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+527,777,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+528,778,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+529,779,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,passage:,0
+530,780,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+531,781,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+532,782,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+533,783,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of the Sahara Desert.,0
+534,784,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+535,785,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+536,786,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+537,787,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+538,788,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+539,789,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+540,790,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a ""marketplace in Turkey,"" which is true.",1
+541,791,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+542,792,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a girl with long hair.,1
+543,793,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information is not provided in the passage.,0
+544,794,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,of the image.,0
+545,795,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a plant.,0
+546,796,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+547,797,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+548,798,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+549,799,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+550,800,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+551,801,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+552,802,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+553,803,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The statement in the passage is true for the given image.,0
+554,804,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+555,805,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+556,806,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+557,807,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+558,808,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is false for the given image.,0
+559,809,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+560,810,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+561,811,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+562,812,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+563,813,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+564,814,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+565,815,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+566,816,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+567,817,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+568,818,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image depicts a ""juicy"" peach. Based on the appearance of the peach in the image, this is false.",0
+569,819,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+570,820,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+571,821,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a scene from the film The Nightmare Before Christmas.,0
+572,822,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+573,823,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+574,824,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+575,825,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+576,826,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"From the perspective of an observer on Earth, the Moon is not self-luminous and thus appears dark except when illuminated by the Sun.",0
+577,827,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+578,828,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+579,829,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+580,830,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+581,831,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a diagram of a tennis court.,0
+582,832,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true.,1
+583,833,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+584,834,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+585,835,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+586,836,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a lion.,1
+587,837,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+588,838,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+589,839,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+590,840,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is False.,0
+591,841,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+592,842,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+593,843,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+594,844,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+595,845,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+596,846,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is not true for the given image.,1
+597,847,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+598,848,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+599,849,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+600,850,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,Image (0): A giant panda,0
+601,851,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+602,852,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+603,853,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+604,854,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a carton of eggs.,1
+605,855,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,False,1
+606,856,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+607,857,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+608,858,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+609,859,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+610,860,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+611,861,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+612,862,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a,1
+613,863,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b. False.,1
+614,864,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+615,865,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b.,1
+616,866,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+617,867,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The passage states that the image is of a bald eagle. The answer is therefore a. True.,0
+618,868,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+619,869,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a person wearing a coat and a hat.,0
+620,870,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+621,871,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+622,872,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information provided in the passage is true for the given image.,1
+623,873,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,true,0
+624,874,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a woman.,1
+625,875,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+626,876,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The Passage:,1
+627,877,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is not true for the given image.,0
+628,878,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+629,879,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+630,880,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+631,881,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+632,882,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image shows a ""farmhouse in the early 1900s."" The image shows a farmhouse, but it is difficult to determine whether or not it is from the early 1900s. Therefore, the answer is b.",0
+633,883,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+634,884,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+635,885,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+636,886,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that ""The image on the left is of the Krag-Jørgensen rifle, which was used by the US military from 1892 until 1904."" The image on the left is of the Krag-Jørgensen rifle, so the information is true.",1
+637,887,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+638,888,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+639,889,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+640,890,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+641,891,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+642,892,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b. False.,0
+643,893,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image is of a ,0
+644,894,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,0
+645,895,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+646,896,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the given image.,1
+647,897,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+648,898,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+649,899,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is b. False.,1
+650,900,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+651,901,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+652,902,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The image shows a cupcake with a candle on it.,1
+653,903,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+654,904,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+655,905,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The image shows a rock on the ground.,0
+656,906,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+657,907,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+658,908,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+659,909,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+660,910,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The carbon-12 nucleus has six protons and six neutrons.,1
+661,911,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+662,912,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The largest coyote on record weighed 79 pounds.,1
+663,913,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+664,914,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+665,915,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the given image.,0
+666,916,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+667,917,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+668,918,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+669,919,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the image, the information in the passage is true.",0
+670,920,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+671,921,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+672,922,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+673,923,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,The information in the passage is true for the image.,0
+674,924,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+675,925,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+676,926,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+677,927,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+678,928,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+679,929,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that ""The bottom curve in the photo is the path of the Sun across the sky."" The image does not seem to contain a bottom curve, so the answer must be b.",0
+680,930,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+681,931,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,Incorrect answer. Please try again.,0
+682,932,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The given image is of a log cabin surrounded by trees.,1
+683,933,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+684,934,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+685,935,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The text in the image [0] states ""All Men Are Brothers."" The passage states that this is the message of the image.",0
+686,936,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The information in the passage is true for the image.,1
+687,937,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that the image shows two types of galaxies, spiral and elliptical, but the image only appears to show one type of galaxy. Based on this, the answer is b. False.",1
+688,938,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,"The passage states that the image is of a ""woman in a white dress."" The image is of a woman in a white dress, so the information is true. a. True",1
+689,939,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the image provided, the answer to the question is b. False.",1
+690,940,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+691,941,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states that the image is of a ""seaside cliff."" However, the image actually appears to be of a mountainside cliff. As such, the answer is b.",0
+692,942,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+693,943,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+694,944,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,0
+695,945,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+696,946,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",a,true,1
+697,947,"Question: 
+Answer Choices are: 
+a. True
+b. False
+State whether or not the information provided in the passage is true for the given image [0].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0

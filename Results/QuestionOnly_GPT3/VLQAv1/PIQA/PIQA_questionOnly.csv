@@ -1,0 +1,2486 @@
+index,pid,question,origanswer,generatedanswer,generatedanswers
+0,1611,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The______ on the door says ""Do not Disturb.""","['The______ on the door says ""Do not Disturb.""', 'The sign on the door says ""Do not Disturb.""']"
+1,1612,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The tablecloth had a hole in it.,"['The tablecloth had a hole in it.', 'The hole in the tablecloth was big enough to accommodate a quarter.', 'a. Image [0]']"
+2,1613,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that would best fill in the blank is Image [0].,['The image that would best fill in the blank is Image [0].']
+3,1614,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ in Image [1] is the same as the _____ in Image [0].,"['The _____ in Image [1] is the same as the _____ in Image [0].', 'The image in Image [1] is the same as the image in Image [0].']"
+4,1615,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is image 1 because it is a picture of a microphone,['The correct answer is image 1 because it is a picture of a microphone']
+5,1616,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is b.,['The image that can fill-in-the-blank is b.']
+6,1617,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The ____ is composed of three subunits: A, B, and C.","['The ____ is composed of three subunits: A, B, and C.', 'a. Image [0]', 'b. Image [1]']"
+7,1618,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The world's ______ population is projected to increase by about 1 billion people in the next 13 years.,"[""The world's ______ population is projected to increase by about 1 billion people in the next 13 years."", 'a. Image [0]', 'b. Image [1]']"
+8,1619,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is Image [0].,['The correct answer is Image [0].']
+9,1620,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,a.,['a.']
+10,1621,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The ______ is considered one of the first examples of photography.,"['The ______ is considered one of the first examples of photography.', 'The image on the left (Image [0]) is considered one of the first examples of photography.']"
+11,1622,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is incorrect because it does not show two people. Image [1] is correct because it does show two people.,['Image [0] is incorrect because it does not show two people. Image [1] is correct because it does show two people.']
+12,1623,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] depicts a scene of a man bowing down to a seated figure, most likely a king or a ruler. Image [1] is a painting of a lady with a fur scarf, sitting in what appears to be an empty room.","['Image [0] depicts a scene of a man bowing down to a seated figure, most likely a king or a ruler. Image [1] is a painting of a lady with a fur scarf, sitting in what appears to be an empty room.', 'The answer is b.']"
+13,1624,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The ____ on the lower left-hand side of the photograph represents the country of Chile.,"['The ____ on the lower left-hand side of the photograph represents the country of Chile.', 'a. Image [0]', 'b. Image [1]']"
+14,1625,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The passage states, ""The female pelvis is broader and the sacrum is shorter and blunter."" The image that best fits this description is Image [1].","['The passage states, ""The female pelvis is broader and the sacrum is shorter and blunter."" The image that best fits this description is Image [1].']"
+15,1626,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of a________ is shown.,"['The image of a________ is shown.', 'a.']"
+16,1627,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is of a road that leads to a mountain in the distance.,"['Image [0] is of a road that leads to a mountain in the distance.', 'Image [1] is of a ocean with waves crashing on the shore.', 'The answer is b.']"
+17,1628,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The moon is a ______ object.,"['The moon is a ______ object.', 'a. Image [0]', 'b. Image [1]']"
+18,1629,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The figure below shows the _____ of a computer system.,"['The figure below shows the _____ of a computer system.', 'b. Image [1]']"
+19,1630,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ is five miles away from the nearest town.,"['The _____ is five miles away from the nearest town.', 'The answer is b. Image [1]']"
+20,1631,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Which of the following image choices can best fill in the blank for the following sentence? ""The___________________ has given many famous talks.""","['Which of the following image choices can best fill in the blank for the following sentence? ""The___________________ has given many famous talks.""', 'b. Image [1]']"
+21,1632,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The way he looks at her is _____,"['The way he looks at her is _____', 'a. Image [0]', 'b. Image[1]', 'b. Image [1]']"
+22,1633,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The United States is not ranked within the top _____ for happiest countries.,"['The United States is not ranked within the top _____ for happiest countries.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+23,1634,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the passage, the image that can fill-in-the-blank is image [0].","['Based on the passage, the image that can fill-in-the-blank is image [0].']"
+24,1635,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,a. Image [0],"['a. Image [0]', 'b. Image [1]']"
+25,1636,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"While most _____ only have four legs, some have as many as twelve.","['While most _____ only have four legs, some have as many as twelve.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+26,1637,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _______ on the cake is made of chocolate.,"['The _______ on the cake is made of chocolate.', 'Image [0] shows a chocolate cake with a chocolate frosting. Image [1] shows a vanilla cake with a chocolate frosting.', 'The frosting on the cake is made of chocolate.']"
+27,1638,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+28,1639,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the given information, the answer is Image [1].","['Based on the given information, the answer is Image [1].']"
+29,1640,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of a _____ taken by the Hubble Space Telescope can be found below.,"['The image of a _____ taken by the Hubble Space Telescope can be found below.', 'The image of a galaxy taken by the Hubble Space Telescope can be found below.']"
+30,1641,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,I cannot answer this question.,['I cannot answer this question.']
+31,1642,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0],"['Image [0]', 'Question: ', 'Answer Choices are: ', 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+32,1643,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The creature's mouth was filled with _____.,"[""The creature's mouth was filled with _____."", 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+33,1644,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The Large Magellanic Cloud, a satellite of the Milky Way about 160,000 light-years distant, is approaching our galaxy at more than 400 kilometers per ____.","['The Large Magellanic Cloud, a satellite of the Milky Way about 160,000 light-years distant, is approaching our galaxy at more than 400 kilometers per ____.', 'b. Image [1]']"
+34,1645,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The tourist was pleased with _____ as a souvenir of her trip to Egypt.,"['The tourist was pleased with _____ as a souvenir of her trip to Egypt.', 'b. Image [1]']"
+35,1646,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The book is organized into___,"['The book is organized into___', 'The book is organized into sections.']"
+36,1647,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The author uses a metaphor in the sentence ""The town was aflame with gossip"" by comparing the spread of gossip to a fire.","['The author uses a metaphor in the sentence ""The town was aflame with gossip"" by comparing the spread of gossip to a fire.', 'The correct answer is b.']"
+37,1648,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _______ is on top of the hill.,"['The _______ is on top of the hill.', 'Image [0] is of a house on top of a hill.']"
+38,1649,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is selected as the answer to the question.,['Image [0] is selected as the answer to the question.']
+39,1650,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"I have been having some trouble lately with what feels like restless leg syndrome. I only seem to get it at ____, and it is really starting to bother me.","['I have been having some trouble lately with what feels like restless leg syndrome. I only seem to get it at ____, and it is really starting to bother me.', 'a. Image [0]']"
+40,1651,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ in the picture is wearing a striped shirt.,"['The _____ in the picture is wearing a striped shirt.', 'The person in the picture is wearing a striped shirt.']"
+41,1652,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Which image among choices A and B can fill-in-the-blank and provide in the passage?,"['Which image among choices A and B can fill-in-the-blank and provide in the passage?', 'The correct answer is b.']"
+42,1653,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The passage mentions two images.,"['The passage mentions two images.', 'The answer is b.']"
+43,1654,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The first image is of a dog and the second image is of a cat.,"['The first image is of a dog and the second image is of a cat.', 'b. Image [1]']"
+44,1655,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image above shows the _____ of the sun.,"['The image above shows the _____ of the sun.', 'b. Image [1]']"
+45,1656,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is a picture of a tall mountain. Image [1] is a picture of a small village.,"['Image [0] is a picture of a tall mountain. Image [1] is a picture of a small village.', 'The answer is b, Image [1].']"
+46,1657,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,c. Image [2],"['c. Image [2]', 'd. Image [3]', 'The answer is b. Image [1]']"
+47,1658,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] represents a park.,['Image [0] represents a park.']
+48,1659,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [1].,['The image that can fill-in-the-blank is Image [1].']
+49,1660,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b. Image [1],['The answer is b. Image [1]']
+50,1661,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ladder is leaning against the _____.,"['The ladder is leaning against the _____.', 'Image [0] shows a wall while Image [1] shows a ladder leaning against a wall. The correct answer is b.']"
+51,1662,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Neither of the images can fill in the blank.,['Neither of the images can fill in the blank.']
+52,1663,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank in the passage is Image [0].,['The image that can fill-in-the-blank in the passage is Image [0].']
+53,1664,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The word ""Image"" is highlighted in blue.","['The word ""Image"" is highlighted in blue.', 'The word ""Image"" is not highlighted in blue.']"
+54,1665,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] shows a person jogging through a neighborhood, while Image [1] shows a person running on a treadmill in a gym.","['Image [0] shows a person jogging through a neighborhood, while Image [1] shows a person running on a treadmill in a gym.', 'b. Image [1]']"
+55,1666,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image below features a _____.,"['The image below features a _____.', 'a. Image [0]', 'b. Image [1]', 'The image below features a _____.', 'a. Image [0]']"
+56,1667,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,b. Image [1],['b. Image [1]']
+57,1668,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0]: A man and woman are sitting on a bench near a river,"['Image [0]: A man and woman are sitting on a bench near a river', 'Image [1]: A close-up of a flower', 'Neither image can fill in the blank.']"
+58,1669,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [1].,['Image [1].']
+59,1670,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The clock face on the tower of the church b. Image [1],"['The clock face on the tower of the church b. Image [1]', 'The clock face on the tower of the church was inscribed with the words ""DIES IRAE, DIES ILIA,"" which is Latin for ""Day of Wrath, Day of Doom.""']"
+60,1671,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Looking at the two images, it appears that Image [0] would be the better choice to fill in the blank.","['Looking at the two images, it appears that Image [0] would be the better choice to fill in the blank.']"
+61,1672,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The person in this image is______.,"['The person in this image is______.', 'Image [0] is a black and white image of a young woman with dark hair. She is looking off to the side with a slight smile on her face.', 'Image [1] is a color image of a young woman with dark hair. She is looking off to the side with a slight smile on her face.', 'The person in this image is Image [0].']"
+62,1673,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ near the entrance to the park was filled with colorful flowers.,"['The _____ near the entrance to the park was filled with colorful flowers.', 'Image [0]']"
+63,1674,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The creature in the background of the provided image is hard to identify.,"['The creature in the background of the provided image is hard to identify.', 'a. Image [0]']"
+64,1675,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The front porch of the school is decorated with large ____.,"['The front porch of the school is decorated with large ____.', 'a. Image [0]', 'b. Image [1]', 'a. Images [0]']"
+65,1676,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,a. Image [0],"['a. Image [0]', ""The image selected should show a close-up of a person's face, with a confused or thoughtful expression.""]"
+66,1677,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Which image best represents a predator?,"['Which image best represents a predator?', 'b. Image [1]']"
+67,1678,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Based on the information provided in the passage,","['Based on the information provided in the passage,', 'The correct answer is b. Image [1]']"
+68,1679,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,I have never seen such a beautiful _____ in my life.,"['I have never seen such a beautiful _____ in my life.', 'b. Image [1]']"
+69,1680,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ of the Sun sets in the west.,"['The _____ of the Sun sets in the west.', 'The answer is b. Image [1]']"
+70,1681,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,a. Image [0],['a. Image [0]']
+71,1682,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The clouds in the morning were_________.,"['The clouds in the morning were_________.', 'a. Image [0]']"
+72,1683,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The Cat in the Hat is a book by Dr. Seuss about a ,"['The Cat in the Hat is a book by Dr. Seuss about a ', 'a. cat', 'b. hat']"
+73,1684,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] shows a mangrove forest in Africa. Image [1] is of a pair of sandals.,"['Image [0] shows a mangrove forest in Africa. Image [1] is of a pair of sandals.', 'a. Image [0]']"
+74,1685,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The ______ in the passage indicates that the author is likely to be referring to Image [0].,['The ______ in the passage indicates that the author is likely to be referring to Image [0].']
+75,1686,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The two images below show a _____.,"['The two images below show a _____.', 'a.Image [0]', 'b.Image [1]', 'a.Image [0]']"
+76,1687,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,I'm not sure if the question is asking for an answer choice or not.,"[""I'm not sure if the question is asking for an answer choice or not.""]"
+77,1688,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The stage______ with curtains and the sound of a theatre organ playing.,"['The stage______ with curtains and the sound of a theatre organ playing.', 'a. Image [0]', 'b. Image [1]']"
+78,1689,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The question is not clear.,['The question is not clear.']
+79,1690,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+80,1691,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The __blank__ is a photograph of a soccer ball on a grassy field.,"['The __blank__ is a photograph of a soccer ball on a grassy field.', 'b. Image [1]']"
+81,1692,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The _____ is a large, dark-colored cat with black spots.","['The _____ is a large, dark-colored cat with black spots.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+82,1693,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of a _____ is projected onto the retina.,"['The image of a _____ is projected onto the retina.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+83,1694,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ is an item of furniture used for sleeping or relaxing.,"['The _____ is an item of furniture used for sleeping or relaxing.', 'The answer is b.']"
+84,1695,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,b. Image [1],['b. Image [1]']
+85,1696,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The payment for the ticket has been confirmed. Here is your ____________.,"['The payment for the ticket has been confirmed. Here is your ____________.', 'Answer: b']"
+86,1697,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The fill-in-the-blank is ""hermit crab.""","['The fill-in-the-blank is ""hermit crab.""', 'The answer is b. Image [1]']"
+87,1698,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank in the passage is Image [1].,['The image that can fill-in-the-blank in the passage is Image [1].']
+88,1699,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] is a picture of a water droplet. It is most likely that the author is referring to this image when they say ""Image [0].""","['Image [0] is a picture of a water droplet. It is most likely that the author is referring to this image when they say ""Image [0].""']"
+89,1700,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The animal in the image is a _____.,"['The animal in the image is a _____.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+90,1701,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can provide in the passage is image [1].,['The image that can provide in the passage is image [1].']
+91,1702,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0]: A person is holding a light-colored object.,"['Image [0]: A person is holding a light-colored object.', 'Image [1]: A person is standing in front of a light-colored background.', 'The correct answer is b.']"
+92,1703,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+93,1704,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is a picture of a river with a bridge. Image [1] is a picture of a person walking on a path.,"['Image [0] is a picture of a river with a bridge. Image [1] is a picture of a person walking on a path.', 'b. Image [1]']"
+94,1705,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The bird in Image [ ] is a kookaburra.,"['The bird in Image [ ] is a kookaburra.', 'a. Image [0]', 'b. Image [1]']"
+95,1706,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank in the passage is Image [1].,['The image that can fill-in-the-blank in the passage is Image [1].']
+96,1707,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ____ on the right is an example of a still life painting.,"['The ____ on the right is an example of a still life painting.', 'b. Image [1]']"
+97,1708,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [1],['Image [1]']
+98,1709,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Assuming the answer choices are the two images provided, the correct answer would be b, Image [1].","['Assuming the answer choices are the two images provided, the correct answer would be b, Image [1].']"
+99,1710,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank provide in the passage is Image [0].,['The image that can fill-in-the-blank provide in the passage is Image [0].']
+100,1711,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank provide in the passage is Image [1].,['The image that can fill-in-the-blank provide in the passage is Image [1].']
+101,1712,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The term______is used to refer to an image that is created through digital means.,"['The term______is used to refer to an image that is created through digital means.', 'a. Image [0]', 'b. Image [1]']"
+102,1713,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is b.,['The image that can fill-in-the-blank is b.']
+103,1714,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"According to the passage, which of the following images can provide the required filling-in-the-blank?","['According to the passage, which of the following images can provide the required filling-in-the-blank?', 'a. Image [0]']"
+104,1715,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ of the sun was setting behind the mountain.,"['The _____ of the sun was setting behind the mountain.', 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+105,1716,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The tornado in Figure 1 ______.,"['The tornado in Figure 1 ______.', 'Image [1]']"
+106,1717,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The Andean condor's diet consists of primarily carrion. The birds spend most of the day scavenging for food, and will travel up to 160 kilometers a day in search of a meal. When they find food, they will use their sharp claws and beak to _____.","[""The Andean condor's diet consists of primarily carrion. The birds spend most of the day scavenging for food, and will travel up to 160 kilometers a day in search of a meal. When they find food, they will use their sharp claws and beak to _____."", 'b. Image [1]']"
+107,1718,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ is an example of an expert system designed to help decision-makers.,"['The _____ is an example of an expert system designed to help decision-makers.', 'The image on the left (Image [0]) is an example of an expert system designed to help decision-makers.']"
+108,1719,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The------attorney will be able to review your case and give you the best course of action.,"['The------attorney will be able to review your case and give you the best course of action.', 'a. Image [0]', 'b. Image [1]']"
+109,1720,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of the man with his arm in the sling will b.,['The image of the man with his arm in the sling will b.']
+110,1721,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The photograph was taken with a long ____ lens.,"['The photograph was taken with a long ____ lens.', 'a. Image [0]', 'b. Image [1]']"
+111,1722,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank in the passage is Image [1].,['The image that can fill-in-the-blank in the passage is Image [1].']
+112,1723,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+113,1724,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image in the center of the painting is a young woman with a _____ expression on her face.,"['The image in the center of the painting is a young woman with a _____ expression on her face.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+114,1725,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"According to the National Weather Service, a _____ can form when a cold front collides with a warm front.","['According to the National Weather Service, a _____ can form when a cold front collides with a warm front.', 'a. Image [0]']"
+115,1726,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] is a doorknob, and image [1] is a cup.","['Image [0] is a doorknob, and image [1] is a cup.']"
+116,1727,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ____ is one of the most photographed and recognizable attractions in the city.,"['The ____ is one of the most photographed and recognizable attractions in the city.', 'a. Image [0] ', 'b. Image [1]', 'Answer: b. Image [1]']"
+117,1728,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the context of the passage, the correct answer is b. Image [1].","['Based on the context of the passage, the correct answer is b. Image [1].']"
+118,1729,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ is a painting by Vincent van Gogh.,"['The _____ is a painting by Vincent van Gogh.', 'b. Image [1]']"
+119,1730,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,a. Image [0],['a. Image [0]']
+120,1731,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the information given in the passage, the answer is b.","['Based on the information given in the passage, the answer is b.']"
+121,1732,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The creature in Image [ ] has a long, furry tail.","['The creature in Image [ ] has a long, furry tail.', 'a. Image [0]']"
+122,1733,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The French Impressionists were masters of _____.,"['The French Impressionists were masters of _____.', 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+123,1734,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Based on the image, the correct answer would be b. Image [1]","['Based on the image, the correct answer would be b. Image [1]']"
+124,1735,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The best way to appreciate the _____ of the Grand Canyon is from the air.,"['The best way to appreciate the _____ of the Grand Canyon is from the air.', 'b. Image [1]']"
+125,1736,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ in this picture is wearing a blue shirt.,"['The _____ in this picture is wearing a blue shirt.', 'a. child']"
+126,1737,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Question: b. Image [1],['Question: b. Image [1]']
+127,1738,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [1].,['Image [1].']
+128,1739,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ in this picture is very large.,"['The _____ in this picture is very large.', 'b. Image [1]']"
+129,1740,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The new moon of August will be visible in the night sky on the __________.,"['The new moon of August will be visible in the night sky on the __________.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+130,1741,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The child in the image is ______.,"['The child in the image is ______.', 'b. Image [1]']"
+131,1742,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ depicts a young man surrounded by his friends and music.,"['The _____ depicts a young man surrounded by his friends and music.', 'Image [0]']"
+132,1743,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _______ is an American car that was produced by Chrysler from 1990 to 2001.,"['The _______ is an American car that was produced by Chrysler from 1990 to 2001.', 'Image [0]', 'The Chrysler Concorde is an American car that was produced by Chrysler from 1990 to 2001.']"
+133,1744,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Which one of the following pictures best represents the minimum wage per hour in various states in America?,"['Which one of the following pictures best represents the minimum wage per hour in various states in America?', 'b. Image [1]']"
+134,1745,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ show the progress of different types of transportation over time.,"['The _____ show the progress of different types of transportation over time.', 'Image [0]']"
+135,1746,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,b. Image [1],['b. Image [1]']
+136,1747,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Select an image from the following choices that can fill-in-the-blank provide in the passage. ,"['Select an image from the following choices that can fill-in-the-blank provide in the passage. ', 'Specify the correct answer by choosing one of a or b:', 'b. Image [1]']"
+137,1748,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of a _____ is captured by a camera.,"['The image of a _____ is captured by a camera.', 'The image of a _____ is captured by a camera.', 'a. Image [0]', 'b. Image [1]']"
+138,1749,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The Image selected should be Image 1 because it is the only image that contains a guitar.,['The Image selected should be Image 1 because it is the only image that contains a guitar.']
+139,1750,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The valley was incredibly green and lush, a____","['The valley was incredibly green and lush, a____', 'The valley was incredibly green and lush, a sight that was breathtaking.', 'a. Image [0]']"
+140,1751,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The photo below is of my Aunt _____ and her dog.,"['The photo below is of my Aunt _____ and her dog.', 'a. Image [0]', 'b. Image [1]']"
+141,1752,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,demented,"['demented', 'a. Image [0]']"
+142,1753,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The passage mentions that the _____ is to the right of the mouth.,"['The passage mentions that the _____ is to the right of the mouth.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+143,1754,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The______of a star arises from the translation of its photosphere with respect to an observer.,"['The______of a star arises from the translation of its photosphere with respect to an observer.', 'Answer: b']"
+144,1755,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _______ on the horizon was a welcome sight for the shipwrecked sailors.,"['The _______ on the horizon was a welcome sight for the shipwrecked sailors.', 'The image on the horizon was a welcome sight for the shipwrecked sailors.']"
+145,1756,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"],[1,1","['],[1,1', 'The _____ went viral on social media, with users calling it ""adorable"" and ""the cutest thing ever.""', 'a. Image [0]']"
+146,1757,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+147,1758,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,TheImage [0]is of a dog and the other image [1]is of a cat.,"['TheImage [0]is of a dog and the other image [1]is of a cat.', 'a.']"
+148,1759,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] is a picture of a big, orange ship with white sails. Image [1] is a picture of a small, red ship with black sails.","['Image [0] is a picture of a big, orange ship with white sails. Image [1] is a picture of a small, red ship with black sails.', 'The correct answer is: b. Image [1]']"
+149,1760,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The clouds in the sky were so fluffy and white, they looked like giant pieces of _____.","['The clouds in the sky were so fluffy and white, they looked like giant pieces of _____.', 'The clouds in the sky were so fluffy and white, they looked like giant pieces of cotton.', 'b. Image [1]']"
+150,1761,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The black and white image of a dog barking was taken in the year __.,"['The black and white image of a dog barking was taken in the year __.', 'a. Image [0]', 'b. Image [1]']"
+151,1762,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] leaves a wide central stripe of unburned wood, while Image [1] is more ________.","['Image [0] leaves a wide central stripe of unburned wood, while Image [1] is more ________.', 'b. Image [1]']"
+152,1763,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ in the image is blurred.,"['The _____ in the image is blurred.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+153,1764,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The bird in ____ is a swallow.,"['The bird in ____ is a swallow.', 'Image [0]']"
+154,1765,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+155,1766,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The first image in the passage is a picture of a ,"['The first image in the passage is a picture of a ', 'a. cat', 'b. dog', 'b. dog']"
+156,1767,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Looking at the given choices, it is evident that only Image 1 can fill in the blank since it is the only image that includes the Eiffel Tower. Therefore, the correct answer is b.","['Looking at the given choices, it is evident that only Image 1 can fill in the blank since it is the only image that includes the Eiffel Tower. Therefore, the correct answer is b.']"
+157,1768,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The three images provided in the question stem show a handbag, a pair of shoes, and a dress. The passage mentions that people like to dress up and look their best on special occasions. The best image to fill in the blank is Image [1], which shows a dress.","['The three images provided in the question stem show a handbag, a pair of shoes, and a dress. The passage mentions that people like to dress up and look their best on special occasions. The best image to fill in the blank is Image [1], which shows a dress.']"
+158,1769,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The map below displays the results of a survey in which 100 people were asked to choose their favorite color out of four different choices.,"['The map below displays the results of a survey in which 100 people were asked to choose their favorite color out of four different choices.', 'b. Image [1]']"
+159,1770,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The expression on _____ is one of contentment.,"['The expression on _____ is one of contentment.', 'Image [0] is a picture of a smiling woman. Image [1] is a picture of a frowning man.', 'The expression on Image [0] is one of contentment.']"
+160,1771,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0]: A herd of deer in a forest,"['Image [0]: A herd of deer in a forest', 'Image [1]: A group of lions on a Savanna', 'b. Image [1]']"
+161,1772,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The _____ depicts a man with a long, white beard and a staff.","['The _____ depicts a man with a long, white beard and a staff.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+162,1773,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is correct.,['Image [0] is correct.']
+163,1774,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The blackest material in the world is Vantablack. It is made of carbon nanotubes, and when applied to surfaces, it can absorb ","['The blackest material in the world is Vantablack. It is made of carbon nanotubes, and when applied to surfaces, it can absorb ', 'a. Image [1]']"
+164,1775,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+165,1776,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ability to see colors is ______.,"['The ability to see colors is ______.', 'b. Image [1]']"
+166,1777,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The eyes of an owl are _____.,"['The eyes of an owl are _____.', 'The answer is b.']"
+167,1778,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Question: Which image provides the best example of the author's description of the effects of echo?,"[""Question: Which image provides the best example of the author's description of the effects of echo?"", 'Answer: b. Image [1]']"
+168,1779,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The following two images ,"['The following two images ', 'a. Image [0]']"
+169,1780,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,passage: ,"['passage: ', 'Before cosmetics can be sold to the public, they are put through a variety of tests to ensure that they are safe for use. One such test is the Draize test, named for its creator, Jacob Draize. In this test, _____ is applied to the eye of an animal, usually a rabbit, to observe the effects.', 'Image [0]: https://i.imgur.com/4ix52UQ.png', 'Image [1]: https://i.imgur.com/TaY8Y7D.jpg', 'The correct answer is Image [0], as it depicts a Draize test being conducted on a rabbit.']"
+170,1781,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+171,1782,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The images provided are of a pizza and a burger.,"['The images provided are of a pizza and a burger.', 'b. Image [1]']"
+172,1783,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The three men in the photo are sitting on the front porch of a cabin. b,['The three men in the photo are sitting on the front porch of a cabin. b']
+173,1784,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The _____ is a species of cat that is found in Africa, Europe, and Asia.","['The _____ is a species of cat that is found in Africa, Europe, and Asia.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+174,1785,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Text: ,"['Text: ', 'In the center of the image is a ____.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+175,1786,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0],"['Image [0]', 'The correct answer is Image [0].']"
+176,1787,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank in the passage is image [0].,['The image that can fill-in-the-blank in the passage is image [0].']
+177,1788,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ is an image of a black sheep.,"['The _____ is an image of a black sheep.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+178,1789,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The two images below are of different types of _____.,"['The two images below are of different types of _____.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+179,1790,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The evidence is overwhelming that the core of _____ is still in one piece.,"['The evidence is overwhelming that the core of _____ is still in one piece.', 'The evidence is overwhelming that the core of Image [0] is still in one piece.']"
+180,1791,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ is considered one of the most significant paintings of the 20th century.,"['The _____ is considered one of the most significant paintings of the 20th century.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+181,1792,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The___________ is composed of three parts: the bulbous root, the stalk, and the leaves.","['The___________ is composed of three parts: the bulbous root, the stalk, and the leaves.', 'The___________ is composed of three parts: the bulbous root, the stalk, and the leaves.', 'a. Image [0]']"
+182,1793,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ on the door were in the shape of an angel.,"['The _____ on the door were in the shape of an angel.', 'The carvings on the door were in the shape of an angel.']"
+183,1794,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Image [0] and Image [1] both fit the description in the passage, so either answer could be considered correct.","['Image [0] and Image [1] both fit the description in the passage, so either answer could be considered correct.']"
+184,1795,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank provide in the passage is Image [1].,['The image that can fill-in-the-blank provide in the passage is Image [1].']
+185,1796,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ is an image of a ladybug crawling on a flower petal.,"['The _____ is an image of a ladybug crawling on a flower petal.', 'The Image [0] is an image of a ladybug crawling on a flower petal.']"
+186,1797,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The correct answer is Image [0].,['The correct answer is Image [0].']
+187,1798,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ was constructed in the early 1900s.,"['The _____ was constructed in the early 1900s.', 'Image [0] shows a group of people in front of a building. Image [1] shows a close-up of a sign that reads ""The Ritz-Carlton, Boston.""', 'The answer is b.']"
+188,1799,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The vast majority of the world's Muslims are not Arab. In fact, only about ____ percent of Muslims are Arabs.","[""The vast majority of the world's Muslims are not Arab. In fact, only about ____ percent of Muslims are Arabs."", 'b. Image [1]']"
+189,1800,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ____ was taken at the wedding of my parents.,"['The ____ was taken at the wedding of my parents.', 'The image [1] was taken at the wedding of my parents.']"
+190,1801,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] depicts a tall mountain with a blue sky in the background.  ,"['Image [0] depicts a tall mountain with a blue sky in the background.  ', 'a.']"
+191,1802,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] represents a sink while Image [1] represents a nightstand. The passage is requesting an image of a sink, so the answer isImage [0].","['Image [0] represents a sink while Image [1] represents a nightstand. The passage is requesting an image of a sink, so the answer isImage [0].']"
+192,1803,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ on the door was half-open.,"['The _____ on the door was half-open.', 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+193,1804,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The moon is a natural satellite of the earth, orbiting ____ at an average distance of 384,400 kilometers.","['The moon is a natural satellite of the earth, orbiting ____ at an average distance of 384,400 kilometers.', 'b. Image [1]']"
+194,1805,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [1],['Image [1]']
+195,1806,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ in this picture is very tall.,"['The _____ in this picture is very tall.', 'Image [0]']"
+196,1807,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] shows a crowd of people walking on a busy street. Image [1] shows a close-up of a person's face.,"[""Image [0] shows a crowd of people walking on a busy street. Image [1] shows a close-up of a person's face."", 'b. Image [1]']"
+197,1808,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+198,1809,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The Tlingit and Haida tribes of Alaska have a rich culture and longstanding traditions. One such tradition is the carving of totem poles, which are ___","['The Tlingit and Haida tribes of Alaska have a rich culture and longstanding traditions. One such tradition is the carving of totem poles, which are ___', 'The correct answer is b, Image [1].']"
+199,1810,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,This worksheet is brought to you by www.ENGLISH-4U.com,"['This worksheet is brought to you by www.ENGLISH-4U.com', 'The _____ in the picture is wearing a white dress and holding a blue umbrella.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+200,1811,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The author describes the images as ""_____""","['The author describes the images as ""_____""', 'a. serene and calming ', 'b. sad and dreary', 'b. sad and dreary']"
+201,1812,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The bird in the picture is a ___________.,"['The bird in the picture is a ___________.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+202,1813,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,a. Image [0],"['a. Image [0]', 'b. Image [1]']"
+203,1814,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The fill-in-the-blank in the passage is ""The __ numbers that __ the square root of __ are __ .""","['The fill-in-the-blank in the passage is ""The __ numbers that __ the square root of __ are __ .""', 'The correct answer is Image [1].']"
+204,1815,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The earliest known examples of relief printing date back to ___ centuries ago.,"['The earliest known examples of relief printing date back to ___ centuries ago.', 'The earliest known examples of relief printing date back to b. Image [1] centuries ago.']"
+205,1816,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the given information, the correct answer is Image [0].","['Based on the given information, the correct answer is Image [0].']"
+206,1817,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The rock features shown in the photograph above are good examples of ____.,"['The rock features shown in the photograph above are good examples of ____.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+207,1818,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+208,1819,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+209,1820,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+210,1821,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The book's ______ illustrations are interesting and provide a lot of visual information.,"[""The book's ______ illustrations are interesting and provide a lot of visual information."", 'a. Image [0]', 'b. Image [1]']"
+211,1822,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The frozen food aisle in the grocery store is full of options for those who want a quick and easy meal. For those who want something a bit more ______, there are also many frozen food options.","['The frozen food aisle in the grocery store is full of options for those who want a quick and easy meal. For those who want something a bit more ______, there are also many frozen food options.', 'b. Image [1]']"
+212,1823,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The horses looked very tired, ____.","['The horses looked very tired, ____.', 'a. Image [0]', 'b. Image [1]']"
+213,1824,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [1],['Image [1]']
+214,1825,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The katydid is a small, winged creature that is commonly found in North America. Its name is derived from the sound that it makes, which is said to resemble the word ""catty-did.""","['The katydid is a small, winged creature that is commonly found in North America. Its name is derived from the sound that it makes, which is said to resemble the word ""catty-did.""', 'The katydid is a small, winged creature that is commonly found in North America. Its name is derived from the sound that it makes, which is said to resemble the word ""catty-did.""', 'Image [0]']"
+215,1826,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0],"['Image [0]', ""The foraminifera didn't just ____ the sea floor; their remains also sank to the depths, where they became part of the ooze that makes up the chunkier bits of sediment."", 'a. blank ', 'b. provide']"
+216,1827,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ is an image of a spiral galaxy.,"['The _____ is an image of a spiral galaxy.', 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+217,1828,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The image on the left is of a large, dark-colored bird with a long, curved bill. The image on the right is of a small, brown-colored bird with a short, straight bill.","['The image on the left is of a large, dark-colored bird with a long, curved bill. The image on the right is of a small, brown-colored bird with a short, straight bill.', 'The image on the left is of a large, dark-colored bird with a long, curved bill. The image on the right is of a small, brown-colored bird with a short, straight bill.', 'a. Image [0]']"
+218,1829,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The group of friends were sitting around a bonfire, roasting marshmallows.","['The group of friends were sitting around a bonfire, roasting marshmallows.', 'Image [0]']"
+219,1830,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+220,1831,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The Image on the left shows the _______.,"['The Image on the left shows the _______.', 'a. Image [0]', 'b. Image [1]', 'The image on the left shows the moon.']"
+221,1832,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] shows a girl with a book. Image [1] shows a boy with a soccer ball.,"['Image [0] shows a girl with a book. Image [1] shows a boy with a soccer ball.', 'The answer is a. Image [0] shows a girl with a book.']"
+222,1833,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The climate in ______ tends to be arid.,"['The climate in ______ tends to be arid.', 'b']"
+223,1834,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The F-16 is a single-engine fighter aircraft. The engine provides power for the aircraft through a series of ______.,"['The F-16 is a single-engine fighter aircraft. The engine provides power for the aircraft through a series of ______.', 'b. Image [1]']"
+224,1835,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is a. Image [0],['The correct answer is a. Image [0]']
+225,1836,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ____ in the picture is not very happy.,"['The ____ in the picture is not very happy.', 'The face in the picture is not very happy.']"
+226,1837,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+227,1838,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0],"['Image [0]', 'The image depicts a close-up of a human eye.']"
+228,1839,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"If you want to take a trip down memory lane, you should go to _____________.","['If you want to take a trip down memory lane, you should go to _____________.', 'b. Image [1]']"
+229,1840,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Athens is the capital of the Hellenic Republic and the largest city in Greece. It is one of the world's oldest cities, with a recorded history spanning over three thousand years. The country's busiest airport, ""Eleftherios Venizelos International Airport"", is also located there.","['Athens is the capital of the Hellenic Republic and the largest city in Greece. It is one of the world\'s oldest cities, with a recorded history spanning over three thousand years. The country\'s busiest airport, ""Eleftherios Venizelos International Airport"", is also located there.', 'b. Image [1]']"
+230,1841,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The acropolis, located near the center of the city, was the site of important religious and political ceremonies.","['The acropolis, located near the center of the city, was the site of important religious and political ceremonies.', 'Image [0]']"
+231,1842,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of _____ is the most commonly used emoji.,"['The image of _____ is the most commonly used emoji.', 'a. Image [0]']"
+232,1843,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The area of high pressure is associated with sinking air, which ______.","['The area of high pressure is associated with sinking air, which ______.', 'b. Image [1]']"
+233,1844,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is of a rock face with a small hole near the bottom. Image [1] is of a small plant with green leaves.,"['Image [0] is of a rock face with a small hole near the bottom. Image [1] is of a small plant with green leaves.', 'a. Image [0]']"
+234,1845,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The Brain.,"['The Brain.', 'The human brain is the most special and _________ organ in the body.', 'a. Image [0]']"
+235,1846,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The art of origami began in Japan during the _____ period.,"['The art of origami began in Japan during the _____ period.', 'a. Edo', 'b. Heian']"
+236,1847,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The artist known as Banksy is thought to be from Bristol, England. His satirical street art and subversive ephemera incorporate themes of ______ and social responsibility.","['The artist known as Banksy is thought to be from Bristol, England. His satirical street art and subversive ephemera incorporate themes of ______ and social responsibility.', 'Answer:', 'b. Image [1]']"
+237,1848,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The scale bar in image [ ] represents 50 micrometers.,"['The scale bar in image [ ] represents 50 micrometers.', 'a. Image [0]', 'b. Image [1]']"
+238,1849,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The tumor is in the left lobe of the liver and is surrounded by areas of necrosis.,"['The tumor is in the left lobe of the liver and is surrounded by areas of necrosis.', 'a. Image [0]']"
+239,1850,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,b. Image [1],['b. Image [1]']
+240,1851,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"While the _____ seem to be floating serenely before a beautiful landscape, a close inspection reveals that the images are infiltrated by violence.","['While the _____ seem to be floating serenely before a beautiful landscape, a close inspection reveals that the images are infiltrated by violence.', 'The correct answer is b. Image [1]']"
+241,1852,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The institution offers many degree options, including a Master of Business Administration ","['The institution offers many degree options, including a Master of Business Administration ', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+242,1853,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The selected image is Image [0].,['The selected image is Image [0].']
+243,1854,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The choice that most closely resembles the fill-in-the-blank is Image [0].,['The choice that most closely resembles the fill-in-the-blank is Image [0].']
+244,1855,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The new moon waxes until ___.,"['The new moon waxes until ___.', 'The correct answer is b. Image [1]']"
+245,1856,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b.,['The answer is b.']
+246,1857,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ (Image [1]) is a type of plant that can be found in the Amazon rainforest.,"['The _____ (Image [1]) is a type of plant that can be found in the Amazon rainforest.', 'b. Image [1]']"
+247,1858,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The answer is b. Image [1] can fill-in-the-blank provide in the passage.,['The answer is b. Image [1] can fill-in-the-blank provide in the passage.']
+248,1859,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"According to researchers, the images that are most memorable to people contain ______________.","['According to researchers, the images that are most memorable to people contain ______________.', 'An image that is most memorable to people contains people.']"
+249,1860,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The creature in the first image is a _____.,"['The creature in the first image is a _____.', 'The creature in the first image is a rabbit.']"
+250,1861,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The data in Image [0] indicates that there has been a recent increase in the number of _____.,"['The data in Image [0] indicates that there has been a recent increase in the number of _____.', 'The data in Image [0] indicates that there has been a recent increase in the number of protesters.']"
+251,1862,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b. Image [1],['The answer is b. Image [1]']
+252,1863,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,image [0],['image [0]']
+253,1864,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ on the visa must be signed by the applicant.,"['The _____ on the visa must be signed by the applicant.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+254,1865,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct choice.,['Image [0] is the correct choice.']
+255,1866,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The _____ is a popular image in Mexico, and can be seen in a lot of artwork.","['The _____ is a popular image in Mexico, and can be seen in a lot of artwork.', 'The _____ is a popular image in Mexico, and can be seen in a lot of artwork.', 'a. Image [0]']"
+256,1867,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"According to the North American Bluebird Society, the best way to entice these birds to your yard is to provide the following: ","['According to the North American Bluebird Society, the best way to entice these birds to your yard is to provide the following: ', 'Image [0]: A drawing of a bluebird on a piece of paper', 'Image [1]: A bluebird sitting on a branch', 'b. Image [1]']"
+257,1868,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The bird in the _____ is a robin.,"['The bird in the _____ is a robin.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+258,1869,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+259,1870,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The best way to quickly_______is through Image [ ],"['The best way to quickly_______is through Image [ ]', 'The best way to quickly improve your appearance is through Image [0]']"
+260,1871,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+261,1872,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of a _____ in a dream often symbolizes the qualities that the dreamer needs to work on within themselves.,"['The image of a _____ in a dream often symbolizes the qualities that the dreamer needs to work on within themselves.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+262,1873,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The blackbird is a species of true thrush. The adult male has black feathers and yellow eyes. It can also sing a beautiful song.,"['The blackbird is a species of true thrush. The adult male has black feathers and yellow eyes. It can also sing a beautiful song.', 'a. Image [0]']"
+263,1874,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+264,1875,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,a.,"['a.', 'Image [0]']"
+265,1876,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+266,1877,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of the landscape at sunset is _____.,"['The image of the landscape at sunset is _____.', 'The image of the landscape at sunset is b.']"
+267,1878,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The moon orbits around Earth at an average distance of _____.,"['The moon orbits around Earth at an average distance of _____.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+268,1879,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The black cat in the image is drinking milk out of a bowl.,"['The black cat in the image is drinking milk out of a bowl.', 'The correct answer is b, Image [1].']"
+269,1880,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] is the correct answer because it is of a cat which is an example of an animal that has fur.,['Image [0] is the correct answer because it is of a cat which is an example of an animal that has fur.']
+270,1881,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The monkey is using a ______ to get the bananas.,"['The monkey is using a ______ to get the bananas.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+271,1882,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [1].,['The image that can fill-in-the-blank is Image [1].']
+272,1883,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [1] can fill-in-the-blank provide in the passage.,['Image [1] can fill-in-the-blank provide in the passage.']
+273,1884,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Based on the given information, the correct answer is Image [0].","['Based on the given information, the correct answer is Image [0].']"
+274,1885,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The fill-in-the-blank requires an image with a cellular phone in it.,"['The fill-in-the-blank requires an image with a cellular phone in it.', 'The correct answer is b. Image [1]']"
+275,1886,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Image [0] is of a door with a sign that says ""Do Not Disturb."" Image [1] is of a person in a business suit with a suitcase walking through an airport.","['Image [0] is of a door with a sign that says ""Do Not Disturb."" Image [1] is of a person in a business suit with a suitcase walking through an airport.', 'The correct answer is a. Image [0]']"
+276,1887,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The vast majority of people will never be able to_______.,"['The vast majority of people will never be able to_______.', 'b. Image [1]']"
+277,1888,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Based on the context of the passage, the best answer would be Image [1].","['Based on the context of the passage, the best answer would be Image [1].']"
+278,1889,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"If the answer is b, type ""b."" If the answer is a, type ""a.""","['If the answer is b, type ""b."" If the answer is a, type ""a.""', 'The Answer is ""a.""']"
+279,1890,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The ____ on the bee's back is used to store pollen.,"[""The ____ on the bee's back is used to store pollen."", 'a. Image [0]', 'b. Image [1]', 'Image [0]']"
+280,1891,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank provide in the passage is Image [1].,['The image that can fill-in-the-blank provide in the passage is Image [1].']
+281,1892,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+282,1893,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The art style of _______ strikes a careful balance between graphical simplicity and utility.,"['The art style of _______ strikes a careful balance between graphical simplicity and utility.', 'The art style of Image [0] strikes a careful balance between graphical simplicity and utility.']"
+283,1894,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ depicts a mother and child spending time together.,"['The _____ depicts a mother and child spending time together.', 'The image that most closely depicts a mother and child spending time together is Image [1].']"
+284,1895,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank in the passage is Image [0].,['The image that can fill-in-the-blank in the passage is Image [0].']
+285,1896,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Hesperostipa ____ is a species of spear grass.,"['Hesperostipa ____ is a species of spear grass.', 'b. Image [1]']"
+286,1897,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+287,1898,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank in the passage is Image [1].,['The image that can fill-in-the-blank in the passage is Image [1].']
+288,1899,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,What animal is this?,"['What animal is this?', 'Image [0] is of a cheetah and Image [1] is of a leopard. The correct answer is Image [0].']"
+289,1900,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The sphinx is a mythical creature with the body of a lion and the head of a _____.,"['The sphinx is a mythical creature with the body of a lion and the head of a _____.', 'a. Image [0]']"
+290,1901,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank provide in the passage is image [0].,['The image that can fill-in-the-blank provide in the passage is image [0].']
+291,1902,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,b. Image [1],['b. Image [1]']
+292,1903,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [1].,['The image that can fill-in-the-blank is Image [1].']
+293,1904,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The figure below shows two images of a specific location on Earth. Image [0] was captured during the _____. Image [1] was captured during the _____.,"['The figure below shows two images of a specific location on Earth. Image [0] was captured during the _____. Image [1] was captured during the _____.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+294,1905,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The image on the left shows a(n) ____________, while the image on the right shows a(n) ____________.","['The image on the left shows a(n) ____________, while the image on the right shows a(n) ____________.', 'A.House  B. Mansion', 'B. Mansion']"
+295,1906,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The rock _______ was created as a result of a volcanic eruption.,"['The rock _______ was created as a result of a volcanic eruption.', 'a. Image [0]']"
+296,1907,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is a. Image [0],['The correct answer is a. Image [0]']
+297,1908,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The smallest mammal in the world is the ____________.,"['The smallest mammal in the world is the ____________.', 'a. Image [0]', 'b. Image [1]', 'The smallest mammal in the world is the ____________.', 'a. Image [0]']"
+298,1909,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image of the _____ shows a bird in flight.,"['The image of the _____ shows a bird in flight.', 'a. Image [0]', 'b. Image [1]', 'The correct answer is Image [0].']"
+299,1910,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image selected should be from Image 1.,['The image selected should be from Image 1.']
+300,1911,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The scientists were very excited to find ____________.,"['The scientists were very excited to find ____________.', 'Image [0] shows a scientist in a lab looking at a beaker. Image [1] shows a scientist looking at a computer screen.', 'b. Image [1]']"
+301,1912,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+302,1913,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ is a plant that produces the drug MDMA.,"['The _____ is a plant that produces the drug MDMA.', 'b. Image [1]']"
+303,1914,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is the correct answer.,['Image [0] is the correct answer.']
+304,1915,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ near my house is very pretty.,"['The _____ near my house is very pretty.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+305,1916,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image on the left depicts a _____.,"['The image on the left depicts a _____.', 'The image on the left depicts a mountain.']"
+306,1917,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is Image [0].,['The correct answer is Image [0].']
+307,1918,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The first image is of a _____.,"['The first image is of a _____.', 'a. Image [0]']"
+308,1919,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of the _____ is seared into my mind.,"['The image of the _____ is seared into my mind.', 'The image of the woman is seared into my mind.']"
+309,1920,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of the _____ is a photograph of a man with a beard.,"['The image of the _____ is a photograph of a man with a beard.', 'a. Image [0]', 'b. Image [1]', 'a. Image [0]']"
+310,1921,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,a. Image [0],"['a. Image [0]', 'b. Image [1]']"
+311,1922,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] is of a laptop. Image [1] is of a girl.,"['Image [0] is of a laptop. Image [1] is of a girl.', 'The answer is b. Image [1] is of a girl.']"
+312,1923,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _______ in this image is an example of a natural feature that is shaped by water.,"['The _______ in this image is an example of a natural feature that is shaped by water.', 'Image [0] is a picture of the Grand Canyon and Image [1] is a picture of a river.', 'The _______ in this image is an example of a natural feature that is shaped by water.', 'b. Image [1]']"
+313,1924,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,TheAnswer is: b. Image [1],['TheAnswer is: b. Image [1]']
+314,1925,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank provide in the passage is Image [0].,['The image that can fill-in-the-blank provide in the passage is Image [0].']
+315,1926,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+316,1927,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The clue in the passage is ""a naturally occurring rock formation."" This clue narrows down the possible answer choices to Image [1] because only Image [1] shows a rock formation.","['The clue in the passage is ""a naturally occurring rock formation."" This clue narrows down the possible answer choices to Image [1] because only Image [1] shows a rock formation.']"
+317,1928,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank in the passage is Image [0].,['The image that can fill-in-the-blank in the passage is Image [0].']
+318,1929,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The word ""provide"" is a verb, so the answer must be an image that is doing the verb ""provide."" Based on this, the answer must be ""Image [1].""","['The word ""provide"" is a verb, so the answer must be an image that is doing the verb ""provide."" Based on this, the answer must be ""Image [1].""']"
+319,1930,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is Image [0] because it is a picture of a book.,['The answer is Image [0] because it is a picture of a book.']
+320,1931,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Which of the following images is a schematic of the molecular structure of water?,"['Which of the following images is a schematic of the molecular structure of water?', 'b. Image [1]']"
+321,1932,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,I'm not sure if I should trust this person. They seem really ____.,"[""I'm not sure if I should trust this person. They seem really ____."", 'a. Image [0]', 'b. Image [1]', ""I'm not sure if I should trust this person. They seem really ____."", 'Image [1]']"
+322,1933,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank is Image [1].,['The image that can fill-in-the-blank is Image [1].']
+323,1934,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+324,1935,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image that can fill-in-the-blank is Image [0].,['The image that can fill-in-the-blank is Image [0].']
+325,1936,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image of the _____ in the passage is most likely _____.,"['The image of the _____ in the passage is most likely _____.', 'blank; b']"
+326,1937,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ is a common species of freshwater fish.,"['The _____ is a common species of freshwater fish.', 'The correct answer is b.']"
+327,1938,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The student is performing a(n) __ experiment.,"['The student is performing a(n) __ experiment.', 'b. Image [1]']"
+328,1939,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"Image [0] represents a map of North and South America, while image [1] represents a map of Europe, Africa, and Asia.","['Image [0] represents a map of North and South America, while image [1] represents a map of Europe, Africa, and Asia.', 'b. Image [1]']"
+329,1940,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The mouthwatering smell of frying onions and garlic ,"['The mouthwatering smell of frying onions and garlic ', 'wafted through the kitchen, making my stomach growl.', 'a. Image [0]', 'b. Image [1]']"
+330,1941,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is a.,['The answer is a.']
+331,1942,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The skylight was chosen to maximize daylight_____.,"['The skylight was chosen to maximize daylight_____.', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+332,1943,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"Image [0] features a bowl of soup, while image [1] features a plate of salad.","['Image [0] features a bowl of soup, while image [1] features a plate of salad.', 'The answer is b.']"
+333,1944,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The creatures in image [0] have six legs, whereas the ones in image [1] have eight.","['The creatures in image [0] have six legs, whereas the ones in image [1] have eight.', 'a. Image [0]']"
+334,1945,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The _____ full of books are inspiring.,"['The _____ full of books are inspiring.', 'a. Image [0]']"
+335,1946,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The image that can fill-in-the-blank to provide in the passage is Image [1].,['The image that can fill-in-the-blank to provide in the passage is Image [1].']
+336,1947,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Which of the following images do you think shows the rings of Saturn most clearly?,"['Which of the following images do you think shows the rings of Saturn most clearly?', 'a. Image [0]', 'b. Image [1]', 'b. Image [1]']"
+337,1948,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The following image is an example of _______.,"['The following image is an example of _______.', 'a']"
+338,1949,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The ______ is the most important muscle in the human body.,"['The ______ is the most important muscle in the human body.', 'The heart is the most important muscle in the human body.']"
+339,1950,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,What is the best image to fill in the blank?,"['What is the best image to fill in the blank?', 'Image [0]']"
+340,1951,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image below shows the growth of a plant in a pot.,"['The image below shows the growth of a plant in a pot.', 'Which of the following two images can be correctly inserted in the space marked by the arrow in the image above to show the growth of the plant in the pot over a period of time?', 'The answer is b. Image [1]']"
+341,1952,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,The figure below displays two______,"['The figure below displays two______', 'Image [0] represents a duck and Image [1] represents a rabbit.', 'The correct answer is b, Image [1] because a rabbit can fill-in-the-blank provide in the passage for ""two______.""']"
+342,1953,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [0] shows a girl with long black hair holding a microphone on stage. Image [1] shows a close-up of a guitar player with a guitar in his lap.,"['Image [0] shows a girl with long black hair holding a microphone on stage. Image [1] shows a close-up of a guitar player with a guitar in his lap.', 'b. Image [1]']"
+343,1954,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The __ is an example of a monohybrid cross.,"['The __ is an example of a monohybrid cross.', 'Answer:', 'Image [0]']"
+344,1955,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The George Washington Bridge, which spans the Hudson River between New York City and Fort Lee, New Jersey, is the busiest bridge in the world. ","['The George Washington Bridge, which spans the Hudson River between New York City and Fort Lee, New Jersey, is the busiest bridge in the world. ', 'a. Image [0]']"
+345,1956,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0],"['Image [0]', 'The correct answer is Image [0].']"
+346,1957,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,"The dog in image [0] is brown and white, while the dog in image [1] is mostly black.","['The dog in image [0] is brown and white, while the dog in image [1] is mostly black.', 'a. Image [0]']"
+347,1958,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The [  ], in all its variations, is one of the most popular and beloved Haitian dishes.","['The [  ], in all its variations, is one of the most popular and beloved Haitian dishes.', 'b. Image [1]']"
+348,1959,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,Image [1] is a satellite image of the Amazon rainforest.,['Image [1] is a satellite image of the Amazon rainforest.']
+349,1960,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,"The rock art ___ consists of more than 10,000 drawings and paintings.","['The rock art ___ consists of more than 10,000 drawings and paintings.', 'a. Image [0]', 'b. Image [1]']"
+350,1961,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",b,Image [0] and Image [1] are both choices that could provide what is needed in the passage.,['Image [0] and Image [1] are both choices that could provide what is needed in the passage.']
+351,1962,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The image is of a ______.,"['The image is of a ______.', 'The correct answer is b.']"
+352,1963,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The traffic ______ is busier than usual during the holiday season.,"['The traffic ______ is busier than usual during the holiday season.', 'Which traffic image is busier than the other?', 'Image [0] is busier than Image [1].']"
+353,1964,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The _____ in this picture is quite different from the one in the other picture.,"['The _____ in this picture is quite different from the one in the other picture.', 'The dog in this picture is quite different from the one in the other picture.']"
+354,1965,"Question: 
+Answer Choices are: 
+a. Image [0]
+b. Image [1]
+Select an image from the following choices that can fill-in-the-blank provide in the passage. 
+Specify the correct answer by choosing one of a or b: 
+",a,The caterpillar in the _____ is about to undergo metamorphosis.,"['The caterpillar in the _____ is about to undergo metamorphosis.', 'The answer is b.']"

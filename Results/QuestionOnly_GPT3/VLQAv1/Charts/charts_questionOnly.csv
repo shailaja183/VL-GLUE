@@ -1,0 +1,2236 @@
+index,qid,question,origanswer,generatedanswer,generatedanswers
+0,2218,"Question: 
+Answer Choices are: 
+a. United States
+b. United Kingdom
+c. India
+d. Iraq
+From the above graph infer comparatively which country is most likely to have highest per capita income?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,The United States is most likely to have the highest per capita income.,['The United States is most likely to have the highest per capita income.']
+1,2219,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many countries are most likely to have better per capita income level than Iraq?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 1,['d. 1']
+2,2220,"Question: 
+Answer Choices are: 
+a. Iraq
+b. India
+c. South Sudan
+d. United States
+Sorted in descending order by it’s per capita income, which country will stand third?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. South Sudan,['c. South Sudan']
+3,2221,"Question: 
+Answer Choices are: 
+a. Iraq
+b. Indonesia
+c. Pakistan
+d. Maldives
+As per the data, Which country is most likely to have the least tax revenue?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Maldives,['d. Maldives']
+4,2222,"Question: 
+Answer Choices are: 
+a. Iraq
+b. Maldives
+c. Pakistan
+d. United Kingdom
+Based on the relationship, which country stands third if sorted in ascending order by it’s tax revenue?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. Pakistan,['c. Pakistan']
+5,2223,"Question: 
+Answer Choices are: 
+a. 4
+b. 3
+c. 5
+d. 2
+How many countries are most likely to have better tax revenues in comparison with costa rica?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2,['d. 2']
+6,2224,"Question: 
+Answer Choices are: 
+a. Maldives
+b. United States
+c. United Kingdom
+d. Pakistan
+Which country is expected to have the least child mortality rate?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,a. Maldives,['a. Maldives']
+7,2225,"Question: 
+Answer Choices are: 
+a. Costa Rica
+b. Indonesia
+c. Pakistan
+d. United States
+Based on the association, which country is likely to have the second highest child mortality rate?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. Pakistan,['c. Pakistan']
+8,2226,"Question: 
+Answer Choices are: 
+a. 2
+b. 1
+c. 3
+d. 5
+Based on the association, how many countries is expected to have lesser mortality rate than Maldives?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 3,['c. 3']
+9,2227,"Question: 
+Answer Choices are: 
+a. Kenya
+b. India
+c. Sweden
+d. Australia
+Which country students are most likely to score best in PISA reading?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Australia,['d. Australia']
+10,2228,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 1
+d. 4
+Compared to Australia, how many countries are not likely to score better in PISA reading?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 1,['c. 1']
+11,2229,"Question: 
+Answer Choices are: 
+a. India
+b. Australia
+c. Sweden
+d. Denmark
+Which country’s students are likely to score in PISA reading better than United States but lesser than Kenya?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Denmark,['d. Denmark']
+12,2230,"Question: 
+Answer Choices are: 
+a. Sri Lanka
+b. Pakistan
+c. New Zealand
+d. European Union
+Based on the data, which country has the lowest after-tax inequality?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. New Zealand,['c. New Zealand']
+13,2231,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many countries achieve good after tax equality in comparison with United States?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 1,['d. 1']
+14,2232,"Question: 
+Answer Choices are: 
+a. European Union
+b. India
+c. Pakistan
+d. New Zealand
+Which country has the highest after after-tax inequality?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. New Zealand,['d. New Zealand']
+15,2233,"Question: 
+Answer Choices are: 
+a. United Kingdom
+b. United States 
+c. India
+d. European Union
+Based on the stated correlation, which country is the richest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. European Union,['d. European Union']
+16,2234,"Question: 
+Answer Choices are: 
+a. European Union
+b. India
+c. Sri Lanka
+d. United States
+Which country has immediately has better GDP per capita compared to Pakistan?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. The United States,['d. The United States']
+17,2235,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many countries are richer than United states based on the given data?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,['d. 1']
+18,2236,"Question: 
+Answer Choices are: 
+a. United Kingdom
+b. United States 
+c. India 
+d. European Union 
+Based on the stated correlation, which country has the strong political institutions?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. World Bank Group,['d. World Bank Group']
+19,2237,"Question: 
+Answer Choices are: 
+a. European Union 
+b. India
+c. Sri Lanka
+d. United States
+Which country has relatively strongly political institutions than pakistan but weaker than New Zealand?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. United States,['d. United States']
+20,2238,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many countries have stronger political institutions than United states based on the given data?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,['d. 1']
+21,2239,"Question: 
+Answer Choices are: 
+a. Pakistan
+b. New Zealand
+c. India
+d. Sri Lanka
+Which country is shifting fast away from agriculture?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Sri Lanka,['d. Sri Lanka']
+22,2240,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+How many countries have greater shift from agriculture towards industry in comparison with India ?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 4,['d. 4']
+23,2241,"Question: 
+Answer Choices are: 
+a. Pakistan
+b. New Zealand
+c. India
+d. Sri Lanka
+Which country falls fourth in the rate of shift from agriculture to industry?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Sri Lanka,['d. Sri Lanka']
+24,2242,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 2
+d. 3
+In how many age groups is the number of male users greater than number of female users?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 3,['d. 3']
+25,2243,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 5
+The number of male users in the age-group 18-25 is greater than the number of female users in how many age groups?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 5,['d. 5']
+26,2244,"Question: 
+Answer Choices are: 
+a. India
+b. Pakistan
+c. Bangladesh
+d. Sri Lanka
+Which country has the highest chance of climate being affected by generating electricity from fossil fuels ?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Sri Lanka,['d. Sri Lanka']
+27,2245,"Question: 
+Answer Choices are: 
+a. True
+b. False
+Is Sri Lanka less dependant on electricity form fossil fuels than China?
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,['a. True']
+28,2246,"Question: 
+Answer Choices are: 
+a. 10%
+b. 55%
+c. 70%
+d. 95%
+How much approximate percentage of electricity form fossil fuels by China?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 95%,['d. 95%']
+29,2247,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Uruguay
+c. Argentina
+d. Peru
+Which country has the highest percentage area used for irrigation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Peru,['d. Peru']
+30,2248,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Uruguay
+c. Argentina
+d. Peru
+Which country has highest exports?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. Uruguay,['b. Uruguay']
+31,2249,"Question: 
+Answer Choices are: 
+a. 10000 sq km
+b. 13000 sq km
+c. 20000 sq km
+d. 0 sq km
+Area of irrigated land in Ecuador?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 20000 sq km,['c. 20000 sq km']
+32,2250,"Question: 
+Answer Choices are: 
+a. China
+b. South Africa
+c. France
+d. Finland
+Which country have higest count of immigrants going out?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Finland,['d. Finland']
+33,2251,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+How many of the given countries have better net migration rate than Russia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 4,['d. 4']
+34,2252,"Question: 
+Answer Choices are: 
+a. Russia
+b. South Africa
+c. France
+d. Finland
+Which country can be seen as undeveloped, having political problems, and lacking resources its citizens need?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Finland,['d. Finland']
+35,2253,"Question: 
+Answer Choices are: 
+a. 10%
+b. 4%
+c. 42%
+d. 17%
+What nearest percentage of total population at the age of 27 is earning more than $27/hour?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. 42%,['c. 42%']
+36,2254,"Question: 
+Answer Choices are: 
+a. 200000
+b. 300000
+c. 960000
+d. 750000
+Given the data how many people at age of 27 earn less than $20/hour?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. 300000,['b. 300000']
+37,2255,"Question: 
+Answer Choices are: 
+a. Chocolate Bar
+b. Peanut Butter
+c. Ice Cream
+d. Soda
+Which food is worse for intake for a person suffering from diabetes?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Soda,['d. Soda']
+38,2256,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 1
+d. 0
+How many food have more sugar content than Ice cream?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 1,['c. 1']
+39,2257,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+How many countries have agricultural production less than Philippines?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 4,['d. 4']
+40,2258,"Question: 
+Answer Choices are: 
+a. Mauritius
+b. Philippines
+c. Korea, South
+d. Samoa
+Which country is having population more than Israel?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,"c. Korea, South","['c. Korea, South']"
+41,2259,"Question: 
+Answer Choices are: 
+a. Philippines
+b. Moldova
+c. Korea, South
+d. Samoa
+Which country is having more demand-pull inflation than Greenland?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,"c. Korea, South","['c. Korea, South']"
+42,2260,"Question: 
+Answer Choices are: 
+a. Canada
+b. Saudi Arabia
+c. India
+d. Kuwait
+Which country has the total manufacturing output less than Afghanistan?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Kuwait,['d. Kuwait']
+43,2261,"Question: 
+Answer Choices are: 
+a. India
+b. Kuwait
+c. Afghanistan
+d. Papua New Guinea
+Which country is having the total output of manufacturing same as Germany?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Papua New Guinea,['d. Papua New Guinea']
+44,2262,"Question: 
+Answer Choices are: 
+a. India
+b. Kuwait
+c. Canada
+d. Saudi Arabia
+Which country is most likely to have the highest manufacturing outcome ?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Saudi Arabia,['d. Saudi Arabia']
+45,2263,"Question: 
+Answer Choices are: 
+a. Argentina
+b. Burma
+c. Qatar
+d. None of the above
+Which country is likely to be colder than Netherlands?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. None of the above,['d. None of the above']
+46,2264,"Question: 
+Answer Choices are: 
+a. India
+b. Burma
+c. Qatar
+d. Netherlands
+Which country is most likely to have population less than Argentina?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Netherlands,['d. Netherlands']
+47,2265,"Question: 
+Answer Choices are: 
+a. India
+b. Germany
+c. Nigeria
+d. China
+Which country is most likely to have a smaller number of migrants that enters country when compared to Russia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. China,['d. China']
+48,2266,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. Nigeria
+d. Germany
+Which country is having poor child mortality rate?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. China,['b. China']
+49,2267,"Question: 
+Answer Choices are: 
+a. 4
+b. 2
+c. 3
+d. 1
+How many countries have less fertility rate when compared to China?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,['d. 1']
+50,2268,"Question: 
+Answer Choices are: 
+a. Ukraine
+b. Denmark
+c. Colombia
+d. Yemen
+Based on the above graph, which country might have less number of houses?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Yemen,['d. Yemen']
+51,2269,"Question: 
+Answer Choices are: 
+a. Yemen
+b. Venezuela
+c. Ukraine
+d. Denmark
+From the above graph, which country is likely to have more usage of telecommunications?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. Venezuela,['b. Venezuela']
+52,2270,"Question: 
+Answer Choices are: 
+a. Two
+b. Three
+c. One
+d. Five
+According to the data given, how many countries are likely to be above average revenue?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. Three,['b. Three']
+53,2271,"Question: 
+Answer Choices are: 
+a. Ethiopia
+b. Lithuania
+c. Bahrain
+d. Cambodia
+Based on the above data, which country needs to focus on economic growth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Cambodia,['d. Cambodia']
+54,2272,"Question: 
+Answer Choices are: 
+a. Six
+b. Four
+c. Three
+d. One
+How many countries are beneath Sri Lanka in terms of effecting the environment?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. One,['d. One']
+55,2273,"Question: 
+Answer Choices are: 
+a. Kuwait
+b. Ethiopia
+c. Bahrain
+d. Sri Lanka
+Which country among the listed data has outshined in the GDP sector?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. Bahrain,['c. Bahrain']
+56,2274,"Question: 
+Answer Choices are: 
+a. Africa
+b. Asia
+c. Europe
+d. Northern America
+Compared to australia, which of these countries has relatively more world population and also higher average life expectancy at birth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Northern America,['d. Northern America']
+57,2275,"Question: 
+Answer Choices are: 
+a. Africa
+b. Asia
+c. Europe
+d. Northern America
+Out of all the countries that has less percent of world population than Australia in 2015, which country has the least life expectancy at birth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Northern America,['d. Northern America']
+58,2276,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 5
+d. 2
+Out of 7 countries, how many countries exceeds 75% of life expectancy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 5,['c. 5']
+59,2277,"Question: 
+Answer Choices are: 
+a. Canada
+b. China
+c. Japan
+d. USA
+Which of the following countries is not a G7 country?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. USA,['d. USA']
+60,2278,"Question: 
+Answer Choices are: 
+a. Japan
+b. France
+c. Italy
+d. Germany
+Healthcare spending as a share of GDP for UK is less than all other G7 countries except
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Germany,['d. Germany']
+61,2279,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+Is France combating inflation?
+Specify the correct answer by choosing one of a or b: 
+",b,b. no,['b. no']
+62,2280,"Question: 
+Answer Choices are: 
+a. 2010
+b. 2012
+c. 2014
+d. 2016
+In which year was the money supply the lowest for France?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2016,['d. 2016']
+63,2281,"Question: 
+Answer Choices are: 
+a. France
+b. Germany
+c. United States
+d. Canada
+In the year 2015, which country should have a higher economic growth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,The United States,['The United States']
+64,2282,"Question: 
+Answer Choices are: 
+a. France
+b. Germany
+c. United States
+d. Canada
+In the year 2010, which country should have a lower economic growth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Canada,['d. Canada']
+65,2283,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2013
+c. 2015
+d. 2017
+In Mexico, for which year would the banks have their lending rates the highest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+66,2284,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2013
+c. 2015
+d. 2017
+In Mexico, for which year is it the most expensive for people to borrow money?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+67,2285,"Question: 
+Answer Choices are: 
+a. Germany
+b. France
+c. United States
+d. Canada
+In the year 2015, in which country is it going to be economical to borrow money from banks?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. United States,['c. United States']
+68,2286,"Question: 
+Answer Choices are: 
+a. 2000
+b. 2002
+c. 2004
+d. 2007
+In which year was the economic inequality the highest in United States?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2007,['d. 2007']
+69,2287,"Question: 
+Answer Choices are: 
+a. 2000
+b. 2001
+c. 2004
+d. 2007
+In which year did citizens of United States experience highest rates of health problems?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2007,['d. 2007']
+70,2288,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+Is India moving towards a future of economic equality?
+Specify the correct answer by choosing one of a or b: 
+",a,b. no,['b. no']
+71,2289,"Question: 
+Answer Choices are: 
+a. 2006
+b. 2008
+c. 2010
+d. 2011
+In India, for which year was economic equality the highest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2011,['d. 2011']
+72,2290,"Question: 
+Answer Choices are: 
+a. 1997
+b. 2000
+c. 2004
+d. 2010
+In India, in which year did the people experienced lowest satisfaction and happiness due to income inequality?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. 2000,['b. 2000']
+73,2291,"Question: 
+Answer Choices are: 
+a. Canada
+b. Mexico
+c. United States
+d. Germany
+People of which country would be more prone to health problems?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Germany,['d. Germany']
+74,2292,"Question: 
+Answer Choices are: 
+a. United States
+b. Canada
+c. Germany
+d. Mexico
+Based on the Gini Index, people of which country would have the highest satisafaction and happiness?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Mexico,['d. Mexico']
+75,2293,"Question: 
+Answer Choices are: 
+a. 2012
+b. 2013
+c. 2014
+d. 2015
+In Argentina, in which year was it easiest to get loans?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2015,['d. 2015']
+76,2294,"Question: 
+Answer Choices are: 
+a. 2012
+b. 2014
+c. 2016
+d. 2017
+In Argentina, in which year was the liquidity in the financial markets the lowest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2017,['d. 2017']
+77,2295,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+In the year 2017, did the economy expand?
+Specify the correct answer by choosing one of a or b: 
+",a,a. Yes,['a. Yes']
+78,2296,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Argentina
+c. Mexico
+d. France
+In the year 2013, for which country did the economy expand in comparison to the previous year?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. France,['d. France']
+79,2297,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Argentina
+c. Mexico
+d. France
+Based on the graph, which country has higher increase in liquidity in the financial markets?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. Mexico,['c. Mexico']
+80,2298,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which year is spending likely to be the lowest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2017,['d. 2017']
+81,2299,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which year did the economy likely grow the slowest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2017,['d. 2017']
+82,2300,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which year was the demand for financial assets the highest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 2016,['c. 2016']
+83,2301,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which year will the interest rates likely be the lowest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 2016,['c. 2016']
+84,2302,"Question: 
+Answer Choices are: 
+a. inflation
+b. deflation
+c. no change
+d. none
+Is Saudi Arabia heading towards inflation or deflation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,a. inflation,['a. inflation']
+85,2303,"Question: 
+Answer Choices are: 
+a. 2012
+b. 2013
+c. 2014
+d. 2015
+In which year did Saudi Arabia experience inflation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 2014,['c. 2014']
+86,2304,"Question: 
+Answer Choices are: 
+a. positive
+b. negative
+c. none
+d. no correlation
+What correlation does United States and Russia have in terms of inflation and deflation of their economy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. no correlation,['d. no correlation']
+87,2305,"Question: 
+Answer Choices are: 
+a. net borrower
+b.  net lender
+c. neither borrower nor lender
+d. zero
+In the year 2013, was India a net borrower or a net lender?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. neither borrower nor lender,['c. neither borrower nor lender']
+88,2306,"Question: 
+Answer Choices are: 
+a. 2012
+b. 2013
+c. 2014
+d. 2015
+In which year, India is likely to have lent the highest amount of money?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2015,['d. 2015']
+89,2307,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+Based on the graph, is it likely for India to have increased their imports from European Union?
+Specify the correct answer by choosing one of a or b: 
+",a,a. yes,['a. yes']
+90,2308,"Question: 
+Answer Choices are: 
+a. positive
+b. negative
+c. none
+d. no correlation
+What is the correlation between the amount of foreign assets of Europen Union and India?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. no correlation,['d. no correlation']
+91,2309,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+According to the authors of the study, in which year are the multinational companies likely to have invested the most at home?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 2016,['c. 2016']
+92,2310,"Question: 
+Answer Choices are: 
+a. increase
+b. decrease
+c. stay the same
+d. none
+Based on the data, do you predict that investment in US by US based multinational companies will increase/decrease/stay the same?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. none,['d. none']
+93,2311,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+In the year 2015, was the economy of Puerto Rico expanding?
+Specify the correct answer by choosing one of a or b: 
+",b,a. yes,['a. yes']
+94,2312,"Question: 
+Answer Choices are: 
+a. yes
+b. no
+Between the years 2008 and 2010, did the businesses fluorish?
+Specify the correct answer by choosing one of a or b: 
+",a,a,['a']
+95,2313,"Question: 
+Answer Choices are: 
+a. 2008
+b. 2009
+c. 2010
+d. 2012
+In which year, the economy of Puerto Rico is in danger of stalling?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2012,['d. 2012']
+96,2314,"Question: 
+Answer Choices are: 
+a. 2013
+b. 2015
+c. 2016
+d. 2017
+In which year did the business in Saudi Arabia invested the least in new purchases?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+97,2315,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which which year, the people in Saudi Arabia are likely to have the least money to spend.
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+98,2316,"Question: 
+Answer Choices are: 
+a. Saudi Arabia
+b. Qatar
+c. Both
+d. None
+In the year 2017, businesses in which country is more likely to hire new employees?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,Both,['Both']
+99,2317,"Question: 
+Answer Choices are: 
+a. Saudi Arabia
+b. Qatar
+c. Both
+d. None
+In the year 2017, citizens of which country will have a higher chance of having more money to spend?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,Both,['Both']
+100,2318,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2012
+c. 2013
+d. 2014
+In which years, is the economy of both the countries highest in danger of stalling?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,The economy of both countries is highest in danger of stalling in 2011 and 2012.,['The economy of both countries is highest in danger of stalling in 2011 and 2012.']
+101,2319,"Question: 
+Answer Choices are: 
+a. 2013
+b. 2014
+c. 2015
+d. 2016
+During which year, is the economy of Venezuela likely to have entered a state of recession?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2016,['d. 2016']
+102,2320,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+In which year did the GDP growth rate of Brazil hit the trough?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2017,['d. 2017']
+103,2321,"Question: 
+Answer Choices are: 
+a. 2014
+b. 2015
+c. 2016
+d. 2017
+If a company initiated a hiring freeze in the year 2016, in which year will that company likely remove that freeze?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 2016,['c. 2016']
+104,2322,"Question: 
+Answer Choices are: 
+a. 2013
+b. 2015
+c. 2016
+d. 2017
+In which year are the exports likely to be the highest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+105,2323,"Question: 
+Answer Choices are: 
+a. 2013
+b. 2015
+c. 2016
+d. 2017
+In which year are the exported goods likely to be the cheapest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+106,2324,"Question: 
+Answer Choices are: 
+a. 2010
+b. 2011
+c. 2016
+d. 2017
+In which year will the businesses in US have th easiest access to financing?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 2016,['c. 2016']
+107,2325,"Question: 
+Answer Choices are: 
+a. 2010
+b. 2011
+c. 2016
+d. 2017
+In which year was the growth in economy the slowest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2017,['d. 2017']
+108,2326,"Question: 
+Answer Choices are: 
+a. 2013
+b. 2014
+c. 2015
+d. 2016
+In which year did Britain likely held the referendum?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2016,['d. 2016']
+109,2327,"Question: 
+Answer Choices are: 
+a. 2010
+b. 2011
+c. 2012
+d. 2013
+According to the study, in which year the military expenditures likely impacted the national economy of United States the most?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. 2011,['b. 2011']
+110,2328,"Question: 
+Answer Choices are: 
+a. 2012
+b. 2013
+c. 2014
+d. 2015
+According to the study, in which year the military expenditures likely impacted the national economy of the United States the least?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2015,['d. 2015']
+111,2329,"Question: 
+Answer Choices are: 
+a. Low Income
+b. Lower Middle Income
+c. Upper Middle Income
+d. High Income
+Which income level has no change in mortality rate for the year of 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. High Income,['d. High Income']
+112,2330,"Question: 
+Answer Choices are: 
+a. Low Income
+b. Lower Middle Income
+c. Upper Middle Income
+d. High Income
+Which income level people had increase in child mortality in 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. Upper Middle Income,['c. Upper Middle Income']
+113,2331,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 5
+d. 6
+For how many years was Kingston upon Hull among the top 5 areas in the UK with the highest % of workless households?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 6,['d. 6']
+114,2332,"Question: 
+Answer Choices are: 
+a. Liverpool
+b. Birmingham
+c. Kingston upon Hull
+d. Glasgow City
+Which of the following countries was never ranked second for the highest % of workless households?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. Kingston upon Hull,['c. Kingston upon Hull']
+115,2333,"Question: 
+Answer Choices are: 
+a. Kingston upon Hull
+b. Wolverhampton
+c. Glasgow City
+d. Liverpool
+Which country’s rank for the highest % of workless households did not decrease from 2008 to 2009?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Liverpool,['d. Liverpool']
+116,2334,"Question: 
+Answer Choices are: 
+a. Food & Drink
+b. Health
+c. Communication
+d. Clothing & Footwear
+Which household consumption was unaffected by the economic downturn?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Clothing & Footwear,['d. Clothing & Footwear']
+117,2335,"Question: 
+Answer Choices are: 
+a. Clothing & Footwear and Health
+b. Communication and Recreation & Culture
+c. Health and Food & Drink
+d. Food & Drink and Communication
+From 2006 to 2010 which two household consumption were almost equal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Food & Drink and Communication,['d. Food & Drink and Communication']
+118,2336,"Question: 
+Answer Choices are: 
+a. 1999
+b. 2001
+c. 2003
+d. 2005
+In which year did Recreation & Culture double its consumption when compared to 1997?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2005,['d. 2005']
+119,2337,"Question: 
+Answer Choices are: 
+a. Nancy
+b. Steve
+c. George
+d. Miriam
+Who has the highest likelihood of reporting ‘good’ health despite being disabled?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Miriam,['d. Miriam']
+120,2338,"Question: 
+Answer Choices are: 
+a. Nancy
+b. Steve
+c. George
+d. Miriam
+Who has the lowest likelihood of reporting ‘good’ health despite being disabled?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Miriam,['d. Miriam']
+121,2339,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 2
+d. 3
+How many age groups lie between Nancy and Stacy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 2,['c. 2']
+122,2340,"Question: 
+Answer Choices are: 
+a. 2006
+b. 2008
+c. 2010
+d. 2012
+In which year was the human capital of the UK at its peak?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2012,['d. 2012']
+123,2341,"Question: 
+Answer Choices are: 
+a. 2004 - 2006
+b. 2011 - 2013
+c. 2009 - 2011
+d. 2006 - 2008
+The value of human capital of the UK remained broadly flat for which of the following time-period?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2006 - 2008,['d. 2006 - 2008']
+124,2342,"Question: 
+Answer Choices are: 
+a. 4
+b. 5
+c. 6
+d. 7
+For how many years was the human capital of the UK less than the value in 2009?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. 5,['b. 5']
+125,2343,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+During how many events of Mass Extinction was the atmospheric concentration of CO2 greater than that of O2?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 4,['d. 4']
+126,2344,"Question: 
+Answer Choices are: 
+a. Triassic
+b. Cretaceous
+c. Permian
+d. Cambrian
+The Jurassic geological period was immediately succeeded by which geological period?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. Cretaceous,['b. Cretaceous']
+127,2345,"Question: 
+Answer Choices are: 
+a. Permian
+b. Cambrian
+c. Jurassic
+d. Triassic
+In which geological period was the atmospheric concentration of O2 the highest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. Jurassic,['c. Jurassic']
+128,2346,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2012
+c. 2016
+d. None
+For which year the GDP of United States was lesser than the previous year?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. None,['d. None']
+129,2347,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2012
+c. 2015
+d. None
+For which year the GDP of Russia was lesser than the previous year?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. None,['d. None']
+130,2348,"Question: 
+Answer Choices are: 
+a. Yes
+b. No
+Do living standards of India better than Pakistan?
+Specify the correct answer by choosing one of a or b: 
+",a,a,['a']
+131,2349,"Question: 
+Answer Choices are: 
+a. 2011
+b. 2012
+c. 2015
+d. 2017
+Which year the difference between the two countries where largest?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2017,['d. 2017']
+132,2350,"Question: 
+Answer Choices are: 
+a. 2016
+b. 2012
+c. 2015
+d. 2017
+Which year was risk of investment highest in Ghana?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,The correct answer is c. 2015.,['The correct answer is c. 2015.']
+133,2351,"Question: 
+Answer Choices are: 
+a. True
+b. False
+Does interest rates on debt higher in Cameroon than Ghana?
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,['b. False']
+134,2352,"Question: 
+Answer Choices are: 
+a. Cameroon
+b. Ghana
+c. China
+d. South Africa
+Which country you should invest when you want low risk?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. China,['c. China']
+135,2353,"Question: 
+Answer Choices are: 
+a. 50
+b. 53
+c. 67
+d. 60
+What is the exchange rate of North Macedonia in the year 2015?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. 67,['c. 67']
+136,2354,"Question: 
+Answer Choices are: 
+a. India
+b. North Macedonia
+c. Singapore
+d. USA
+Which country is having same ratio of foreign exchange earnings to expenditure in the years 2013 and 2017?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. USA,['d. USA']
+137,2355,"Question: 
+Answer Choices are: 
+a. 2017
+b. 2013
+c. 2015
+d. 2014
+Which year describes India’s best currency value?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 2015,['c. 2015']
+138,2356,"Question: 
+Answer Choices are: 
+a. Increase in imports
+b. Decrease in imports
+c. Fixed rate in imports
+d. Less exports
+France is having constant unemployment rate due to
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. Fixed rate in imports,['c. Fixed rate in imports']
+139,2357,"Question: 
+Answer Choices are: 
+a. Increased
+b. Decreased
+c. Constant
+d. In-sufficient information
+What has happened to India from 2016-2017 with respect to imports?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. In-sufficient information,['d. In-sufficient information']
+140,2358,"Question: 
+Answer Choices are: 
+a. India
+b. France
+c. both the countries
+d. None of the countries
+As per the inference made on Life Satisfaction, which country is more likely to have an improvement in it.
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. France,['b. France']
+141,2359,"Question: 
+Answer Choices are: 
+a. India
+b. France
+c. Australia
+d. United States
+Which country is most likely to have more claims in 2016-2017?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. France,['b. France']
+142,2360,"Question: 
+Answer Choices are: 
+a. France
+b. India
+c. Sri Lanka
+d. Nepal
+Which country is more advanced in terms of Technology?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Nepal,['d. Nepal']
+143,2361,"Question: 
+Answer Choices are: 
+a. Increased
+b. Decreased
+c. Constant
+d. Cannot be determined
+How is the trend of advanced education in India for the year 2016-2017?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. Increased,['a. Increased']
+144,2362,"Question: 
+Answer Choices are: 
+a. Desert
+b. Woodland
+c. Tundra
+d. Rain forest
+A land area with a biotemperature of 15C, a 3.5 potential evapotranspiration ratio and 300 mm of annual precipitation will fall in which category?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Rain forest,['d. Rain forest']
+145,2363,"Question: 
+Answer Choices are: 
+a. Polar latitudinal region with annual precipitation of 400mm
+b. Subalpine altitudinal belt with a potential evapotranspiration ratio of 3
+c. Tropical latitudinal region with annual precipitation of 100mm
+d. Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5
+Which of the following combinations does not fall under desert category?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5,['d. Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5']
+146,2364,"Question: 
+Answer Choices are: 
+a. Sub-humid humidity province in Alpine altitudinal belt
+b. An arid humidity province with a biotemperature of 2C
+c. A super-humid humidity province in subpolar latitudinal region
+d. A subtropical latitudinal region with a biotemperature of 20
+Which of the following combinations does not exist?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d,['d']
+147,2365,"Question: 
+Answer Choices are: 
+a. D, E
+b. E, F
+c. F, G
+d. G, A
+Which pair of notes are separated by a half tone interval?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,"d. G, A","['d. G, A']"
+148,2366,"Question: 
+Answer Choices are: 
+a. A, B
+b. B, C
+c. C, D
+d. D, E
+Which pair of notes are not separated by a whole tone interval?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,"b. B, C","['b. B, C']"
+149,2367,"Question: 
+Answer Choices are: 
+a. Bb
+b. F
+c. C
+d. G
+Which note will not generate any notes with sharp or flat signs if the intervals of the major scale are followed?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. G,['d. G']
+150,2368,"Question: 
+Answer Choices are: 
+a. A
+b. D
+c. G
+d. C
+Which note will not generate any notes with sharp or flat signs if the intervals of the minor scale are followed?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. C,['d. C']
+151,2369,"Question: 
+Answer Choices are: 
+a. 2.7
+b. 3.4
+c. 1.7
+d. 5.1
+The percentage of disabled women in Lower managerial positions is greater than the percentage of disabled men in Higher managerial positions by how much?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 1.7,['c. 1.7']
+152,2370,"Question: 
+Answer Choices are: 
+a. Nurse
+b. Bar Staff
+c. Bank Staff
+d. Receptionist
+The percentage of disabled men in a particular occupation lies between 20 to 25%. Which of the following is most likely to be that occupation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. Bank Staff,['c. Bank Staff']
+153,2371,"Question: 
+Answer Choices are: 
+a. Receptionist
+b. Nurse
+c. Doctor
+d. Farmer
+The percentage of disabled men in a particular occupation is greater than the percentage of disabled women. Which of the following is most likely to be that occupation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Farmer,['d. Farmer']
+154,2372,"Question: 
+Answer Choices are: 
+a. TCC
+b. TCT
+c. AGA
+d. AGT
+Which of the following nucleotide triplets does not synthesize Ser (S)?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. AGT,['d. AGT']
+155,2373,"Question: 
+Answer Choices are: 
+a. Arg (R)
+b. Val (V)
+c. Cys (C)
+d. Trp (W)
+Which amino acid is synthesized for the nucleotide triplet sequence TGC?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. Cys (C),['c. Cys (C)']
+156,2374,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 0
+How many categories of electricity production is sourced from in the year 2016?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 0,['d. 0']
+157,2375,"Question: 
+Answer Choices are: 
+a. 50%
+b. 27%
+c. 35%
+d. 5%
+Given the data how much percent does renewable energy sources account for in total electricity suply?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 5%,['d. 5%']
+158,2376,"Question: 
+Answer Choices are: 
+a. 50%
+b. 27%
+c. 23%
+d. 75%
+Given the data, In year 2017 how much percent does fossil fuel account for in total electricity suply?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 75%,['d. 75%']
+159,2377,"Question: 
+Answer Choices are: 
+a. 19%
+b. 16%
+c. 35%
+d. 25%
+How much percent of total population uses a healthy mode of transportation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 25%,['d. 25%']
+160,2378,"Question: 
+Answer Choices are: 
+a. 50%
+b. 41%
+c. 35%
+d. 32%
+Given the data how much percent people use public mode of transportation?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 32%,['d. 32%']
+161,2379,"Question: 
+Answer Choices are: 
+a. 0.3 million
+b. 0.38 million
+c. 1.0 million
+d. 0.7 million
+What is the total number of people who prefer walking?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 0.7 million,['d. 0.7 million']
+162,2380,"Question: 
+Answer Choices are: 
+a. $710000
+b. $510000
+c. $350000
+d. $540000
+How much amount total the company earns from delivery by air?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. $350000,['c. $350000']
+163,2381,"Question: 
+Answer Choices are: 
+a. $15000
+b. $65000
+c. $30000
+d. $105000
+How much is total profit of the company?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. $105000,['d. $105000']
+164,2382,"Question: 
+Answer Choices are: 
+a. Java
+b. JavaScript
+c. python
+d. C#
+What language got the popularity increase in 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. JavaScript,['b. JavaScript']
+165,2383,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 4
+d. 0
+How many languages are popular than JavaScript in 2014?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 0,['d. 0']
+166,2384,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 1
+d. 0
+How many languages are popular than Java in 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,['d. 0']
+167,2385,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 4
+d. 5
+How many languages lost popularity coming in 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 5,['d. 5']
+168,2386,"Question: 
+Answer Choices are: 
+a. Yes
+b. No
+In the data given, have java been always more popular than python?
+Specify the correct answer by choosing one of a or b: 
+",a,a. Yes,['a. Yes']
+169,2387,"Question: 
+Answer Choices are: 
+a. Poland, Italy
+b. Italy, Spain
+c. Spain, Denmark
+d. Zimbabwe, Denmark
+Which two European countries have same government expenditure?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,"c. Spain, Denmark","['c. Spain, Denmark']"
+170,2388,"Question: 
+Answer Choices are: 
+a. Italy
+b. Spain
+c. Zimbabwe
+d. Germany
+Which country is heavily indebted after Denmark?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. Spain,['b. Spain']
+171,2389,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+As per the IMF criteria, how many countries are added to the list
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4,['d. 4']
+172,2390,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. Russia
+d. Germany
+Which country is most likely to have more electrical appliances?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. China,['b. China']
+173,2391,"Question: 
+Answer Choices are: 
+a. Nigeria
+b. India
+c. China
+d. Germany
+Which country is standing 2nd  next to Russia for percentage of electricity consumption to GDP?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Germany,['d. Germany']
+174,2392,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 4
+d. 3
+How many countries have less value of electricity consumption to GDP when compared with India?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 3,['d. 3']
+175,2393,"Question: 
+Answer Choices are: 
+a. Kuwait
+b. Seychelles
+c. Paraguay
+d. Vanuatu
+As per the given data, which country is expected to have the least economy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Vanuatu,['d. Vanuatu']
+176,2394,"Question: 
+Answer Choices are: 
+a. Portugal
+b. United Arab Emirates
+c. Sweden
+d. Iceland
+According to the given data, which country is having better economy than Kuwait?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Iceland,['d. Iceland']
+177,2395,"Question: 
+Answer Choices are: 
+a. United Arab Emirates, Kuwait
+b. Paraguay, Vanuatu
+c. Sweden, Iceland
+d. Bahamas, Portugal
+Based on the data provided, what are the two countries that might have threat to the bird species?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,"a. United Arab Emirates, Kuwait","['a. United Arab Emirates, Kuwait']"
+178,2396,"Question: 
+Answer Choices are: 
+a. 38.4 million
+b. 45 million
+c. 30 million
+d. 4 million
+What is the expected population of people below poverty line in United States next year?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 4 million,['d. 4 million']
+179,2397,"Question: 
+Answer Choices are: 
+a. 3 years
+b. 4 years
+c. 5 years
+d. 1 year
+If this decline is steady for upcoming years, how long it will take for United Kingdom to reduce it’s people below poverty range percentage to 3%?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 5 years,['c. 5 years']
+180,2398,"Question: 
+Answer Choices are: 
+a. Pakistan
+b. United States
+c. United Kingdom
+d. Iraq
+Based on the data, which country quantitatively has the least population of people below poverty line?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Iraq,['d. Iraq']
+181,2399,"Question: 
+Answer Choices are: 
+a. United Kingdom
+b. Indonesia
+c. Iraq
+d. Pakistan
+From the inferred correlation, which country people among the given is expected to have the least life expectancy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Pakistan,['d. Pakistan']
+182,2400,"Question: 
+Answer Choices are: 
+a. United Kingdom and United States
+b. Pakistan and Iraq
+c. Iraq and Indonesia
+d. Indonesia and Pakistan
+Which two countries has almost same life expectancy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. United Kingdom and United States,['a. United Kingdom and United States']
+183,2401,"Question: 
+Answer Choices are: 
+a. United Kingdom
+b. Indonesia
+c. Iraq
+d. Pakistan
+Which country comparatively has better life expectancy than United states ?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. Iraq,['c. Iraq']
+184,2402,"Question: 
+Answer Choices are: 
+a. 1 child born/woman
+b. 5 children/woman
+c. 6 children/woman
+d. 3 children/woman
+What would have been the nearest value of fertility rate of women in India by 1969?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 3 children/woman,['d. 3 children/woman']
+185,2403,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 2
+d. 1
+From given values, How many countries would have had above 4 children/woman as fertility rate back in 1969?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 1,['d. 1']
+186,2404,"Question: 
+Answer Choices are: 
+a. 1.5 children/woman
+b. 0.8 children/woman
+c. 1.2 children/woman
+d. 1.6 children/woman
+If this continues at the same percentage, what would be the fertility rate of women in canada by 2069?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1.6 children/woman,['d. 1.6 children/woman']
+187,2405,"Question: 
+Answer Choices are: 
+a. India
+b. Nepal
+c. Mexico
+d. United States
+From becker’s argument, which country is likely to have made good improvement in women’s education for the past 5 years?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. United States,['d. United States']
+188,2406,"Question: 
+Answer Choices are: 
+a. India
+b. Nepal
+c. Mexico
+d. United States
+Applying becker’s theory, which country hasn’t made any improvement in women’s education?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. United States,['d. United States']
+189,2407,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 1
+d. 2
+How many countries have done well in improving women’s education in comparison to Nepal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 1,['c. 1']
+190,2408,"Question: 
+Answer Choices are: 
+a. Canada
+b. Maldives
+c. South Africa
+d. United Kingdom
+Based on these facts, which country's scientific progress remains the same from 2014?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. United Kingdom,['d. United Kingdom']
+191,2409,"Question: 
+Answer Choices are: 
+a. United States
+b. United Kingdom
+c. India
+d. Canada
+Which country has made a very good scientific progress in last 5 years?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Canada,['d. Canada']
+192,2410,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 5
+d. 2
+How many countries have made better progress in science compared to Maldives?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 5,['c. 5']
+193,2411,"Question: 
+Answer Choices are: 
+a. Canada
+b. Australia
+c. United Kingdom
+d. Maldives
+Which country has the people with highest life expectancy at birth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Maldives,['d. Maldives']
+194,2412,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 5
+How many countries have people with better life expectancy at birth compared to Mexico?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 5,['d. 5']
+195,2413,"Question: 
+Answer Choices are: 
+a. Australia and Canada
+b. Mexico and Maldives
+c. India and South Africa
+d. Maldives and India
+Which two countries of the given options has almost same life expectancy at birth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Maldives and India,['d. Maldives and India']
+196,2414,"Question: 
+Answer Choices are: 
+a. Australia
+b. India
+c. Denmark
+d. United States
+From the given data, Which country people are likely to be more intellectual?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. Denmark,['c. Denmark']
+197,2415,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+How many countries has prominent intellectuals than United States?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4,['d. 4']
+198,2416,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+How many countries have least intellectuals compared to India ?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 4,['d. 4']
+199,2417,"Question: 
+Answer Choices are: 
+a. India
+b. Vietnam
+c. Sri Lanka
+d. Indonesia
+Which of these countries is most likely to have a rapid inflation when compared to Pakistan?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Indonesia,['d. Indonesia']
+200,2418,"Question: 
+Answer Choices are: 
+a. 7.5
+b. 6.5
+c. 5.5
+d. 4.5
+The industrial production growth rate of Pakistan is almost equal to
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4.5,['d. 4.5']
+201,2419,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+Consider all the given 6 countries. The industrial production growth rate of Sri Lanka is less than how many countries
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 4,['d. 4']
+202,2420,"Question: 
+Answer Choices are: 
+a. Yes
+b. No
+Is Algeria more developed than Sudan?
+Specify the correct answer by choosing one of a or b: 
+",a,b. No,['b. No']
+203,2421,"Question: 
+Answer Choices are: 
+a. Libya
+b. Sudan
+c. Algeria
+d. Cameroon
+Which of these countries is the least developed country?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. Sudan,['b. Sudan']
+204,2422,"Question: 
+Answer Choices are: 
+a. Libya
+b. Sudan
+c. Algeria
+d. Cameroon
+Which of these countries have the highest chances of epidemics?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Cameroon,['d. Cameroon']
+205,2423,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. United States
+d. Germany
+Which of the given countries is most prone to heart diseases?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. United States,['c. United States']
+206,2424,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many of the given countries have higher obese population than Japan?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 1,['d. 1']
+207,2425,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+How many of the given countries, including Japan have lower obese population than 10%?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,['d. 1']
+208,2426,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. United States
+d. Germany
+Which of the given countries, including Japan, has the third lowest obese population?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. United States,['c. United States']
+209,2427,"Question: 
+Answer Choices are: 
+a. True
+b. False
+Is German population have more health issues than Japan due to overweight?
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,['b. False']
+210,2428,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+From the given data how many countries have decrease in unemployment rate from 2015 to 2018?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,['d. 1']
+211,2429,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 1
+
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. 4,['c. 4']
+212,2430,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Egypt
+c. United States
+d. Italy
+Which country is likely to have similar wages as of Croatia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,The most likely answer is c. The United States.,['The most likely answer is c. The United States.']
+213,2431,"Question: 
+Answer Choices are: 
+a. Brazil
+b. Egypt
+c. United States
+d. Italy
+Which country would have the cheapest labor?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Italy,['d. Italy']
+214,2432,"Question: 
+Answer Choices are: 
+a. France
+b. Germany
+c. Poland
+d. Italy
+Which country, from the given data is more phrone to problems of older population?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Italy,['d. Italy']
+215,2433,"Question: 
+Answer Choices are: 
+a. 3
+b. 5
+c. 1
+d. 0
+How many countries from the given data has less mdeian age than Poland?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 0,['d. 0']
+216,2434,"Question: 
+Answer Choices are: 
+a. 3
+b. 5
+c. 6.5
+d. 9.5
+How much is the age difference is between germany and Poland?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. 6.5,['c. 6.5']
+217,2435,"Question: 
+Answer Choices are: 
+a. Japan
+b. China
+c. United States
+d. India
+In the given data which country has higher exports?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. United States,['c. United States']
+218,2436,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 4
+d. 0
+How many country have higher exports than Japan?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,['d. 0']
+219,2437,"Question: 
+Answer Choices are: 
+a. Norfolk Island
+b. Grenada
+c. Sweden
+d. Kenya
+Which of the following country is not having population approximately same as Marshall Islands?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. Sweden,['c. Sweden']
+220,2438,"Question: 
+Answer Choices are: 
+a. 2
+b. 5
+c. 4
+d. 3
+How many countries have better educational society when compared to Guatemala?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 3,['d. 3']
+221,2439,"Question: 
+Answer Choices are: 
+a. Kenya
+b. Bolivia
+c. Sweden
+d. Cameroon
+Which country is having a better education society and highest population?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. Sweden,['c. Sweden']
+222,2440,"Question: 
+Answer Choices are: 
+a. India
+b. Germany
+c. Russia
+d. Nigeria
+Which country is next to China in exporting rice assuming each country produce and export rice?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. Germany,['b. Germany']
+223,2441,"Question: 
+Answer Choices are: 
+a. India
+b. Germany
+c. Russia
+d. China
+Which country is similar to United States in production of Corn, assuming that all countries produce corn?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. China,['d. China']
+224,2442,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 4
+d. 3
+How many countries are better in agriculture production when compared to Russia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 3,['d. 3']
+225,2443,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 3
+d. 4
+Which country is having more GDP per capita when compared to Russia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4,['d. 4']
+226,2444,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. Russia
+d. Brazil
+Which country is best described to have rapidly growing industrial economy?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Brazil,['d. Brazil']
+227,2445,"Question: 
+Answer Choices are: 
+a. 2
+b. 5
+c. 3
+d. 4
+How many countries are less developed industrially when compared to Russia?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4,['d. 4']
+228,2446,"Question: 
+Answer Choices are: 
+a. India
+b. China
+c. Russia
+d. United States
+Which country is most likely to produce most Cereal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. United States,['d. United States']
+229,2447,"Question: 
+Answer Choices are: 
+a. China
+b. United States
+c. Russia
+d. Poland
+Which country stands 2nd next to India in producing Cereal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Poland,['d. Poland']
+230,2448,"Question: 
+Answer Choices are: 
+a. China
+b. Indonesia
+c. Russia
+d. Japan
+Which country stands 3rd last in producing Cereal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Japan,['d. Japan']
+231,2449,"Question: 
+Answer Choices are: 
+a. India
+b. Australia
+c. Iran
+d. Russia
+Which country is more likely to health hazards due to Natural gas consumption?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. Russia,['d. Russia']
+232,2450,"Question: 
+Answer Choices are: 
+a. India
+b. Australia
+c. Iran
+d. Russia
+Which country emits lesser CO2 compared to all the other countries in the plot?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,a. India,['a. India']
+233,2451,"Question: 
+Answer Choices are: 
+a. Three
+b. Four
+c. One
+d. Two
+Based on the above data, how many countries use lesser groundwater resource compared to India?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Two,['d. Two']
+234,2452,"Question: 
+Answer Choices are: 
+a. Canada
+b. Argentina
+c. Germany
+d. India
+Which country is most likely to import Fish?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. India,['d. India']
+235,2453,"Question: 
+Answer Choices are: 
+a. Canada
+b. Argentina
+c. Germany
+d. India
+Tea, Potatoes and Coffee thrive well in tropical climate. Which country produces coffee?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. India,['d. India']
+236,2454,"Question: 
+Answer Choices are: 
+a. Canada
+b. Argentina
+c. Germany
+d. India
+Countries which produce fish have a coastline. Which country is landlocked?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. India,['d. India']
+237,2455,"Question: 
+Answer Choices are: 
+a. Crying baby
+b. Exercise
+c. Distractions
+d. Trivia
+According to Eisenhower Decision Principle, which of the following task should be dropped?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. Distractions,['c. Distractions']
+238,2456,"Question: 
+Answer Choices are: 
+a. Crying baby
+b. Exercise
+c. Distractions
+d. Trivia
+According to Eisenhower Decision Principle, which of the following task should be delegated?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Trivia,['d. Trivia']
+239,2457,"Question: 
+Answer Choices are: 
+a. Crying baby
+b. Exercise
+c. Distractions
+d. Trivia
+According to Eisenhower Decision Principle, which of the following task has an end date?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d.Trivia,['d.Trivia']
+240,2458,"Question: 
+Answer Choices are: 
+a. Crying baby
+b. Exercise
+c. Distractions
+d. Trivia
+According to Eisenhower Decision Principle, which of the following task should be done immediately?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. Crying baby,['a. Crying baby']
+241,2459,"Question: 
+Answer Choices are: 
+a. 4
+b. 5
+c. 6
+d. 7
+How many times does a note repeat within Fret Numbers 1-12 in all the 6 strings?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,a. 4,['a. 4']
+242,2460,"Question: 
+Answer Choices are: 
+a. 6 string - 5 fret, 5 string - 5 fret, 5 string - 7 fret
+b. 5 string - 3 fret, 6 string - 1 fret, 6 string - 3 fret
+c. 6 string - 10 fret, 5 string - 10 fret, 5 string - 12 fret
+d. 5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret
+Which notes do not follow one of the example I-IV-V progressions?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,"d. 5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret","['d. 5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret']"
+243,2461,"Question: 
+Answer Choices are: 
+a. H
+b. He
+c. Li
+d. Be
+Which of the following elements has low chemical reactivity?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. Be,['d. Be']
+244,2462,"Question: 
+Answer Choices are: 
+a. K
+b. Ca
+c. Br
+d. Kr
+Which of the following elements has their outermost electron in the s-orbital?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. K,['a. K']
+245,2463,"Question: 
+Answer Choices are: 
+a. Ca
+b. Fe
+c. Tc
+d. Os
+Which of the following is both a transition metal and has no isotope older than the earth?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. Os,['d. Os']
+246,2464,"Question: 
+Answer Choices are: 
+a. 2003
+b. 2005
+c. 2007
+d. 2009
+Which year did the economic downturn happen?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2009,['d. 2009']
+247,2465,"Question: 
+Answer Choices are: 
+a. 1998 and 2007
+b. 2000 and 2009
+c. 2002 and 2003
+d. 2005 and 2006
+The growth rate of per-capita healthcare spending for which two years are equal?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2005 and 2006,['d. 2005 and 2006']
+248,2466,"Question: 
+Answer Choices are: 
+a. iPod shuffle
+b. iPod nano
+c. iPod photo
+d. iPod mini
+In August 2004, which of the following iPod model was already manufactured?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. iPod mini,['d. iPod mini']
+249,2467,"Question: 
+Answer Choices are: 
+a. 1 GB
+b. 2 GB
+c. 3 GB
+d. 4 GB
+The iPod nano is not available in which storage size?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 4 GB,['d. 4 GB']
+250,2468,"Question: 
+Answer Choices are: 
+a. iPod shuffle
+b. iPod nano
+c. iPod photo
+d. iPod mini
+Which iPod flavor is only available in 512 MB storage size?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. iPod shuffle,['a. iPod shuffle']

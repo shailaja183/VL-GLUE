@@ -1,0 +1,2051 @@
+index,qid,question,origanswer,generatedanswer,correctness
+0,0,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 2
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 3,0
+1,1,"Question: 
+Answer Choices are: 
+a. 4
+b. 5
+c. 2
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+2,2,"Question: 
+Answer Choices are: 
+a. 1
+b. 3
+c. 7
+d. 2
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+3,3,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 2
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 7,0
+4,4,"Question: 
+Answer Choices are: 
+a. 1
+b. 7
+c. 0
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 3,0
+5,5,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 2
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a. 1,1
+6,6,"Question: 
+Answer Choices are: 
+a. 1
+b. 3
+c. 7
+d. 4
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 7,0
+7,7,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 1
+d. 6
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d,0
+8,8,"Question: 
+Answer Choices are: 
+a. 4
+b. 7
+c. 6
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+9,9,"Question: 
+Answer Choices are: 
+a. 5
+b. 6
+c. 2
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+10,10,"Question: 
+Answer Choices are: 
+a. 2
+b. 4
+c. 0
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 0,0
+11,11,"Question: 
+Answer Choices are: 
+a. 4
+b. 7
+c. 2
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 5,0
+12,12,"Question: 
+Answer Choices are: 
+a. 5
+b. 6
+c. 1
+d. 2
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2,1
+13,13,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 6
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 6,0
+14,14,"Question: 
+Answer Choices are: 
+a. 4
+b. 2
+c. 3
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 3,0
+15,15,"Question: 
+Answer Choices are: 
+a. 6
+b. 2
+c. 0
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 0,0
+16,16,"Question: 
+Answer Choices are: 
+a. 4
+b. 5
+c. 2
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 1,0
+17,17,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 4
+d. 6
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 4 moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1].,0
+18,18,"Question: 
+Answer Choices are: 
+a. 0
+b. 4
+c. 2
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 3,0
+19,19,"Question: 
+Answer Choices are: 
+a. 0
+b. 6
+c. 3
+d. 2
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 2,1
+20,20,"Question: 
+Answer Choices are: 
+a. 5
+b. 3
+c. 0
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 7,0
+21,21,"Question: 
+Answer Choices are: 
+a. 3
+b. 7
+c. 6
+d. 0
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 6,0
+22,22,"Question: 
+Answer Choices are: 
+a. 3
+b. 6
+c. 7
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 5,0
+23,23,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 5
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,a. 0,0
+24,24,"Question: 
+Answer Choices are: 
+a. 6
+b. 2
+c. 3
+d. 0
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+25,25,"Question: 
+Answer Choices are: 
+a. 4
+b. 6
+c. 3
+d. 2
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2,0
+26,26,"Question: 
+Answer Choices are: 
+a. 7
+b. 3
+c. 4
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 5,0
+27,27,"Question: 
+Answer Choices are: 
+a. 5
+b. 6
+c. 0
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 3,1
+28,28,"Question: 
+Answer Choices are: 
+a. 7
+b. 2
+c. 6
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 3,1
+29,29,"Question: 
+Answer Choices are: 
+a. 6
+b. 4
+c. 3
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,(c) 3,0
+30,30,"Question: 
+Answer Choices are: 
+a. 4
+b. 2
+c. 5
+d. 0
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. Zero moves are required since the two images are already the same.,0
+31,31,"Question: 
+Answer Choices are: 
+a. 7
+b. 0
+c. 1
+d. 4
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 4,1
+32,32,"Question: 
+Answer Choices are: 
+a. 7
+b. 0
+c. 4
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. 0,0
+33,33,"Question: 
+Answer Choices are: 
+a. 4
+b. 3
+c. 6
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 6,0
+34,34,"Question: 
+Answer Choices are: 
+a. 7
+b. 4
+c. 6
+d. 0
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 0,0
+35,35,"Question: 
+Answer Choices are: 
+a. 4
+b. 3
+c. 0
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 0,0
+36,36,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 4
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 7,0
+37,37,"Question: 
+Answer Choices are: 
+a. 4
+b. 5
+c. 1
+d. 7
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. 5,0
+38,38,"Question: 
+Answer Choices are: 
+a. 7
+b. 0
+c. 1
+d. 4
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 4,1
+39,39,"Question: 
+Answer Choices are: 
+a. 3
+b. 4
+c. 0
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. 0,0
+40,40,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 2
+d. 0
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 0,0
+41,41,"Question: 
+Answer Choices are: 
+a. 0
+b. 2
+c. 1
+d. 3
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 3,0
+42,42,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 1
+d. 0
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+43,43,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 0
+d. 1
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+44,44,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 3
+d. 2
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+45,45,"Question: 
+Answer Choices are: 
+a. 2
+b. 0
+c. 1
+d. 3
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 3,0
+46,46,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 1
+d. 0
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+47,47,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 2
+d. 3
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 3,0
+48,48,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 1
+d. 0
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+49,49,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 3
+d. 2
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2,0
+50,50,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 1
+d. 0
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+51,51,"Question: 
+Answer Choices are: 
+a. 0
+b. 2
+c. 3
+d. 1
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+52,52,"Question: 
+Answer Choices are: 
+a. 2
+b. 1
+c. 0
+d. 3
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 3,0
+53,53,"Question: 
+Answer Choices are: 
+a. 3
+b. 0
+c. 1
+d. 2
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2,0
+54,54,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 3
+d. 2
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. 0,0
+55,55,"Question: 
+Answer Choices are: 
+a. 2
+b. 0
+c. 3
+d. 1
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+56,56,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 2
+d. 3
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. 0,0
+57,57,"Question: 
+Answer Choices are: 
+a. 2
+b. 0
+c. 3
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+58,58,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 2
+d. 3
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 2,0
+59,59,"Question: 
+Answer Choices are: 
+a. 2
+b. 0
+c. 1
+d. 3
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 3,0
+60,60,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 1
+d. 0
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+61,61,"Question: 
+Answer Choices are: 
+a. 1
+b. 3
+c. 0
+d. 2
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+62,62,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 0
+d. 1
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+63,63,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 3
+d. 2
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+64,64,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 3
+d. 2
+How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. 1,1
+65,65,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 2
+d. 0
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+66,66,"Question: 
+Answer Choices are: 
+a. 1
+b. 3
+c. 0
+d. 2
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+67,67,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 0
+d. 1
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d.1,1
+68,68,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 3
+d. 2
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+69,69,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 2
+d. 0
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 0,0
+70,70,"Question: 
+Answer Choices are: 
+a. 0
+b. 3
+c. 2
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. 3,0
+71,71,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 0
+d. 2
+How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. 1,0
+72,72,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 0
+d. 2
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2,0
+73,73,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 3
+d. 2
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2,0
+74,74,"Question: 
+Answer Choices are: 
+a. 3
+b. 1
+c. 0
+d. 2
+How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 2,0
+75,75,"Question: 
+Answer Choices are: 
+a. 3
+b. 0
+c. 2
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. 0,0
+76,76,"Question: 
+Answer Choices are: 
+a. 0
+b. 3
+c. 1
+d. 2
+How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. 1,1
+77,77,"Question: 
+Answer Choices are: 
+a. 3
+b. 0
+c. 2
+d. 1
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+78,78,"Question: 
+Answer Choices are: 
+a. 1
+b. 2
+c. 0
+d. 3
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. 0,0
+79,79,"Question: 
+Answer Choices are: 
+a. 2
+b. 0
+c. 3
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+80,80,"Question: 
+Answer Choices are: 
+a. 1
+b. 6
+c. 4
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,a. 1,0
+81,81,"Question: 
+Answer Choices are: 
+a. 5
+b. 2
+c. 0
+d. 3
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 3,0
+82,82,"Question: 
+Answer Choices are: 
+a. 4
+b. 1
+c. 0
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 0,0
+83,83,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 5
+d. 0
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+84,84,"Question: 
+Answer Choices are: 
+a. 5
+b. 3
+c. 0
+d. 2
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+85,85,"Question: 
+Answer Choices are: 
+a. 3
+b. 0
+c. 1
+d. 2
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 2,0
+86,86,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 0
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+87,87,"Question: 
+Answer Choices are: 
+a. 0
+b. 3
+c. 2
+d. 1
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 1,1
+88,88,"Question: 
+Answer Choices are: 
+a. 0
+b. 2
+c. 3
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,0
+89,89,"Question: 
+Answer Choices are: 
+a. 3
+b. 0
+c. 2
+d. 1
+How many times the Yellow block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c. 2,0
+90,90,"Question: 
+Answer Choices are: 
+a. 7
+b. 0
+c. 5
+d. 6
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. 0,0
+91,91,"Question: 
+Answer Choices are: 
+a. 7
+b. 2
+c. 6
+d. 5
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. 5,1
+92,92,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 2
+d. 6
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d,0
+93,93,"Question: 
+Answer Choices are: 
+a. 1
+b. 5
+c. 3
+d. 6
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 6,0
+94,94,"Question: 
+Answer Choices are: 
+a. 6
+b. 5
+c. 2
+d. 1
+How many moves are required at minimum if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 1,0
+95,95,"Question: 
+Answer Choices are: 
+a. 0
+b. 1
+c. 2
+d. 3
+How many times the Green block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. 3,0
+96,96,"Question: 
+Answer Choices are: 
+a. 2
+b. 3
+c. 1
+d. 0
+How many times the Red block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+97,97,"Question: 
+Answer Choices are: 
+a. 1
+b. 0
+c. 3
+d. 2
+How many times the Orange block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. 2,0
+98,98,"Question: 
+Answer Choices are: 
+a. 0
+b. 3
+c. 2
+d. 1
+How many times the Purple block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,b. 3,0
+99,99,"Question: 
+Answer Choices are: 
+a. 3
+b. 2
+c. 1
+d. 0
+How many times the Blue block is moved if configuration in image [0] is to be transformed into configuration in image [1]?
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. 0,0
+100,100,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,The answer is b.,0
+101,101,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,a. I-II-IV-III,0
+102,102,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. II-III-I-IV,0
+103,103,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,b. I-IV-III-II,1
+104,104,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d,0
+105,105,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+106,106,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+107,107,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+108,108,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,b. I-IV-III-II,0
+109,109,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d,1
+110,110,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+111,111,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+112,112,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,a. I-II-IV-III,0
+113,113,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+114,114,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+115,115,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+116,116,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,The answer is b.,0
+117,117,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,The correct answer is d.,1
+118,118,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,a,1
+119,119,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,Answer: c. II-III-I-IV,0
+120,120,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+121,121,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. II-III-I-IV,1
+122,122,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d,0
+123,123,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+124,124,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+125,125,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,Answer: c. II-III-I-IV,0
+126,126,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+127,127,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,c. II-III-I-IV,1
+128,128,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+129,129,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. I-IV-III-II,0
+130,130,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d,0
+131,131,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+132,132,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. II-III-I-IV,0
+133,133,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. I-IV-III-II,0
+134,134,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. II-III-I-IV,0
+135,135,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+136,136,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. II-III-I-IV,0
+137,137,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,c. II-III-I-IV,0
+138,138,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+139,139,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,b. I-IV-III-II,0
+140,140,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+141,141,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,d. II-I-IV-III,1
+142,142,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+143,143,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+144,144,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+145,145,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,d. II-I-IV-III,0
+146,146,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",c,d. II-I-IV-III,0
+147,147,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",a,d. II-I-IV-III,0
+148,148,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",b,c. II-III-I-IV,0
+149,149,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct moves I-IV in order to convert configuration in image [0] into configuration in image [1].
+Specify the correct answer by choosing one of a,b,c, or d: 
+",d,c,0
+150,150,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+151,151,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a,1
+152,152,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,Answer: a,0
+153,153,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 6 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+154,154,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,true,0
+155,155,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+156,156,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+157,157,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+158,158,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+159,159,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+160,160,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+161,161,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+162,162,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+163,163,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+164,164,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 0 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+165,165,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 0 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+166,166,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 6 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+167,167,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+168,168,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+169,169,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 0 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+170,170,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 7 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+171,171,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+172,172,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+173,173,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,true,0
+174,174,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+175,175,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+176,176,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 0 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+177,177,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+178,178,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+179,179,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,Answer: b,0
+180,180,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+181,181,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+182,182,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+183,183,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 3 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+184,184,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+185,185,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+186,186,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+187,187,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+188,188,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a,1
+189,189,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+190,190,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Green block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+191,191,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+192,192,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,B. False,0
+193,193,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+194,194,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+195,195,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+196,196,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+197,197,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+198,198,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+199,199,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,The answer is b. False.,0
+200,200,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+201,201,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+202,202,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+203,203,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b,0
+204,204,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+205,205,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,A. True,1
+206,206,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+207,207,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+208,208,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+209,209,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,Image,0
+210,210,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+211,211,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+212,212,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+213,213,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+214,214,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+215,215,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+216,216,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+217,217,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+218,218,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+219,219,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+220,220,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+221,221,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Green block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+222,222,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,False,0
+223,223,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+224,224,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+225,225,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+226,226,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,False,0
+227,227,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 3 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+228,228,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+229,229,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Purple block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a,1
+230,230,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+231,231,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+232,232,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+233,233,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 2 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+234,234,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+235,235,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+236,236,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+237,237,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+238,238,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+239,239,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Orange block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a. True,0
+240,240,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+241,241,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 1 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+242,242,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 5 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,b. False,0
+243,243,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+244,244,"Question: 
+Answer Choices are: 
+a. True
+b. False
+There are 4 moves required if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1
+245,245,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 1 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",a,a. True,1
+246,246,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b,1
+247,247,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Yellow block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,The correct answer is b.,1
+248,248,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Red block is moved 0 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,a,0
+249,249,"Question: 
+Answer Choices are: 
+a. True
+b. False
+The Blue block is moved 2 times if image [0] is to be transformed into configuration in image [1].
+Specify the correct answer by choosing one of a or b: 
+",b,b. False,1

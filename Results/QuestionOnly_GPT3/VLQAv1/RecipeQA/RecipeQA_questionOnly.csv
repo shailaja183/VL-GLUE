@@ -1,0 +1,2269 @@
+index,qid,question,origanswer,generatedanswer,generatedanswers
+0,1966,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV in order to make perfect snickerdoodles. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,b. I-IV-III-II,['b. I-IV-III-II']
+1,1967,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make drill powered meat grinder. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+2,1968,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make boozy pecan fudge. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+3,1969,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make garlic spaghetti. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+4,1970,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make basbousa. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is II-I-IV-III.,['The correct order of steps is II-I-IV-III.']
+5,1971,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make spicy tuna courgetti. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+6,1972,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make wintersummer crisp. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,b. I-IV-III-II,['b. I-IV-III-II']
+7,1973,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make knorr spinach dip for soft pretzels. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+8,1974,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+9,1975,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vegetarian bean enchiladas. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,"The correct order of steps is I-IV-III-II, or b.","['The correct order of steps is I-IV-III-II, or b.']"
+10,1976,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make iced coffee frappe. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+11,1977,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make ranch chicken. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+12,1978,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade olive oil spread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+13,1979,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make nacho. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is b.,['The correct order of steps is b.']
+14,1980,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sweet sours. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+15,1981,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fried ice cream. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+16,1982,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make droplets. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+17,1983,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make caramelized sweet potato. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps I-IV is b.,['The correct order of steps I-IV is b.']
+18,1984,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make thai chillies pickled. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+19,1985,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make onigiri. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+20,1986,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy chocolate pudding. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+21,1987,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make baked mashed potato witch fingers. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+22,1988,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chewy chocolate chip cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+23,1989,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make salsa verde green salsa. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,"The correct order of steps is II-I-IV-III, meaning that the ingredients in the mortar should be ground up first, then the tomatillos and jalapeños should be added, then the cilantro, and finally the lime juice.","['The correct order of steps is II-I-IV-III, meaning that the ingredients in the mortar should be ground up first, then the tomatillos and jalapeños should be added, then the cilantro, and finally the lime juice.']"
+24,1990,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chilaquiles soup. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+25,1991,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cheese curds. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,b. I-IV-III-II,['b. I-IV-III-II']
+26,1992,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make baked potatoes and carots. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+27,1993,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make charcuterie board. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps I-IV is c. II-III-I-IV.,['The correct order of steps I-IV is c. II-III-I-IV.']
+28,1994,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hashbrown casserole. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+29,1995,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make a blt. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+30,1996,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make simple spicy rosemary thins. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+31,1997,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cheddar beer soup. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+32,1998,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bacon ham mac cheese dairy free. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+33,1999,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fried ice cream. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct answer is c. II-III-I-IV.,['The correct answer is c. II-III-I-IV.']
+34,2000,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade macncheese. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+35,2001,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make turkey blt. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d,['d']
+36,2002,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sweet onion bread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps I-IV is b. I-IV-III-II.,['The correct order of steps I-IV is b. I-IV-III-II.']
+37,2003,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bacon egg burger. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+38,2004,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make banana bites. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+39,2005,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make freeze dry at home. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+40,2006,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make the cookie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+41,2007,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make lemon sugar cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+42,2008,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make frozen basil bullets. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+43,2009,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make jalapeno infused salt. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+44,2010,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make laser engraved coconuts pina colada. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+45,2011,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bleeding gum rolls. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+46,2012,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make garden cucumber salad. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,b. I-IV-III-II,['b. I-IV-III-II']
+47,2013,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make grilled cheese roll ups. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct answer is d.,['The correct answer is d.']
+48,2014,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make peach lemon popsicles. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+49,2015,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make amazing chocolate pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,b. I-IV-III-II,['b. I-IV-III-II']
+50,2016,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make deep sea diver pg. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,b. I-IV-III-II,['b. I-IV-III-II']
+51,2017,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pumpkin beer beverage cooler. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,"The correct order of steps is II-I-IV-III, so the answer is d.","['The correct order of steps is II-I-IV-III, so the answer is d.']"
+52,2018,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make green tea syrupvodka. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+53,2019,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chocolate cookies dessert. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+54,2020,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make indian pudding. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+55,2021,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make onigiri. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps is b.,['The correct order of steps is b.']
+56,2022,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make peanut butter cup frappuccino recipe. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+57,2023,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fresh mango chocolate chia parfait gluten free. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+58,2024,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make turkish pizza pide lahmcun. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+59,2025,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make the dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+60,2026,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make kefir. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+61,2027,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make tomato sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+62,2028,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make mango pickle the south indian way. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+63,2029,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make quesadilla. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+64,2030,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make dutch baby. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+65,2031,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make matcha tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct answer is d.,['The correct answer is d.']
+66,2032,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy apple cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+67,2033,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make diy almond butter chips. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct answer is d. II-I-IV-III,['The correct answer is d. II-I-IV-III']
+68,2034,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make almonds milk. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+69,2035,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make mousse. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is I-II-IV-III.,['The correct order of steps is I-II-IV-III.']
+70,2036,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sarahs snack mix pizza. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+71,2037,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cake bites. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+72,2038,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make shrimp dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+73,2039,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pickled thai chili hot sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+74,2040,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make peanut butter cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+75,2041,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make thai green chicken curry. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+76,2042,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make kabobs with homemade dressing. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+77,2043,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make making hard boiled eggs with fresh eggs. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+78,2044,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make very easy chocolate fondant. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+79,2045,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cottage pudding cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+80,2046,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bushcraft bannock bread mix. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,b. I-IV-III-II,['b. I-IV-III-II']
+81,2047,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chocolate chip whoopie pies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+82,2048,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make ham and pineapple pinwheels. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+83,2049,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make how to can cabbage. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+84,2050,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pie pops. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+85,2051,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cranberry sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+86,2052,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vainilla mocktail float. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+87,2053,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy homemade ice cream in a baggie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+88,2054,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make apple lattice pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+89,2055,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cranberry oatmeal cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+90,2056,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make baked caramel apple doughnuts. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,b. I-IV-III-II,['b. I-IV-III-II']
+91,2057,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make life hack 101 snack emergency kit. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+92,2058,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make banana hanger a way to conserve more time. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+93,2059,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make green tea meringues with nutella. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,Option c is correct. The order should be II-III-I-IV.,['Option c is correct. The order should be II-III-I-IV.']
+94,2060,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make circumferencediameter pi . Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is I-IV-III-II.,['The correct order of steps is I-IV-III-II.']
+95,2061,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make be a lunch hero. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+96,2062,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make skyrim boiled cream treat. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+97,2063,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make how to cook bacon in the oven. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+98,2064,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make a cookie cutter. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+99,2065,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chocolate chip whoopie pies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,I. Preheat oven to 375 degrees F (190 degrees C).,"['I. Preheat oven to 375 degrees F (190 degrees C).', 'II. In a small bowl, stir together flour, baking powder, salt, and baking soda.', 'III. In a large bowl, cream together the butter, brown sugar, and white sugar until light and fluffy. ', 'IV. Beat in the eggs one at a time, then stir in the vanilla.', 'The correct answer is b. I-IV-III-II.']"
+100,2066,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make life changing egg trick. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+101,2067,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make carrot cake recipe. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,a. I-II-IV-III,['a. I-II-IV-III']
+102,2068,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make banana boat. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+103,2069,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make halloween treat. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+104,2070,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make orange peel lined chocolate cupcakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+105,2071,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make tmnt camouflage cupcakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+106,2072,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make drunken chicken easy white wine chicken. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+107,2073,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make potato and cabbage fry. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+108,2074,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make rendang the spicy food from indonesia. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+109,2075,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vegan french apple pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+110,2076,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hashbrown casserole. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,a. I-II-IV-III,['a. I-II-IV-III']
+111,2077,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make butterbeer from harry potter. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,b. I-IV-III-II,['b. I-IV-III-II']
+112,2078,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make poteca bread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,b. I-IV-III-II,['b. I-IV-III-II']
+113,2079,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make smores cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+114,2080,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pizza rolls. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+115,2081,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make moroccan three bean and kale soup. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps is c. II-III-I-IV.,['The correct order of steps is c. II-III-I-IV.']
+116,2082,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bite sized smores. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+117,2083,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make faberge eggs. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The order of steps should be: I-II-IV-III.,['The order of steps should be: I-II-IV-III.']
+118,2084,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sauteed apple shortcake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,b. I-IV-III-II,['b. I-IV-III-II']
+119,2085,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make greek yogurt berries smoothie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+120,2086,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vodka penne. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+121,2087,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make better roman noodles. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+122,2088,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make naughty chocolate. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps I-IV is d. II-I-IV-III.,['The correct order of steps I-IV is d. II-I-IV-III.']
+123,2089,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cherry plum tarts for a wannabe fancy pants. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+124,2090,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make the cookie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+125,2091,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vodka infusions soak technique coconut and mango. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+126,2092,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make coffee bean cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+127,2093,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chocolate treasure. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+128,2094,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pickled red beets. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+129,2095,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make garlic spaghetti. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+130,2096,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make jello salad. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,Answer: c. II-III-I-IV,['Answer: c. II-III-I-IV']
+131,2097,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make super simple glutenfree rolls. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+132,2098,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make grilled cheese and bacon sandwich. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,a. I-II-IV-III,['a. I-II-IV-III']
+133,2099,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chicken in peanut mole sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps is c. II-III-I-IV.,['The correct order of steps is c. II-III-I-IV.']
+134,2100,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make moroccan three bean and kale soup. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+135,2101,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make frozen pumpkin pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+136,2102,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make maple candy. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+137,2103,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bushcraft bannock bread mix. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+138,2104,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cinnamon simple syrup. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+139,2105,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make ghoul icious sausage and pumpkin soupits . Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+140,2106,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make authentic irish creme cocktail. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps I-IV is b.,['The correct order of steps I-IV is b.']
+141,2107,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make icecold bottles!. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+142,2108,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade chili. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is b.,['The correct order of steps is b.']
+143,2109,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make blueberry pi pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+144,2110,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make mini maypole cakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+145,2111,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make no bake cookies personalize them. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+146,2112,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make candy dispenser. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+147,2113,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make orange chicken gluten free bonus condiment dyn. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d,['d']
+148,2114,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make 5 cheese ziti al forno. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct answer is c. II-III-I-IV.,['The correct answer is c. II-III-I-IV.']
+149,2115,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make banana bites. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps would be d. II-I-IV-III.,['The correct order of steps would be d. II-I-IV-III.']
+150,2116,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pepperoni pizza dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+151,2117,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make kite cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct answer is c. II-III-I-IV.,['The correct answer is c. II-III-I-IV.']
+152,2118,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make a bowl of cereal. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+153,2119,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make clay bacon. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+154,2120,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make condensed milk iced coffee. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,"The correct order is II-I-IV-III, or option d.","['The correct order is II-I-IV-III, or option d.']"
+155,2121,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make white trash. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+156,2122,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make blackberry milk ice pops. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The order of the steps should be d. II-I-IV-III.,['The order of the steps should be d. II-I-IV-III.']
+157,2123,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make friday night negroni. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+158,2124,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make halloween rice krispie treats. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+159,2125,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make awesome mexican dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+160,2126,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make indian masala chai spiced tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+161,2127,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade butter. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct answer is b. I-IV-III-II.,['The correct answer is b. I-IV-III-II.']
+162,2128,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make smores berries. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+163,2129,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make peach brown betty. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+164,2130,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chicken chile verde. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+165,2131,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cereal tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+166,2132,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bleeding cupcakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is c. II-III-I-IV.,['The correct order of steps is c. II-III-I-IV.']
+167,2133,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make mexican chicken alfredo. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+168,2134,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hearty vegetable lasagna. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+169,2135,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make shrimpin aint easy. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,b. I-IV-III-II,['b. I-IV-III-II']
+170,2136,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sweet delicious banana bread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+171,2137,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make how to secure a growler using a seatbelt. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+172,2138,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fenugreek leaves paratha flat bread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+173,2139,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make ancho coffee short ribs. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+174,2140,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make copy cat loft house cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+175,2141,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make candy dispenser. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+176,2142,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make making a homeade milkshake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+177,2143,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make monkey tails. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is: b. I-IV-III-II,['The correct order of steps is: b. I-IV-III-II']
+178,2144,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make chocolate chip french vanilla pudding cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+179,2145,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make beet n bloody mary recipe. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+180,2146,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make vegan french apple pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+181,2147,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make how to cut an onion without crying. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+182,2148,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make almond halwa. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct answer is a. I-II-IV-III.,['The correct answer is a. I-II-IV-III.']
+183,2149,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fresh and healthy summer beverage. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,a. I-II-IV-III,['a. I-II-IV-III']
+184,2150,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade ice cream. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+185,2151,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make corn cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+186,2152,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy coconut macaroons. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,I. Preheat oven to 375 degrees. Line baking sheets with parchment paper.,"['I. Preheat oven to 375 degrees. Line baking sheets with parchment paper.', 'II. Beat egg whites and salt in electric mixer on medium speed until foamy. ', 'III. Add sugar; beat on high speed until stiff peaks form. ', 'IV. Gently fold in coconut.', 'The correct order of steps is II-III-IV-I.']"
+187,2153,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make kimkraut souerchi sriracha slaw. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct answer is b. I-IV-III-II.,['The correct answer is b. I-IV-III-II.']
+188,2154,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make meringues. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,b. I-IV-III-II,['b. I-IV-III-II']
+189,2155,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cake balls. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,b. I-IV-III-II,['b. I-IV-III-II']
+190,2156,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make cheap faux energy drinks. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+191,2157,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make smoothies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,I. put strawberry in blender,"['I. put strawberry in blender', 'II. add milk to blender', 'III. add banana to blender', 'IV. blend all ingredients', 'The correct order of steps I-IV in order to make a smoothie is: I-II-III-IV.']"
+192,2158,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make french vanilla iced coffee. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,I. Fill a glass with ice cubes,"['I. Fill a glass with ice cubes', 'II. Pour cold brew coffee into the glass', 'III. Add flavored syrup to the coffee', 'IV. Top off the drink with milk', 'The correct order of steps is II-III-IV-I.']"
+193,2159,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make super fruit sushi. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+194,2160,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy smoked salmon dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+195,2161,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bacon pancake poppers. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+196,2162,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hamburgerchicken slider cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+197,2163,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make raw rose petals in sugar. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+198,2164,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make potato skin mini quiches. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+199,2165,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make 314 pi cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,b. I-IV-III-II,['b. I-IV-III-II']
+200,2166,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy 2 ingredient white chocolate mous. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+201,2167,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make quinoa jalapeno poppers. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+202,2168,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make oreo meringue cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,"The correct order of steps is I-IV-III-II, so the correct answer is d.","['The correct order of steps is I-IV-III-II, so the correct answer is d.']"
+203,2169,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy and quick fruit smoothie no blender needed. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps is d. II-I-IV-III.,['The correct order of steps is d. II-I-IV-III.']
+204,2170,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make apple accented chai tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+205,2171,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make buttermilk biscuits. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+206,2172,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make my banana bread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+207,2173,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make citrus mocktail. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+208,2174,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bread machine pizza dough. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+209,2175,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy apple cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+210,2176,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make green tomato sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+211,2177,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy food dehydrator. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,I. Place fruit onto dehydrator trays.,"['I. Place fruit onto dehydrator trays.', 'II. Turn dehydrator on to the desired setting.', 'III. Check on the progress of the fruit periodically.', 'IV. Remove fruit from dehydrator when it is finished.', 'The correct order of steps is I-II-III-IV.']"
+212,2178,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hollyhock salad dressing. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+213,2179,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make raw vegan cupcakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+214,2180,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make nom nom mashed potatoes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,b. I-IV-III-II,['b. I-IV-III-II']
+215,2181,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make the garlic oil. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+216,2182,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make rice pudding premium. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,The correct order of steps I-IV to make rice pudding premium is b. I-IV-III-II.,['The correct order of steps I-IV to make rice pudding premium is b. I-IV-III-II.']
+217,2183,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make optimize your turkey perfect white meat. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,Steps I-IV should be performed in the order b. I-IV-III-II.,['Steps I-IV should be performed in the order b. I-IV-III-II.']
+218,2184,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make bacon sloppy joes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+219,2185,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make green tea crepe cones. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+220,2186,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sweet squash pancakes paleo friendly no flour. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+221,2187,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make barbecue chicken cheese spicy mini burrito. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+222,2188,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make a cow pie. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+223,2189,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make copy cat loft house cookies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+224,2190,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy healthy fried eggeggs no greaseno flipping. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+225,2191,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make potato bonda an easy to snack food. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+226,2192,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make what is dry land fishmorels. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+227,2193,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make fresh fruit margaritas. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct answer is d. II-I-IV-III.,['The correct answer is d. II-I-IV-III.']
+228,2194,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make easy vegetarian lasagna. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+229,2195,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make tartar sauce. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+230,2196,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make copycat yo sushi chicken katsu curry. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,c. II-III-I-IV,['c. II-III-I-IV']
+231,2197,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make kite cake. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps to make kite cake is II-I-IV-III.,['The correct order of steps to make kite cake is II-I-IV-III.']
+232,2198,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make ghoul icious sausage and pumpkin soupits. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+233,2199,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade sweet tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+234,2200,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make hibiscus tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+235,2201,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sweet banana salad. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,Answer: b. I-IV-III-II,['Answer: b. I-IV-III-II']
+236,2202,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make sev puri indian snack. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+237,2203,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make led lights gummy candy edible glowing candy. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct answer is d.,['The correct answer is d.']
+238,2204,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make redneck egg rolls. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+239,2205,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make masala chai indian spice tea. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,d. II-I-IV-III,['d. II-I-IV-III']
+240,2206,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make homemade nutella. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,c. II-III-I-IV,['c. II-III-I-IV']
+241,2207,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make apple chocolate and peanut butter snack. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+242,2208,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make halloween treat. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,c. II-III-I-IV,['c. II-III-I-IV']
+243,2209,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pudding chan. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+244,2210,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make coconut brownies. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+245,2211,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make camping pizza. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",b,d. II-I-IV-III,['d. II-I-IV-III']
+246,2212,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make purple punch. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,The correct order of steps is b. I-IV-III-II.,['The correct order of steps is b. I-IV-III-II.']
+247,2213,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make mouthwatering baked chicken. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",a,d. II-I-IV-III,['d. II-I-IV-III']
+248,2214,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make pepperoni pizza dip. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,The correct answer is d. II-I-IV-III.,['The correct answer is d. II-I-IV-III.']
+249,2215,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make edible succulent terrarium cupcakes. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
+250,2216,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make gluten free cornbread. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",c,c. II-III-I-IV,['c. II-III-I-IV']
+251,2217,"Question: 
+Answer Choices are: 
+a. I-II-IV-III
+b. I-IV-III-II
+c. II-III-I-IV
+d. II-I-IV-III
+Choose the correct order of steps I-IV  in order to make peanut chutney. Left image is denoted by [0] and right image is denoted by [1].
+Specify the correct answer by choosing one of a, b, c, or d: 
+",d,d. II-I-IV-III,['d. II-I-IV-III']
