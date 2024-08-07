@@ -1,0 +1,251 @@
+qid,question,origanswer,generatedanswer,correctness
+0,In how many moves one can convert left image into right image?,0,3,0
+1,In how many moves one can convert left image into right image?,3,0,0
+2,In how many moves one can convert left image into right image?,0,0,1
+3,In how many moves one can convert left image into right image?,0,0,1
+4,In how many moves one can convert left image into right image?,0,0,1
+5,In how many moves one can convert left image into right image?,0,0,1
+6,In how many moves one can convert left image into right image?,0,0,1
+7,In how many moves one can convert left image into right image?,2,1,0
+8,In how many moves one can convert left image into right image?,3,0,0
+9,In how many moves one can convert left image into right image?,3,3,1
+10,In how many moves one can convert left image into right image?,0,1,0
+11,In how many moves one can convert left image into right image?,2,0,0
+12,In how many moves one can convert left image into right image?,3,1,0
+13,In how many moves one can convert left image into right image?,1,2,0
+14,In how many moves one can convert left image into right image?,1,0,0
+15,In how many moves one can convert left image into right image?,1,3,0
+16,In how many moves one can convert left image into right image?,2,0,0
+17,In how many moves one can convert left image into right image?,0,2,0
+18,In how many moves one can convert left image into right image?,2,1,0
+19,In how many moves one can convert left image into right image?,3,1,0
+20,In how many moves one can convert left image into right image?,1,2,0
+21,In how many moves one can convert left image into right image?,0,2,0
+22,In how many moves one can convert left image into right image?,0,0,1
+23,In how many moves one can convert left image into right image?,3,1,0
+24,In how many moves one can convert left image into right image?,2,1,0
+25,In how many moves one can convert left image into right image?,2,0,0
+26,In how many moves one can convert left image into right image?,1,2,0
+27,In how many moves one can convert left image into right image?,3,2,0
+28,In how many moves one can convert left image into right image?,3,1,0
+29,In how many moves one can convert left image into right image?,2,1,0
+30,In how many moves one can convert left image into right image?,0,0,1
+31,In how many moves one can convert left image into right image?,3,3,1
+32,In how many moves one can convert left image into right image?,2,2,1
+33,In how many moves one can convert left image into right image?,0,0,1
+34,In how many moves one can convert left image into right image?,1,1,1
+35,In how many moves one can convert left image into right image?,0,0,1
+36,In how many moves one can convert left image into right image?,2,2,1
+37,In how many moves one can convert left image into right image?,0,0,1
+38,In how many moves one can convert left image into right image?,3,3,1
+39,In how many moves one can convert left image into right image?,1,1,1
+40,How many times the Green block should be moved to convert left image into right image?,1,0,0
+41,How many times the Purple block should be moved to convert left image into right image?,2,2,1
+42,How many times the Orange block should be moved to convert left image into right image?,2,0,0
+43,How many times the Purple block should be moved to convert left image into right image?,3,0,0
+44,How many times the Yellow block should be moved to convert left image into right image?,0,0,1
+45,How many times the Orange block should be moved to convert left image into right image?,2,2,1
+46,How many times the Purple block should be moved to convert left image into right image?,2,2,1
+47,How many times the Blue block should be moved to convert left image into right image?,1,1,1
+48,How many times the Yellow block should be moved to convert left image into right image?,2,2,1
+49,How many times the Yellow block should be moved to convert left image into right image?,1,1,1
+50,How many times the Yellow block should be moved to convert left image into right image?,2,1,0
+51,How many times the Blue block should be moved to convert left image into right image?,3,3,1
+52,How many times the Blue block should be moved to convert left image into right image?,1,1,1
+53,How many times the Yellow block should be moved to convert left image into right image?,2,2,1
+54,How many times the Yellow block should be moved to convert left image into right image?,0,2,0
+55,How many times the Purple block should be moved to convert left image into right image?,3,2,0
+56,How many times the Purple block should be moved to convert left image into right image?,0,0,1
+57,How many times the Yellow block should be moved to convert left image into right image?,3,2,0
+58,How many times the Purple block should be moved to convert left image into right image?,0,2,0
+59,How many times the Orange block should be moved to convert left image into right image?,2,3,0
+60,How many times the Purple block should be moved to convert left image into right image?,2,2,1
+61,How many times the Purple block should be moved to convert left image into right image?,0,1,0
+62,How many times the Blue block should be moved to convert left image into right image?,3,3,1
+63,How many times the Orange block should be moved to convert left image into right image?,0,2,0
+64,How many times the Red block should be moved to convert left image into right image?,1,0,0
+65,How many times the Blue block should be moved to convert left image into right image?,2,1,0
+66,How many times the Green block should be moved to convert left image into right image?,0,0,1
+67,How many times the Blue block should be moved to convert left image into right image?,3,3,1
+68,How many times the Green block should be moved to convert left image into right image?,0,2,0
+69,How many times the Yellow block should be moved to convert left image into right image?,1,0,0
+70,How many times the Yellow block should be moved to convert left image into right image?,3,3,1
+71,How many times the Red block should be moved to convert left image into right image?,3,0,0
+72,How many times the Orange block should be moved to convert left image into right image?,1,0,0
+73,How many times the Orange block should be moved to convert left image into right image?,1,1,1
+74,How many times the Red block should be moved to convert left image into right image?,1,0,0
+75,How many times the Yellow block should be moved to convert left image into right image?,3,0,0
+76,How many times the Red block should be moved to convert left image into right image?,2,1,0
+77,How many times the Orange block should be moved to convert left image into right image?,3,0,0
+78,How many times the Green block should be moved to convert left image into right image?,0,3,0
+79,How many times the Yellow block should be moved to convert left image into right image?,3,2,0
+80,In how many moves one can convert left image into right image?,3,2,0
+81,In how many moves one can convert left image into right image?,0,3,0
+82,In how many moves one can convert left image into right image?,3,0,0
+83,In how many moves one can convert left image into right image?,2,0,0
+84,In how many moves one can convert left image into right image?,0,1,0
+85,How many times the Orange block should be moved to convert left image into right image?,2,0,0
+86,How many times the Yellow block should be moved to convert left image into right image?,3,1,0
+87,How many times the Green block should be moved to convert left image into right image?,3,1,0
+88,How many times the Yellow block should be moved to convert left image into right image?,1,3,0
+89,How many times the Yellow block should be moved to convert left image into right image?,3,3,1
+90,In how many moves one can convert left image into right image?,2,3,0
+91,In how many moves one can convert left image into right image?,3,2,0
+92,In how many moves one can convert left image into right image?,1,0,0
+93,In how many moves one can convert left image into right image?,1,0,0
+94,In how many moves one can convert left image into right image?,1,2,0
+95,How many times the Green block should be moved to convert left image into right image?,1,3,0
+96,How many times the Red block should be moved to convert left image into right image?,2,1,0
+97,How many times the Orange block should be moved to convert left image into right image?,0,0,1
+98,How many times the Purple block should be moved to convert left image into right image?,3,1,0
+99,How many times the Blue block should be moved to convert left image into right image?,2,2,1
+100,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+101,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+102,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+103,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+104,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+105,Choose the correct order of moves I-IV to convert left image into right image.,0,2,0
+106,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+107,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+108,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+109,Choose the correct order of moves I-IV to convert left image into right image.,3,2,0
+110,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+111,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+112,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+113,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+114,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+115,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+116,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+117,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+118,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+119,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+120,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+121,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+122,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+123,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+124,Choose the correct order of moves I-IV to convert left image into right image.,3,2,0
+125,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+126,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+127,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+128,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+129,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+130,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+131,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+132,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+133,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+134,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+135,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+136,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+137,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+138,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+139,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+140,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+141,Choose the correct order of moves I-IV to convert left image into right image.,3,2,0
+142,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+143,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+144,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+145,Choose the correct order of moves I-IV to convert left image into right image.,1,3,0
+146,Choose the correct order of moves I-IV to convert left image into right image.,2,3,0
+147,Choose the correct order of moves I-IV to convert left image into right image.,0,3,0
+148,Choose the correct order of moves I-IV to convert left image into right image.,1,2,0
+149,Choose the correct order of moves I-IV to convert left image into right image.,3,3,1
+150,There are 1 moves required convert left image into right image.,0,1,0
+151,There are 1 moves required convert left image into right image.,0,1,0
+152,There are 3 moves required convert left image into right image.,1,1,1
+153,There are 6 moves required convert left image into right image.,1,1,1
+154,There are 2 moves required convert left image into right image.,1,1,1
+155,There are 1 moves required convert left image into right image.,0,1,0
+156,There are 5 moves required convert left image into right image.,1,1,1
+157,There are 1 moves required convert left image into right image.,0,1,0
+158,There are 1 moves required convert left image into right image.,0,1,0
+159,There are 1 moves required convert left image into right image.,0,1,0
+160,There are 2 moves required convert left image into right image.,0,1,0
+161,There are 2 moves required convert left image into right image.,0,1,0
+162,There are 2 moves required convert left image into right image.,0,1,0
+163,There are 2 moves required convert left image into right image.,0,1,0
+164,There are 0 moves required convert left image into right image.,1,1,1
+165,There are 0 moves required convert left image into right image.,1,1,1
+166,There are 6 moves required convert left image into right image.,1,1,1
+167,There are 1 moves required convert left image into right image.,1,1,1
+168,There are 5 moves required convert left image into right image.,1,1,1
+169,There are 0 moves required convert left image into right image.,1,1,1
+170,There are 7 moves required convert left image into right image.,1,1,1
+171,There are 4 moves required convert left image into right image.,1,1,1
+172,There are 3 moves required convert left image into right image.,0,1,0
+173,There are 3 moves required convert left image into right image.,0,1,0
+174,There are 3 moves required convert left image into right image.,0,1,0
+175,There are 3 moves required convert left image into right image.,0,1,0
+176,There are 0 moves required convert left image into right image.,1,1,1
+177,There are 3 moves required convert left image into right image.,0,1,0
+178,There are 2 moves required convert left image into right image.,1,1,1
+179,There are 3 moves required convert left image into right image.,0,1,0
+180,There are 4 moves required convert left image into right image.,0,1,0
+181,There are 4 moves required convert left image into right image.,0,1,0
+182,There are 4 moves required convert left image into right image.,0,1,0
+183,There are 3 moves required convert left image into right image.,1,1,1
+184,There are 4 moves required convert left image into right image.,0,1,0
+185,There are 4 moves required convert left image into right image.,0,1,0
+186,There are 4 moves required convert left image into right image.,0,1,0
+187,There are 4 moves required convert left image into right image.,0,1,0
+188,There are 4 moves required convert left image into right image.,0,1,0
+189,There are 4 moves required convert left image into right image.,0,1,0
+190,The Green block is moved 0 times if one wants to convert left image into right image.,1,1,1
+191,The Purple block is moved 2 times if one wants to convert left image into right image.,1,1,1
+192,The Orange block is moved 1 times if one wants to convert left image into right image.,0,1,0
+193,The Purple block is moved 1 times if one wants to convert left image into right image.,0,1,0
+194,The Yellow block is moved 0 times if one wants to convert left image into right image.,1,1,1
+195,The Orange block is moved 0 times if one wants to convert left image into right image.,1,1,1
+196,The Purple block is moved 3 times if one wants to convert left image into right image.,1,1,1
+197,The Blue block is moved 1 times if one wants to convert left image into right image.,0,1,0
+198,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+199,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+200,The Yellow block is moved 3 times if one wants to convert left image into right image.,1,1,1
+201,The Blue block is moved 2 times if one wants to convert left image into right image.,1,1,1
+202,The Blue block is moved 1 times if one wants to convert left image into right image.,0,1,0
+203,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+204,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+205,The Red block is moved 1 times if one wants to convert left image into right image.,0,1,0
+206,The Purple block is moved 3 times if one wants to convert left image into right image.,1,1,1
+207,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+208,The Purple block is moved 3 times if one wants to convert left image into right image.,1,1,1
+209,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+210,The Blue block is moved 1 times if one wants to convert left image into right image.,0,1,0
+211,The Yellow block is moved 2 times if one wants to convert left image into right image.,1,1,1
+212,The Yellow block is moved 0 times if one wants to convert left image into right image.,1,1,1
+213,The Orange block is moved 2 times if one wants to convert left image into right image.,1,1,1
+214,The Red block is moved 1 times if one wants to convert left image into right image.,0,1,0
+215,The Orange block is moved 1 times if one wants to convert left image into right image.,0,1,0
+216,The Green block is moved 1 times if one wants to convert left image into right image.,0,1,0
+217,The Red block is moved 3 times if one wants to convert left image into right image.,1,1,1
+218,The Yellow block is moved 2 times if one wants to convert left image into right image.,1,1,1
+219,The Orange block is moved 1 times if one wants to convert left image into right image.,0,1,0
+220,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+221,The Green block is moved 1 times if one wants to convert left image into right image.,0,1,0
+222,The Purple block is moved 1 times if one wants to convert left image into right image.,0,1,0
+223,The Red block is moved 1 times if one wants to convert left image into right image.,0,1,0
+224,The Red block is moved 2 times if one wants to convert left image into right image.,1,1,1
+225,The Purple block is moved 1 times if one wants to convert left image into right image.,0,1,0
+226,The Blue block is moved 2 times if one wants to convert left image into right image.,1,1,1
+227,The Blue block is moved 3 times if one wants to convert left image into right image.,1,1,1
+228,The Orange block is moved 2 times if one wants to convert left image into right image.,1,1,1
+229,The Purple block is moved 1 times if one wants to convert left image into right image.,0,1,0
+230,There are 5 moves required convert left image into right image.,0,1,0
+231,There are 5 moves required convert left image into right image.,0,1,0
+232,There are 4 moves required convert left image into right image.,1,1,1
+233,There are 2 moves required convert left image into right image.,1,1,1
+234,There are 5 moves required convert left image into right image.,0,1,0
+235,The Orange block is moved 1 times if one wants to convert left image into right image.,0,1,0
+236,The Yellow block is moved 1 times if one wants to convert left image into right image.,0,1,0
+237,The Blue block is moved 0 times if one wants to convert left image into right image.,1,1,1
+238,The Yellow block is moved 0 times if one wants to convert left image into right image.,1,1,1
+239,The Orange block is moved 2 times if one wants to convert left image into right image.,1,1,1
+240,There are 5 moves required convert left image into right image.,0,1,0
+241,There are 1 moves required convert left image into right image.,1,1,1
+242,There are 5 moves required convert left image into right image.,0,1,0
+243,There are 4 moves required convert left image into right image.,1,1,1
+244,There are 4 moves required convert left image into right image.,1,1,1
+245,The Blue block is moved 1 times if one wants to convert left image into right image.,0,1,0
+246,The Red block is moved 2 times if one wants to convert left image into right image.,1,1,1
+247,The Yellow block is moved 2 times if one wants to convert left image into right image.,1,1,1
+248,The Red block is moved 0 times if one wants to convert left image into right image.,1,1,1
+249,The Blue block is moved 2 times if one wants to convert left image into right image.,1,1,1
