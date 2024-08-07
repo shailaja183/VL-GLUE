@@ -1,0 +1,2401 @@
+qid,question,origanswer,generatedanswer,generatedanswers
+0,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+1,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+2,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+3,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+4,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+5,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+6,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+7,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+8,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+9,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+10,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+11,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+12,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+13,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+14,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+15,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+16,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+17,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+18,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+19,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+20,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+21,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+22,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+23,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+24,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+25,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+26,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+27,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+28,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+29,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+30,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0,['b. Image0 matches Caption1 and image1 matches Caption0']
+31,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+32,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+33,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+34,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+35,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+36,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+37,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+38,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+39,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+40,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+41,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+42,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+43,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+44,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+45,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+46,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+47,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+48,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+49,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+50,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+51,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+52,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+53,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+54,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+55,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+56,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+57,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+58,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+59,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+60,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+61,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+62,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+63,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+64,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+65,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+66,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+67,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+68,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+69,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+70,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+71,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+72,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+73,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+74,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+75,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+76,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+77,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+78,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+79,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+80,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+81,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+82,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+83,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+84,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+85,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+86,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a.Image0 matches Caption0 and the image1 matches Caption1,['a.Image0 matches Caption0 and the image1 matches Caption1']
+87,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+88,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+89,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+90,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and image1 matches Caption1.,['Image0 matches Caption0 and image1 matches Caption1.']
+91,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+92,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+93,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+94,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+95,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+96,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+97,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+98,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+99,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+100,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+101,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+102,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+103,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+104,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+105,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+106,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+107,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+108,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+109,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+110,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+111,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+112,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+113,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+114,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+115,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+116,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+117,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+118,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a. Image0 matches Caption0 and the image1 matches Caption1,"['What is the name of the first president of the United States?', 'a. Image0 matches Caption0 and the image1 matches Caption1']"
+119,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+120,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: a,['Answer: a']
+121,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+122,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+123,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+124,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+125,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+126,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+127,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+128,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+129,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+130,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+131,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+132,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+133,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+134,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+135,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+136,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+137,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+138,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+139,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+140,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+141,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+142,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+143,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+144,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+145,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+146,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+147,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+148,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+149,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+150,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+151,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+152,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+153,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+154,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+155,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+156,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+157,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and the image1 matches Caption1.,['a. Image0 matches Caption0 and the image1 matches Caption1.']
+158,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+159,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+160,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+161,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+162,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+163,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+164,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+165,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+166,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+167,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+168,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+169,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+170,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+171,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,their correct answer is b.,['their correct answer is b.']
+172,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and the image1 matches Caption1.,['a. Image0 matches Caption0 and the image1 matches Caption1.']
+173,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+174,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+175,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+176,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+177,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+178,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+179,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+180,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+181,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+182,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+183,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+184,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+185,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+186,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+187,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+188,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+189,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+190,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+191,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+192,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+193,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+194,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+195,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+196,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+197,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+198,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+199,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+200,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+201,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+202,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+203,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+204,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+205,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0,['b. Image0 matches Caption1 and image1 matches Caption0']
+206,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+207,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+208,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+209,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+210,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+211,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+212,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+213,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Answer: b,['Answer: b']
+214,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+215,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,their correct answer is b,['their correct answer is b']
+216,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+217,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+218,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+219,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and image1 matches Caption1.,['a. Image0 matches Caption0 and image1 matches Caption1.']
+220,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+221,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+222,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+223,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+224,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+225,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+226,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+227,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+228,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+229,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+230,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+231,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+232,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+233,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+234,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+235,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+236,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+237,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+238,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+239,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+240,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+241,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+242,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+243,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. image0 matches Caption1 and image1 matches Caption0,['b. image0 matches Caption1 and image1 matches Caption0']
+244,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+245,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+246,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+247,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+248,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+249,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+250,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+251,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+252,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+253,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+254,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+255,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+256,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+257,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+258,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+259,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+260,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+261,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+262,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+263,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+264,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+265,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+266,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Answer: b,['Answer: b']
+267,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+268,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+269,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+270,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+271,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+272,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+273,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+274,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+275,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+276,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+277,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+278,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+279,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+280,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+281,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+282,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+283,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+284,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+285,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+286,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+287,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+288,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+289,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+290,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+291,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+292,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+293,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+294,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+295,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+296,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+297,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+298,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+299,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+300,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+301,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a. Image0 matches Caption0 and the image1 matches Caption1.,['a. Image0 matches Caption0 and the image1 matches Caption1.']
+302,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+303,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+304,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+305,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+306,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+307,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+308,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+309,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+310,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+311,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+312,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+313,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+314,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+315,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+316,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+317,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+318,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+319,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+320,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+321,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+322,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+323,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+324,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+325,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+326,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+327,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+328,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+329,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+330,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+331,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+332,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+333,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+334,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,None of the above,['None of the above']
+335,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+336,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+337,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+338,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+339,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+340,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+341,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+342,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
+343,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+344,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+345,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+346,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+347,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+348,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,"For this question, the answer is b.","['For this question, the answer is b.']"
+349,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+350,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+351,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+352,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+353,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a,['a']
+354,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+355,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+356,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+357,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+358,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+359,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+360,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+361,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,The correct answer is b.,['The correct answer is b.']
+362,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+363,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and Image1 matches Caption0,['b. Image0 matches Caption1 and Image1 matches Caption0']
+364,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and image1 matches Caption0.,['b. Image0 matches Caption1 and image1 matches Caption0.']
+365,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+366,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+367,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+368,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+369,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,The correct answer is b.,['The correct answer is b.']
+370,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+371,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+372,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+373,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+374,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+375,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,Answer: b,['Answer: b']
+376,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,The correct answer is b.,['The correct answer is b.']
+377,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+378,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+379,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+380,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+381,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+382,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+383,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+384,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,The correct answer is b.,['The correct answer is b.']
+385,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+386,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+387,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+388,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+389,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+390,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+391,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+392,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+393,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,a. Image0 matches Caption0 and the image1 matches Caption1,['a. Image0 matches Caption0 and the image1 matches Caption1']
+394,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b. Image0 matches Caption1 and the image1 matches Caption0,['b. Image0 matches Caption1 and the image1 matches Caption0']
+395,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",b,b,['b']
+396,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b,['b']
+397,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,Image0 matches Caption0 and the image1 matches Caption1.,['Image0 matches Caption0 and the image1 matches Caption1.']
+398,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,b. Image0 matches Caption1 and the image1 matches Caption0.,['b. Image0 matches Caption1 and the image1 matches Caption0.']
+399,"Question: 
+Answer Choices are: 
+a. Image0 matches Caption0 and the image1 matches Caption1
+b. Image0 matches Caption1 and the image1 matches Caption0
+Specify their correct answer by choosing one of a or b:
+",a,a,['a']
