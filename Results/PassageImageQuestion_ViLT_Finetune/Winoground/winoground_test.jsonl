@@ -1,0 +1,809 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "winoground",
+    "license": {},
+    "data_subtype": "winoground",
+    "questions": [
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_320.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: the moon is over the cow, Caption1: the cow is over the moon",
+            "question_id": 320,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_321.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: someone babys a pet, Caption1: someone pets a baby",
+            "question_id": 321,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_322.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: house cat, Caption1: cat house",
+            "question_id": 322,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_323.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: gold for pan, Caption1: pan for gold",
+            "question_id": 323,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_324.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: plants for water, Caption1: water for plants",
+            "question_id": 324,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_325.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: the businessperson's down fall, Caption1: the businessperson's fall down",
+            "question_id": 325,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_326.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: outswam the person in the red swimcap, Caption1: the person in the red swimcap swamout",
+            "question_id": 326,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_327.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: shiping a mann, Caption1: manning a ship",
+            "question_id": 327,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_328.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: the person who isn't wearing a sweater stands in front of the person wearing a sweater, Caption1: the person wearing a sweater stands in front of the person who isn't wearing a sweater",
+            "question_id": 328,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_329.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person without glasses pushes a person with glasses sitting in a box, Caption1: a person with glasses pushes a person without glasses sitting in a box",
+            "question_id": 329,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_330.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: what is green will soon be yellow, Caption1: what is yellow will soon be green",
+            "question_id": 330,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_331.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: soon this animal with a tail will not have one, Caption1: soon this animal not with a tail will have one",
+            "question_id": 331,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_332.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a mouse is touching a dog, Caption1: a dog is touching a mouse",
+            "question_id": 332,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_333.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: compliments for fishing, Caption1: fishing for compliments",
+            "question_id": 333,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_334.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: that person dusting off their hands, Caption1: that person hands off their dusting",
+            "question_id": 334,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_335.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes, Caption1: a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes",
+            "question_id": 335,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_336.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch, Caption1: a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch",
+            "question_id": 336,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_337.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: yellow duck shoes on, Caption1: yellow duck on shoes",
+            "question_id": 337,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_338.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: child in front facing row of yellow rubber ducks, Caption1: front facing child in row of yellow rubber ducks",
+            "question_id": 338,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_339.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a bird cooking a person, Caption1: a person cooking a bird",
+            "question_id": 339,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_340.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a jumping person wearing yellow and a person wearing stripes, Caption1: a person wearing yellow and a person wearing stripes jumping",
+            "question_id": 340,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_341.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person wearing yellow with their feet in the air and a person wearing stripes, Caption1: a person wearing stripes with their feet in the air and a person wearing yellow",
+            "question_id": 341,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_342.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: darker things become light in stripes, Caption1: light things in stripes become darker",
+            "question_id": 342,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_343.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: hammering something together, Caption1: together hammering something",
+            "question_id": 343,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_344.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture, Caption1: A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture",
+            "question_id": 344,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_345.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a worker in a yellow hat uses a drill to the left of where the opening in the wall is, Caption1: the opening in the wall is to the left of where a worker in a yellow hat uses a drill",
+            "question_id": 345,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_346.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A small animal with curled hair, Caption1: A curled small animal with hair",
+            "question_id": 346,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_347.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A right hand pulls a glove onto a left hand, Caption1: A left hand pulls a glove onto a right hand",
+            "question_id": 347,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_348.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A dog with their feet hanging out of a car window and a person, Caption1: A dog and a person with their feet hanging out of a car window",
+            "question_id": 348,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_349.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A dog whispering into a person's ear, Caption1: A person whispering into a dog's ear",
+            "question_id": 349,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_350.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: one ear that some donkey is whispering a secret into, Caption1: donkey ear that some one is whispering a secret into",
+            "question_id": 350,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_351.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: someone walking lines cut into green plants, Caption1: walking someone cut lines into green plants",
+            "question_id": 351,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_352.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: water above a volcano makes steam, Caption1: a volcano above water makes steam",
+            "question_id": 352,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_353.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A child and an adult riding a bike, Caption1: A child riding a bike and an adult",
+            "question_id": 353,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_354.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: an adult putting a helmet on a child, Caption1: a child putting a helmet on an adult",
+            "question_id": 354,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_355.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: An adult wearing purple lying next to a child, Caption1: An adult lying next to a child wearing purple",
+            "question_id": 355,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_356.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair, Caption1: a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair",
+            "question_id": 356,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_357.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person with long braids is exercising in front of a person without braids, Caption1: a person without braids is exercising in front of a person with long braids",
+            "question_id": 357,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_358.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: in the stadium, the person wearing blue outperformed the one wearing gray, Caption1: in the stadium, the person wearing gray outperformed the one wearing blue",
+            "question_id": 358,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_359.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: butchering white meat while wearing yellow but not red, Caption1: butchering red meat while wearing white but not yellow",
+            "question_id": 359,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_360.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: an adult with a fake beard and a child, Caption1: a child with a fake beard and an adult",
+            "question_id": 360,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_361.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: on halloween, a child dressed as a mammal is to the right of a child dressed as an insect, Caption1: on halloween, a child dressed as an insect is to the right of a child dressed as a mammal",
+            "question_id": 361,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_362.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a modern office complex with many windows above a nicely landscaped lawn, Caption1: a nicely landscaped lawn above a modern office complex with many windows",
+            "question_id": 362,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_363.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a tree is partially inside a parked car, Caption1: a parked car is partially inside a tree",
+            "question_id": 363,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_364.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: some are parking in a train, Caption1: some are training in a park",
+            "question_id": 364,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_365.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: an athlete running on water, Caption1: water running on an athlete",
+            "question_id": 365,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_366.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: getting a horse wet, Caption1: a horse getting wet",
+            "question_id": 366,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_367.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: the glasses full of water are above the person's head and leg, Caption1: the person's head and leg are above the glasses full of water",
+            "question_id": 367,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_368.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a squirrel is touching the head of a person, Caption1: a person is touching the head of a squirrel",
+            "question_id": 368,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_369.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a child's hand is resting on a deer's nose, Caption1: a deer's nose is resting on a child's hand",
+            "question_id": 369,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_370.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: two sparklers for one hand, Caption1: one sparkler for two hands",
+            "question_id": 370,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_371.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: an animal giving a person food, Caption1: a person giving an animal food",
+            "question_id": 371,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_372.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a spider towering over a dog, Caption1: a dog towering over a spider",
+            "question_id": 372,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_373.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a car going into a hollow tube, Caption1: a hollow tube going into a car",
+            "question_id": 373,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_374.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: two people wearing clothes of the same colors are on different side of the tennis net, Caption1: two people wearing clothes of different colors are on the same side of the tennis net",
+            "question_id": 374,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_375.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: drinking living things, Caption1: living things drinking",
+            "question_id": 375,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_376.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: near a person using a water lasso, Caption1: a person near water using a lasso",
+            "question_id": 376,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_377.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person spraying water on a person on a bike and someone else, Caption1: a person spraying water on someone else and a person on a bike",
+            "question_id": 377,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_378.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person stretching behind a brown dog, Caption1: a brown dog stretching behind a person",
+            "question_id": 378,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_379.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: more than one flotation device carrying a person, Caption1: a person carrying more than one flotation device",
+            "question_id": 379,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_380.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: two kids on a pool floatie and one kid swimming, Caption1: one kid on a pool floatie and two kids swimming",
+            "question_id": 380,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_381.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: moving gears for something, Caption1: gears for moving something",
+            "question_id": 381,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_382.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: looking from below at a collection of similar objects above, Caption1: looking from above at a collection of similar objects below",
+            "question_id": 382,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_383.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: at least one toy herbivore stands on top of a toy carnivore, Caption1: a toy herbivore stands on top of at least one toy carnivore",
+            "question_id": 383,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_384.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person supports a small chair, Caption1: a chair supports a small person",
+            "question_id": 384,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_385.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a person wearing a checked shirt smiles at another person who is hitting a ping pong ball, Caption1: a person smiles at another person wearing a checked shirt who is hitting a ping pong ball",
+            "question_id": 385,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_386.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: one version of two persons, Caption1: two versions of one person",
+            "question_id": 386,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_387.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: There are not pink flowers below the bird with yellow head feathers, Caption1: There are pink flowers not below the bird with yellow head feathers",
+            "question_id": 387,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_388.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: In a shopping cart, there are two animals that are the same species but are looking in different directions, Caption1: In a shopping cart, there are two animals that are the different species but are looking in same directions",
+            "question_id": 388,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_389.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a vessel is on and under water, Caption1: water is on and under a vessel",
+            "question_id": 389,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_390.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: one bodies share with two head, Caption1: two bodies share with one head",
+            "question_id": 390,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_391.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: The worker wears something white over a striped undershirt with a collar, Caption1: The worker wears something striped over a white undershirt with a collar",
+            "question_id": 391,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_392.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: A person seen from below has a grid above them, Caption1: A person seen from above has a grid below them",
+            "question_id": 392,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_393.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: clouds in the head, Caption1: head in the clouds",
+            "question_id": 393,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_394.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: on feet standing, Caption1: standing on feet",
+            "question_id": 394,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_395.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: They have hair over their sunglasses, Caption1: They have sunglasses over their hair",
+            "question_id": 395,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_396.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: an odd number of sweet things on a plate with an even number of sides, Caption1: an even number of sweet things on a plate with an odd number of sides",
+            "question_id": 396,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_397.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: a large living thing in front of a large non-living thing, Caption1: a large non-living thing in front of a large living thing",
+            "question_id": 397,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_398.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: racing over it, Caption1: racing it over",
+            "question_id": 398,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/Winoground/images_nkmr/merged_images/ex_399.png",
+            "question": "Specify the correct matching by choosing one of the 0 or 1 Caption0: someone is overdoing it, Caption1: someone is doing it over",
+            "question_id": 399,
+            "answer_choices": [
+                "Image0 matches Caption0 and the image1 matches Caption1",
+                "Image0 matches Caption1 and the image1 matches Caption0"
+            ],
+            "answer_id": 0
+        }
+    ]
+}
