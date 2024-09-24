@@ -1,0 +1,1409 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "coco",
+    "license": {},
+    "data_subtype": "coco",
+    "questions": [
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000228214.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A Marine that is looking at his cell phone.",
+            "question_id": 808,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000228214.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A Marine in a blue uniform that is looking at his cell phone.",
+            "question_id": 809,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000424378.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man with glasses riding in a car with an adorable dog in the backseat.",
+            "question_id": 810,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000424378.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man with mustaches riding in a car with an adorable dog in the backseat.",
+            "question_id": 811,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000400456.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man riding on the back of a brown horse in front of a truck.",
+            "question_id": 812,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000400456.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man trying to cross fence on the back of a brown horse in front of a truck.",
+            "question_id": 813,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000186697.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A peson riding a bike down a long narrow road.",
+            "question_id": 814,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000186697.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A peson riding a bike down a highway.",
+            "question_id": 815,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000336384.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An airliner taking off from an airport runway.",
+            "question_id": 816,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000336384.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An airliner landed in the middle of the city.",
+            "question_id": 817,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000154419.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A dog wearing a protective cone around it's head watching TV.",
+            "question_id": 818,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000154419.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A dog wearing a protective cone around it's full body watching TV.",
+            "question_id": 819,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000331366.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man riding a bicycle down a sidewalk.",
+            "question_id": 820,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000331366.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man in shorts riding a bicycle down a sidewalk.",
+            "question_id": 821,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000251639.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A cat sniffing an upside down blue bicycle.",
+            "question_id": 822,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000251639.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A cat sniffing an upside down red bicycle.",
+            "question_id": 823,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000372113.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A celebration with cake for Navy members stationed in Thailand",
+            "question_id": 824,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000372113.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A celebration with cake and donuts for Navy members stationed in Thailand",
+            "question_id": 825,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000554625.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a boy wearing headphones using one computer in a long row of computers",
+            "question_id": 826,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000554625.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a boy wearing white headphones using one computer in a long row of computers",
+            "question_id": 827,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000453634.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with a toilette with it's seat down.",
+            "question_id": 828,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000453634.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with a toilette with no seat.",
+            "question_id": 829,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000297414.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A kitchen filled with dishes and appliances with lots of cupboards..",
+            "question_id": 830,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000297414.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A kitchen filled with dishes and appliances with lots of blue cupboards..",
+            "question_id": 831,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000412693.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two adorable birds perched on a piece of bamboo.",
+            "question_id": 832,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000412693.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two adorable birds perched on a plastic pipe.",
+            "question_id": 833,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000442609.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A messy kitchen with pots and pans laying around.",
+            "question_id": 834,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000442609.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A messy kitchen with lots of food laying around.",
+            "question_id": 835,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000132901.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man and a woman standing next to a motor cycle.",
+            "question_id": 836,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000132901.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man and a woman standing next to a motor cycle looking not so happy.",
+            "question_id": 837,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000075101.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A large bathroom with an enclosed toilet and a large sink.",
+            "question_id": 838,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000075101.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A large bathroom with an enclosed toilet and a small sink.",
+            "question_id": 839,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000493753.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An office desk holding multiple computers and various supplies.",
+            "question_id": 840,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000493753.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An office desk holding multiple computers and various supplies with a wooden chair.",
+            "question_id": 841,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000521906.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man wearing a striped suit standing next to butcher knives.",
+            "question_id": 842,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000521906.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man wearing a striped suit standing next to five butcher knives.",
+            "question_id": 843,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000353982.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A woman sitting at a table while holding a pair of scissors.",
+            "question_id": 844,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000353982.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A woman sitting at a table while holding a butcher knife.",
+            "question_id": 845,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000085316.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An old picture of a family on their farm.",
+            "question_id": 846,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000085316.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An old picture of six family members on their farm.",
+            "question_id": 847,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000201775.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with two urinals and a sink.",
+            "question_id": 848,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000201775.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with two urinals and a sink in between them.",
+            "question_id": 849,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000527260.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A kitchen cluttered with dishes with a stove and oven.",
+            "question_id": 850,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000527260.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A kitchen cluttered with dishes with a stove and microwave.",
+            "question_id": 851,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000085145.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An airplane flying in a blue sky with it's landing gear down.",
+            "question_id": 852,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000085145.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An airplane flying in a blue sky with it's landing gear not visible.",
+            "question_id": 853,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000533900.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A wooden bathroom with a wooden toilet next to a window.",
+            "question_id": 854,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000533900.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A wooden bathroom with a wooden toilet next to a window with no curtain.",
+            "question_id": 855,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000102735.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Dog in parking lot and on a leash.",
+            "question_id": 856,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000102735.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Dog in parking lot in front of a motorcycle.",
+            "question_id": 857,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000056752.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Man on a bicycle riding on the road next to a river.",
+            "question_id": 858,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000056752.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Man on a bicycle riding on the road next to an ocean.",
+            "question_id": 859,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000391375.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A girl sitting on a bench in front of a stone wall.",
+            "question_id": 860,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000391375.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A girl sitting on a bench with her legs up in front of a stone wall.",
+            "question_id": 861,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000522137.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Three Mercedes Benz on the top of a train as cargo ",
+            "question_id": 862,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000522137.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Three Mercedes Benz parked near railway tracks.",
+            "question_id": 863,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000544713.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man sitting on a parked motorcycle on the street ",
+            "question_id": 864,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000544713.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man in red suit sitting on a parked black motorcycle on the street",
+            "question_id": 865,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000448151.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A birthday boy with car shaped cake and candles on it.",
+            "question_id": 866,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000448151.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A birthday boy with car shaped cake and lit candles on it.",
+            "question_id": 867,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000537955.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A brown dog standing on the kitchen floor looking up.",
+            "question_id": 868,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000537955.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A brown dog standing on the kitchen floor looking down.",
+            "question_id": 869,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000557501.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom is very colorful with blue yellow and red.",
+            "question_id": 870,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000557501.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom is very colorful with green yellow and red.",
+            "question_id": 871,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000327565.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A collection of photos of an old motorcycle and parts.",
+            "question_id": 872,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000327565.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A collection of photos of an old gray motorcycle and parts.",
+            "question_id": 873,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000411564.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man sitting in a window ledge with a cell phone in his hand.",
+            "question_id": 874,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000411564.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man sitting in a window ledge with a tablet in his hand.",
+            "question_id": 875,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000438258.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A little girl in ponytails holding on to a teddy bear.",
+            "question_id": 876,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000438258.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A little girl in ponytails holding on to a teddy bear wearing yellow shirt.",
+            "question_id": 877,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000435880.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A refrigerator next to a red wall in the kitchen. ",
+            "question_id": 878,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000435880.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A washer unit next to a red wall in the kitchen. ",
+            "question_id": 879,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000555050.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A car driving in an intersection, past a furniture shop. ",
+            "question_id": 880,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000555050.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A car driving in an intersection, past a grocery shop. ",
+            "question_id": 881,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000306444.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom scene with focus on the toilet.",
+            "question_id": 882,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000306444.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom scene with focus on the sink.",
+            "question_id": 883,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000139440.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Six people in a boat rowing on a body of water.",
+            "question_id": 884,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000139440.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Seven people in a boat rowing on a body of water.",
+            "question_id": 885,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000401411.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A chef in a kitchen preparing a meal.",
+            "question_id": 886,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000401411.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A chef in a kitchen chopping for a meal.",
+            "question_id": 887,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000031519.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of rescue workers helping an overturned car",
+            "question_id": 888,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000031519.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of rescue workers helping a  car crashed into a fire vehicle",
+            "question_id": 889,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000220255.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A large commercial airplane sitting on the runway.",
+            "question_id": 890,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000220255.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A large commercial airplane with yellow paint sitting on the runway.",
+            "question_id": 891,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000383601.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A toilet with an object hanging off of it.",
+            "question_id": 892,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000383601.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A dustbin with an object hanging off of it.",
+            "question_id": 893,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000154324.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An empty bathroom with a shower next to a toilet.",
+            "question_id": 894,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000154324.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An empty bathroom with a shower next to a sink.",
+            "question_id": 895,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000368978.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A four engine jet transport airplane flying low.",
+            "question_id": 896,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000368978.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A six engine jet transport airplane flying low.",
+            "question_id": 897,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000466085.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom that has been gutted with the shower basin the only thing left.",
+            "question_id": 898,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000466085.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom that has been gutted with the toilet the only thing left.",
+            "question_id": 899,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000237428.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A blonde woman sitting on a park bench next to a green bike.",
+            "question_id": 900,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000237428.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A blonde woman sitting on a park bench next to a brown bike.",
+            "question_id": 901,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000005802.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two men wearing aprons working in a commercial-style kitchen.",
+            "question_id": 902,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000005802.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two men wearing white aprons working in a commercial-style kitchen.",
+            "question_id": 903,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000272015.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A park bench in front of a porch in a green grass filled park.",
+            "question_id": 904,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000272015.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A park bench facing a walkway in front of a porch in a green grass filled park.",
+            "question_id": 905,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000108283.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A rotten door leading into a restroom covered in filth.",
+            "question_id": 906,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000108283.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A door with broken net leading into a restroom covered in filth.",
+            "question_id": 907,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000360673.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of motorcycles parked side by side in front of a donuts shop.",
+            "question_id": 908,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000360673.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of motorcycles parked side by side in front of a cookie shop.",
+            "question_id": 909,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000465877.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A chef in a kitchen standing next to a counter with jars and containers.",
+            "question_id": 910,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000465877.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A chef in a kitchen standing next to a counter with plates and a big funel.",
+            "question_id": 911,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000524954.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A urinal is displayed with modern porcelain structuring.",
+            "question_id": 912,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000524954.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Five urinals are displayed with modern porcelain structuring.",
+            "question_id": 913,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000242363.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with a sink, toilet and shower bathtub combination.",
+            "question_id": 914,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000242363.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A bathroom with a sink, toilet and shower bathtub combination with a colorful curtain.",
+            "question_id": 915,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000488943.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A European street scene with a motorcycle and a car.",
+            "question_id": 916,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000488943.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A European street scene filled with people, a motorcycle and a car.",
+            "question_id": 917,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000396673.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two large commercial airplanes sitting on the runway.",
+            "question_id": 918,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000396673.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two large commercial airplanes sitting on the runway in the same direction.",
+            "question_id": 919,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000008218.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A building with a black and silver clock on it.",
+            "question_id": 920,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000008218.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A building with a black and gold clock on it.",
+            "question_id": 921,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000140307.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of people sitting around a table under an umbrella.",
+            "question_id": 922,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000140307.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A group of people sitting around a table under an umbrella in the night.",
+            "question_id": 923,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000027065.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A towel hangs beneath a sink in a bathroom.",
+            "question_id": 924,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000027065.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A towel hangs beside a sink in a bathroom.",
+            "question_id": 925,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000442009.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a bathroom with a bath tub near windows",
+            "question_id": 926,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000442009.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a bathroom with a bath tub, cabinets and mirroe near windows",
+            "question_id": 927,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000264599.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A crowded city street with lots of people walking around.",
+            "question_id": 928,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000264599.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A crowded city street with a couple of people walking around.",
+            "question_id": 929,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000332653.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man stands next to a motorbike on some pavement.",
+            "question_id": 930,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000332653.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A man wearing gray t-shirt stands next to a motorbike on some pavement.",
+            "question_id": 931,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000239252.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An elaborate contraption on a water faucet for a bathtub.",
+            "question_id": 932,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000239252.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. An elaborate contraption on a machinery in a factory.",
+            "question_id": 933,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000506906.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two cups of black coffee sitting next to a coffee pot. ",
+            "question_id": 934,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000506906.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. One cup of black coffee sitting next to a coffee pot. ",
+            "question_id": 935,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000034196.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two desktop computer monitors sitting on a desk with a keyboard and mouse.",
+            "question_id": 936,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000034196.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two desktop computer monitors sitting on a desk without a keyboard or mouse.",
+            "question_id": 937,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000260627.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A commuter train traveling down train track next to a rural road.",
+            "question_id": 938,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000260627.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A commuter train traveling down train track next to a flyover.",
+            "question_id": 939,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000013466.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two street signs are shown against more buildings.",
+            "question_id": 940,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000013466.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. Two street signs are shown against more glass structured buildings.",
+            "question_id": 941,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000262514.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A display of a toilet and sink in a store. ",
+            "question_id": 942,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000262514.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A display of a toilet and sink in a museum. ",
+            "question_id": 943,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000352151.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a plane on an air port run way",
+            "question_id": 944,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000352151.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. a flight on an air port run way",
+            "question_id": 945,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000127987.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A baseball player bobble head next to two computer monitors on a desk.",
+            "question_id": 946,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/COCO/images/COCO_val2014_000000127987.jpg",
+            "question": "State whether or not the information provided in the passage is true for the given image [0]. A baseball player bobble head behind two computer monitors on a desk.",
+            "question_id": 947,
+            "answer_choices": [
+                "True",
+                "False"
+            ],
+            "answer_id": 1
+        }
+    ]
+}
