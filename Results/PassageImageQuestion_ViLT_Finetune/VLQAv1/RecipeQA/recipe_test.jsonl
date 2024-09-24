@@ -1,0 +1,621 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "recipe",
+    "license": {},
+    "data_subtype": "recipe",
+    "questions": [
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_quinoa-jalapeno-poppers_I#quinoa-jalapeno-poppers_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make quinoa jalapeno poppers. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] II. Rinse and cook quinoa according to package instructions. Set aside to cool.Preheat oven to 375. Prepare muffin pan. IV. Mince garlic, shred/dice cheeses, and slice jalapenos.",
+            "question_id": 2167,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_oreo-meringue-cookies_I#oreo-meringue-cookies_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make oreo meringue cookies. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] II. Equipment: Mix Master tray baking paper cooking oil spray spoonsIngredients 4 egg whites IV. 4. Add on packet of Oreo sprinkles to the mixture and mix till combined.",
+            "question_id": 2168,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_easy-and-quick-fruit-smoothie-no-blender-needed_IV#easy-and-quick-fruit-smoothie-no-blender-needed_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make easy and quick fruit smoothie no blender needed. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] II. Image [1] I. Ingredients:(For original)1 banana2 large strawberries1 container if blueberriesMilk (I have no measurements, just pour however much you want)1tsp of cane sugar(Ingredients may vary depending on what fruits you would like in your smoothie)Other:measuring cup (tsp)SpoonKnifeCupCutting board III. Next add a tsp of sugar. After that, pour as much milk as you think is needed. I did not take any measurements so they may vary.",
+            "question_id": 2169,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_apple-accented-chai-tea_III#apple-accented-chai-tea_I.png",
+            "question": "Choose the correct order of steps I-IV  in order to make apple accented chai tea. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] I. Image [1] II. Cut the vanilla beans into one inch sections, the ginger into 1/8 inch wide slices, and one whole apple into thin sectional slices (make sure to remove all seeds but they do not have be cored). Count out the correct number of cardamom seeds, whole cloves, and cinnamon sticks. IV. To serve the chai, I cut an apple into a cup. I cut the top off, dug out the content with a spoon, and poured the hot chai inside.",
+            "question_id": 2170,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_buttermilk-biscuits_IV#buttermilk-biscuits_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make buttermilk biscuits. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. 2 1/2 cups flour1 teaspoon baking soda2 teaspoons cream of tartar1/2 teaspoon salt1 cup buttermilk8 Tablespoons unsalted butter, frozeII. Preheat oven to 375 (if you want to use convection, preheat to 350). Mix the flour, baking soda, cream of tartar, and salt in a large bowl.",
+            "question_id": 2171,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_my-banana-bread_III#my-banana-bread_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make my banana bread. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] IV. Image [1] II. For my Instructable I will be showing everyone how to make Banana Bread. I chose to do this because when I think of step by step process I think of cooking or baking. So as I continued to brain storm on this I came to banana bread. I. !!!!! READ CAREFULLY !!!!Mix all BREAD ingredients well in one container next Mix all FILLING ingredients well in another container",
+            "question_id": 2172,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_citrus-mocktail_I#citrus-mocktail_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make citrus mocktail. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. You will need all of the ingredients below.- Cranberry Lime seltzer- Orange juice- Orange or clementine- Glass III. Pour your orange juice until it reaches about the top of the glass.",
+            "question_id": 2173,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_bread-machine-pizza-dough_IV#bread-machine-pizza-dough_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make bread machine pizza dough. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. For a 2 pound lump of dough (good for 2 pizzas), you'll need these ingredients:3/4 teaspoon salt4 cups bread flour2 teaspoon active dry yeast1 1/2 cups beer (12 oz. bottle)1/4 cup olive oil1/2 tablespoon sugar I. Place all ingredients into bread machine pan. Insert pan securely into bread maker.",
+            "question_id": 2174,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_easy-apple-cake_I#easy-apple-cake_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make easy apple cake. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. Ingredients: (fills an 8x8 baking dish) 1 cup flour \u00bd cup sugar \u00bc cup brown sugar \u00bd teaspoon vanilla \u00bd teaspoon baking soda 1 egg \u00bd cup butter, melted \u00bd teaspoon cinnamon \u00bd teaspoon ground cloves \u00bc teaspoon salt 2 cups chopped, peeled, cored apples III. Preheat oven to 350 degrees and grease an 8x8 baking dish.Peel, core, and slice your apples. Set to the side.",
+            "question_id": 2175,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_green-tomato-sauce_IV#green-tomato-sauce_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make green tomato sauce. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. 1. collect 15 to 20 green tomatoes.2. wash the tomatoes and remive the stems3. chop the tomatoes II. 1. Add 2 cans of tomatoe paste.2. mix until tomato paste is blended in.3. bring mixture to a boil.",
+            "question_id": 2176,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_easy-food-dehydrator-1_I#easy-food-dehydrator-1_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make easy food dehydrator. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. Take your ice cream box and place the fan on top of it. Now start drawing a line around your fan. When you are done lift the fan off and start cutting. Make sure to cut inside of your line so the fan can sit on the edges. III. Along the bottom of the box mark out where you are going to drill out the holes. When you are done you may proceed to drilling. You will have to scrape out the excess plastic and clean up every hole.",
+            "question_id": 2177,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_hollyhock-salad-dressing_I#hollyhock-salad-dressing_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make hollyhock salad dressing. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] II. Preparations: Wash the flowers and place them into a bowl of water and put them in the refrigerator until later. IV. Method: Add the oil, water, vinegar, soy sauce, garlic, nutritional yeast, and salt to the food processor and blend until creamy with no lumps.",
+            "question_id": 2178,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_raw-vegan-cupcakes_I#raw-vegan-cupcakes_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make raw vegan cupcakes. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] II. Image [1] IV. Next put your cupcake batter in cupcake papers and then cover them with tasty frosting. III. to get them the right texture, chill them for about an hour and serve! These are very tasty treats set to please any palette, vegan or not! Hope you enjoyed these cupcakes!",
+            "question_id": 2179,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_nom-nom-mashed-potatoes_IV#nom-nom-mashed-potatoes_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make nom nom mashed potatoes. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. 3-4 big Idaho potatoes - peeled and cubed 1/2 milk - purist will cringe, but soy or almond milk works fine for the dairy sensitive1/3 cup butterSalt and Pepper to tasteOptional: fresh parsley And one potato masher - metal or plastic is fine. (metal cleans easier) II. In enough water to cover your potatoes, boil over medium high heat until fork tender or softer. (Your call - we like a few lumps in ours, so we don't let our potatoes go too mushy)",
+            "question_id": 2180,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_the-garlic-oil-when-you-inviting-mr-vampire-to-hal_IV#the-garlic-oil-when-you-inviting-mr-vampire-to-hal_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make the garlic oil. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. 1. Garlic2. Candlenut3. Sesame Oil (1-2 tbs)4. Melt Margarine (250 gr)You need some Garlic and candlenut as the picture to have a small jar Garlic Oil** I'm so sorry, i was forget to photo the sesame oil and melt margarine. But i believe, you know what i mean :p II. 1. Crush the candlenut until finely pounded2. Put it on jar same as the garlic wasYou can replace with the candlenut powder, but i guarantee you will love the fresh aroma from the finely pounded",
+            "question_id": 2181,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_rice-pudding-premium_IV#rice-pudding-premium_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make rice pudding premium. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. Five ingredient is what you will need to prepare your delicious Rice Pudding Premium:1 pound of medium grain rice1 can of 340 ml of evaporated milk(Carnation) 1 can of 340 ml seweetened condensed milk(La Lechera)2-3\" cinnamon stick 340 ml of whole milk II. After 30 minutes that my stove was turning off., I could taste its delucious flavor and also packed it in containers of 2-pound for obtaining a total of 3-pound of delicious Rice Pudding Premium.",
+            "question_id": 2182,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_optimize-your-turkey-perfect-white-meat-and-succu_II#optimize-your-turkey-perfect-white-meat-and-succu_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make optimize your turkey perfect white meat. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] III. Image [1] I. At this point, pre-heat your oven to 350 degrees, and prep your turkey (salting, seasoning) the way you would normally. IV. If you like to stuff herb butter under the skin, do that first. Using skewers or toothpicks, secure the skin around your breast meat and on the tops of the turkey thighs.",
+            "question_id": 2183,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_bacon-sloppy-joes_IV#bacon-sloppy-joes_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make bacon sloppy joes. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. saut\u00e9 in a preheated large skillet: 1 chopped large onion 1 tbsp. vegetable oiluntil softened, 1-2 min on med high heat II. add to the pan: 1 shredded carrot 1 chopped celery rib 1/2 red pepper diced 1 birds eye pepperCook for 3-5 min on med. high heat to soften the veggies.",
+            "question_id": 2184,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_green-tea-crepe-cones_I#green-tea-crepe-cones_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make green tea crepe cones. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. Clean, trim and slice your selected fruit. Set aside. III. Fold the crepe smoothly (not loosely) over the fillings. Then, take hold of the filled portion and roll it over the unfilled portion of the crepe, keeping it close as you roll. If the fillings try to escape, just pack them back in after the cone is upright.",
+            "question_id": 2185,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_sweet-squash-pancakes-paleo-friendly-no-flour_III#sweet-squash-pancakes-paleo-friendly-no-flour_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make sweet squash pancakes paleo friendly no flour. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. To start, remove the seeds, rinse off the pulp and dry over night.Crush with the nut of your choice in a blender until a fine powder comes from them.Add in your butternut squash and banana and honey to the blender, pulse until smooth. IV. now, you're adding your egg last, as you don't want beat them too much as they're toughen and your pancakes will be rubbery! So, add the eggs to the smooth batter and mix by hand,until a thick batter has formed.",
+            "question_id": 2186,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_barbecue-chicken-cheese-spicy-mini-burrito_III#barbecue-chicken-cheese-spicy-mini-burrito_I.png",
+            "question": "Choose the correct order of steps I-IV  in order to make barbecue chicken cheese spicy mini burrito. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] I. Image [1] II. 1. Spicy Barbecue Sauce2. Shredded cheese (doesn't matter what kind)3. Corn tortillas4. Chicken (any kind)Tools1. Spatula 2. Knife3. Large pan4. Oven5. Cutting board6. Oven pan7. Plate8. Stove IV. Eat away",
+            "question_id": 2187,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_how-to-make-a-cow-pie_IV#how-to-make-a-cow-pie_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make a cow pie. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. You need:One cow (I do not recommend bulls)GrassWaterPhoto from foxpar4Photo from Robert Brook II. Insert the grass and water into cow.Photo from kevinzim",
+            "question_id": 2188,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_copy-cat-loft-house-cookies_III#copy-cat-loft-house-cookies_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make copy cat loft house cookies. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. 6 cups flour 1 teaspoon baking soda AND baking powder1 cup butter room temperature2 cups granulated sugar3 eggs 2 teaspoons vanilla1/4 teaspoon salt1 ,1/2 cups sour cream IV. 6 cups is a lot of flour so I one bowl count out all six and add the baking powder ,baking soda and salt",
+            "question_id": 2189,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_easy-healthy-fried-eggeggs-no-greaseno-flipping_I#easy-healthy-fried-eggeggs-no-greaseno-flipping_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make easy healthy fried eggeggs no greaseno flipping. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. The first step is set up,pan,egg cooking spray ,table spoon of water and a lid III. After heating and spraying pan add your egg/eggs and let cook until the bottom turns white",
+            "question_id": 2190,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_potato-bonda-an-easy-to-make-snack-food_IV#potato-bonda-an-easy-to-make-snack-food_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make potato bonda an easy to snack food. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. Pressure cook five to six (about half a kilogram) of potatoes in a pressure cooker for about eight to ten minutesRemove the cooker from stove and allow the pressure to come down to normal I. Once pressure is normal, remove boiled potatoes from cookerYou can place the potatoes in cold water to rapidly cool them downRemove skin and mash the potatoes with your finger without any lumps",
+            "question_id": 2191,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_what-is-dry-land-fishmorels_I#what-is-dry-land-fishmorels_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make what is dry land fishmorels. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. netted bag(like the bags oranges come in)the NETTED BAG is important you'll see why coming up walking stick that's all you need if you're not going to hunt for to long, if so have a bottled water it's a lot of walking. III. in my 3 years of hunting for dry land fish i've learned some things form experience. dry land fish don't like poor, dry, or rocky soil(they like moist good soil). they also like to grow close to rotting wood or decaying wood (like dead tree stumps, decaying branches, etc).",
+            "question_id": 2192,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_fresh-fruit-margaritas_IV#fresh-fruit-margaritas_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make fresh fruit margaritas. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. This recipe makes two margarita'sIt is Very important to choose a tequila that is 100% agave, if it does not say 100% on the bottle it isn't 100% agave.... I keep my tequila in the freezer.. I. 1.Cut the oranges and limes in half and squeeze directly into the shaker. One orange & one a half limes per shot of tequila. (I like my margaritas a little tart, you can add sweetener at the end if it is too tart.)",
+            "question_id": 2193,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_easy-vegetarian-lasagna_I#easy-vegetarian-lasagna_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make easy vegetarian lasagna. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] IV. Cook the lasagna noodles in a large pot of boiling water for 10 minutes, until they are al dente.Drain out the water, rinse the noodles with cold water and lay them flat on a tea towel. II. Cover with aluminium foil and bake in a 350\u00b0F oven for 45 minutes.Remove the foil and cook for an additional 15 minutes.To get a nice golden top, you can put it under the broiler for a few minutes, but watch it carefully to make sure the cheese doesn't burn.",
+            "question_id": 2194,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_tartar-sauce-the-groper-and-his-wife-copycat-recip_IV#tartar-sauce-the-groper-and-his-wife-copycat-recip_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make tartar sauce. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. - 1 1/4 Cup mayonaise- 1 Medium dill pickle (or about 1/4 cup chopped)- 1 tsp Dijon mustard- 1 Large spring onion- 1-2 Tbsp lemon juice (fresh squeezed)- 1 1/2 Tbsp drained capers- *Optional* 1/4 tsp hot sauce I. - 1 Mixing bowl- Chopping board- Chopping Knife",
+            "question_id": 2195,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_how-to-make-copycat-yo-sushi-chicken-katsu-curry_IV#how-to-make-copycat-yo-sushi-chicken-katsu-curry_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make copycat yo sushi chicken katsu curry. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. Beat the egg in a shallow dish/bowl and tip the breadcrumbs into another. Dip each piece of chicken in the egg then coat in breadcrumbs. Leave to one side whilst you make a start on the Katsu Curry sauce. I. When the onions are cooked, add in the curry powder and the chicken stock and bring to the boil.Then stir in the soy sauce & the mirin and leave to simmer for about 10 minutes.",
+            "question_id": 2196,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_kite-cake_II#kite-cake_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make kite cake. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] III. Image [1] I. Heat the oven to 160 degrees Celsius (fan oven)Grease and line two tins; one 18cm one and one 13cm one. IV. Whisk the soft butter with sieved icing sugar to make butter-cream icing. Cover both cakes in it, and cover in white roll on icing.Then use the butter cream icing to sandwich the two cakes together",
+            "question_id": 2197,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_ghoul-icious-sausage-and-pumpkin-soupits-spoo_III#ghoul-icious-sausage-and-pumpkin-soupits-spoo_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make ghoul icious sausage and pumpkin soupits. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. Once the sausage is back in the pan add: chopped onion chopped garlic Italian Spice (or spaghetti spice) Mushrooms Saute until the sausage is cooked and the onions are tranlucent IV. Add the can of pumpkin, and mix WELL Stir in the broth Simmer 20 minutes, stirring once or twice",
+            "question_id": 2198,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_homemade-sweet-tea_III#homemade-sweet-tea_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make homemade sweet tea. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. TEA5-8 tea bags6 cups of water, boiled1/2-full jug of iceadditional 4-6 cups of cold waterpinch of baking sodaSUGAR3/4 cup sugar3/4 water IV. I like sweet tea, but not hurt your teeth sweet. Make simple syrup by boiling a 1:1 water and sugar solution for about 5 minutes. Transfer the syrup into a safe container and set aside.",
+            "question_id": 2199,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_hibiscus-tea_I#hibiscus-tea_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make hibiscus tea. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. The flowers of Hibiscus plant, scientifically known as \"Hibiscus sabdariffa\" are used in preparation of tea. Select flowers which are not affected by any pests. Harvest the flowers and sun-dry them for a few days. III. Once the flowers are completely dried, collect the petals only and discard other parts.",
+            "question_id": 2200,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_sweet-banana-salad_IV#sweet-banana-salad_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make sweet banana salad. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. banana cream honey (other frute is oponal) I. pour the cream over the top until it creates a small pool in the bace",
+            "question_id": 2201,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_sev-puri-indian-snack_IV#sev-puri-indian-snack_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make sev puri indian snack. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. 1. The puri (you can get in any Indian store)2. Raw veggies like onions, mango, potato , corriander,etc.3. Chutneys / Sauce like chilly sauce, sweet and sour, etc.Now go ahead.... I. put the puris and now add mashed potatoes..",
+            "question_id": 2202,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_led-lights-gummy-candy-edible-glowing-candy_II#led-lights-gummy-candy-edible-glowing-candy_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make led lights gummy candy edible glowing candy. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] IV. Image [1] I. You can use your 3D Printer to make the leads. Here is the .STL file you will need to make them from Thingiverse.If using plastic picks or colored tooth picks skip this step. III. Allow to cool completely (about 10 minutes in refrigerator or 30 hour at room temperature) and insert your leads. You might find it easier to monitor the cooling and insert your leads earlier.",
+            "question_id": 2203,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_redneck-egg-rolls_IV#redneck-egg-rolls_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make redneck egg rolls. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. Here are the items I use. You can add or remove the slaw based on your taste preference. You can even add BBQ beans if you want.Left Over BBQ, Egg Roll Wraps, Slaw Mix, Mayo, BBQ Sauce, Cooking Oil, Water (to make wraps stick together). II. Mix up your slaw per your preferences.",
+            "question_id": 2204,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_masala-chai-indian-spice-tea-authentic-recipe-f_II#masala-chai-indian-spice-tea-authentic-recipe-f_I.png",
+            "question": "Choose the correct order of steps I-IV  in order to make masala chai indian spice tea. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] I. Image [1] III. Open the cardamom (we'll use both parts: the shell & the seeds). Break the cinnamon into small pieces. Peel & chop the ginger. IV. Strain the tea into the glasses & enjoy.",
+            "question_id": 2205,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_homemade-nutella_IV#homemade-nutella_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make homemade nutella. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] I. Place hazelnuts in food processor and pulse away. This step takes some time, but you'll be done once the hazelnuts have the texture of peanut butter. II. In a double boiler, melt the chocolate until smooth and just melted. You can add a pinch of salt here if you wish. Remove from heat, and pour into a mixing bowl. Add sweetened condensed milk and mix thoroughly. Mmm, just look at those sweet tasty swirls.",
+            "question_id": 2206,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_apple-chocolate-and-peanut-butter-snack_I#apple-chocolate-and-peanut-butter-snack_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make apple chocolate and peanut butter snack. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. you will need:1 small plate1 apple a knifea tablespoonpeanut buttericing sugar (optional)cutting boardchocolate chipsand a small microwaveable container III. take your cutting board knife and apple and start cutting your apple into slices or however you wantwhen your done put all your apple slices on the plate",
+            "question_id": 2207,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_halloween-treat_III#halloween-treat_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make halloween treat. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. Simply add in the peanuts. You can control how sweet the mixture is by adding more peanuts (not as sweet) or less peanuts (more sweet) I'm using half a jar to one bag candy corn. IV. Simply add the candy corn into the bowl with the peanuts!",
+            "question_id": 2208,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_how-to-make-pudding-chan_IV#how-to-make-pudding-chan_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make pudding chan. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. 1. When the cupcake is cool enough, ready to decorate I. 2. Start from the bottom. Cut out the bottom of paper cup and peel it out.",
+            "question_id": 2209,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_coconut-brownies_III#coconut-brownies_II.png",
+            "question": "Choose the correct order of steps I-IV  in order to make coconut brownies. Left image is denoted by [0] and right image is denoted by [1]. III. Image [0] II. Image [1] I. In a saucepan:- At low temperature, melt the butter- Add the sugar and stir till you get a homogeneous mix- Add the cocoa and continue stirring so the mixture doesn't catchWhen the cocoa mixture is melted and combined cool sightly. IV. To avoid curdling in hot preparations with eggs, we have to cool the mixture before we add the eggs. So once it's cooled:- Stir in the eggs till you get a homogeneous mixture- Add the flour- Add the coconut",
+            "question_id": 2210,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_camping-pizza_I#camping-pizza_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make camping pizza. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] IV. Start your grill and set it to 'LOW'.You probably want to let the grill preheat about 5 minutes with the cover on.Then open it up and gently place you pizza, in custom pan, on the grill.Check the pizza after about 5 minutes. II. Your patience has been rewarded!Pizza while camping!Now sit back and Enjoy!",
+            "question_id": 2211,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_purple-punch_IV#purple-punch_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make purple punch. Left image is denoted by [0] and right image is denoted by [1]. IV. Image [0] III. Image [1] II. IngredientsStrawberry flavored sodaClear colored soda (e.g. ice cream soda)Blue food coloringLemonToolsKitchen knifeLemon pressGlassSpoon (forget to add in the picture)Ice cube tray I. Firstly, I fill the ice cube tray with the strawberry flavored soda.",
+            "question_id": 2212,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_mouthwatering-baked-chicken_I#mouthwatering-baked-chicken_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make mouthwatering baked chicken. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. Time to get cooking, go cook and crisp up your bacon, while that's cooking mix up the cheese and mayonnaise, then crumble and fold the bacon in. III. Once the chickens done, you should let it rest a few minutes to set the flavors and juices. Then just dig in, to the deliciousness of this fine dish.",
+            "question_id": 2213,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_pepperoni-pizza-dip_II#pepperoni-pizza-dip_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make pepperoni pizza dip. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] IV. Image [1] III. Mix the cream cheese, the sour cream, the oregano, garlic powder and cayenne pepper in a mixing bowl. Stir until it has the texture you want. I. Spread into an ungreased pan and spread the pizza sauce on top.",
+            "question_id": 2214,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_edible-succulent-terrarium-cupcakes_I#edible-succulent-terrarium-cupcakes_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make edible succulent terrarium cupcakes. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] IV. Image [1] II. Here's what you'll need: 4 oz. Marshmallows1 Tablespoon of water2+ cups of Powdered SugarGreen food coloringViolet Color Mist SprayChocolate creme cookiesTriple chocolate cupcakes (made and ready to go...or even store bought!)Chocolate frostingCookie cutters...optional III. Enjoy your deceptive dessert!Great for a fun summer dessert--even cute centerpieces! It's a fun take on the \"cup of dirt\" too!Check out my blog Doodlecraft for more awesomeness!Please vote for me in the Deceptive Desserts contest too, I'll be your best friend! ;)",
+            "question_id": 2215,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_fabulous-melt-in-your-mouth-gluten-free-cornbread_II#fabulous-melt-in-your-mouth-gluten-free-cornbread_IV.png",
+            "question": "Choose the correct order of steps I-IV  in order to make gluten free cornbread. Left image is denoted by [0] and right image is denoted by [1]. II. Image [0] IV. Image [1] III. Using glass measuring cup, add Buttermilk to 1 Cup line.Add Olive Oil to 1 1/3 Cup line.Mix well.Add 2 Eggs. Beat well until eggs are well blended.Add 1 tsp. Vanilla Extract. I. Add the contents of the measuring cup into the dry ingredients and mix well until everything is well mixed.",
+            "question_id": 2216,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/RecipeQA/merged_images/Merged_how-to-make-peanut-chutney_I#how-to-make-peanut-chutney_III.png",
+            "question": "Choose the correct order of steps I-IV  in order to make peanut chutney. Left image is denoted by [0] and right image is denoted by [1]. I. Image [0] III. Image [1] II. 100 Grams of Peanuts2 to 3 dried red Chillies (Adjust to your own taste)A lemon sized piece of TamarindHalf a teaspoon of Asafoetida powderSalt to tasteFor temperingOne tablespoon of cooking oilOne teaspoon of Mustard seeds mixed with split Blackgram lentilsHandful of Curry leaves IV. Add the cleaned peanuts to the mix in the grinder jarGrind all ingredients together without adding any water. If you add water, some of the peanuts will not be crushed and remain whole",
+            "question_id": 2217,
+            "answer_choices": [
+                "I-II-IV-III",
+                "I-IV-III-II",
+                "II-III-I-IV",
+                "II-I-IV-III"
+            ],
+            "answer_id": 3
+        }
+    ]
+}
