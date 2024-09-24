@@ -1,0 +1,621 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "charts",
+    "license": {},
+    "data_subtype": "charts",
+    "questions": [
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/1.png",
+            "question": "The industrial production growth rate of Pakistan is almost equal to Figure shows the industrial production growth rate for various countries in the year of 2017. Industrial production figures are used by central banks to measure inflation, as high levels of industrial production can lead to uncontrolled levels of consumption and rapid inflation. In 2017, the industrial production growth rate of India was similar to that of Pakistan.",
+            "question_id": 2418,
+            "answer_choices": [
+                7.5,
+                6.5,
+                5.5,
+                4.5
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/1.png",
+            "question": "Consider all the given 6 countries. The industrial production growth rate of Sri Lanka is less than how many countries Figure shows the industrial production growth rate for various countries in the year of 2017. Industrial production figures are used by central banks to measure inflation, as high levels of industrial production can lead to uncontrolled levels of consumption and rapid inflation. In 2017, the industrial production growth rate of India was similar to that of Pakistan.",
+            "question_id": 2419,
+            "answer_choices": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Infant_mortality_rate_male.png",
+            "question": "Is Algeria more developed than Sudan? The above graph depicts Infant Mortality rate for South African countries. Infant mortality is the death of young children under the age of 1. This death toll is measured by the infant mortality rate (IMR), which is the number of deaths of children under one year of age per 1000 live births. Infant Mortality rate is directly proportional to development of the country. Developing countries have a lack of access to affordable and professional health care resources, and skilled personnel during deliveries. Countries with histories of extreme poverty also have a pattern of epidemics, endemic infectious diseases, and low levels of access to maternal and child healthcare.",
+            "question_id": 2420,
+            "answer_choices": [
+                "Yes",
+                "No",
+                "Unknown",
+                "Unanswerable"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Infant_mortality_rate_male.png",
+            "question": "Which of these countries is the least developed country? The above graph depicts Infant Mortality rate for South African countries. Infant mortality is the death of young children under the age of 1. This death toll is measured by the infant mortality rate (IMR), which is the number of deaths of children under one year of age per 1000 live births. Infant Mortality rate is directly proportional to development of the country. Developing countries have a lack of access to affordable and professional health care resources, and skilled personnel during deliveries. Countries with histories of extreme poverty also have a pattern of epidemics, endemic infectious diseases, and low levels of access to maternal and child healthcare.",
+            "question_id": 2421,
+            "answer_choices": [
+                "Libya",
+                "Sudan",
+                "Algeria",
+                "Cameroon"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Infant_mortality_rate_male.png",
+            "question": "Which of these countries have the highest chances of epidemics? The above graph depicts Infant Mortality rate for South African countries. Infant mortality is the death of young children under the age of 1. This death toll is measured by the infant mortality rate (IMR), which is the number of deaths of children under one year of age per 1000 live births. Infant Mortality rate is directly proportional to development of the country. Developing countries have a lack of access to affordable and professional health care resources, and skilled personnel during deliveries. Countries with histories of extreme poverty also have a pattern of epidemics, endemic infectious diseases, and low levels of access to maternal and child healthcare.",
+            "question_id": 2422,
+            "answer_choices": [
+                "Libya",
+                "Sudan",
+                "Algeria",
+                "Cameroon"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Obesity-adult_prevalence_rate.png",
+            "question": "Which of the given countries is most prone to heart diseases? The above graph depicts Obesity rate of few countries. Obesity - adult prevalence rate gives the percent of a country's population considered to be obese or overweight. Overweight and obesity are known to increase blood pressure. High blood pressure is the leading cause of strokes. Excess weight also increases your chances of developing other problems linked to strokes, including high cholesterol, high blood sugar, and heart disease. Japan is one of the countries with lowest obese population with just 4.3%.",
+            "question_id": 2423,
+            "answer_choices": [
+                "India",
+                "China",
+                "United States",
+                "Germany"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Obesity-adult_prevalence_rate.png",
+            "question": "How many of the given countries have higher obese population than Japan? The above graph depicts Obesity rate of few countries. Obesity - adult prevalence rate gives the percent of a country's population considered to be obese or overweight. Overweight and obesity are known to increase blood pressure. High blood pressure is the leading cause of strokes. Excess weight also increases your chances of developing other problems linked to strokes, including high cholesterol, high blood sugar, and heart disease. Japan is one of the countries with lowest obese population with just 4.3%.",
+            "question_id": 2424,
+            "answer_choices": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Obesity-adult_prevalence_rate.png",
+            "question": "How many of the given countries, including Japan have lower obese population than 10%? The above graph depicts Obesity rate of few countries. Obesity - adult prevalence rate gives the percent of a country's population considered to be obese or overweight. Overweight and obesity are known to increase blood pressure. High blood pressure is the leading cause of strokes. Excess weight also increases your chances of developing other problems linked to strokes, including high cholesterol, high blood sugar, and heart disease. Japan is one of the countries with lowest obese population with just 4.3%.",
+            "question_id": 2425,
+            "answer_choices": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Obesity-adult_prevalence_rate.png",
+            "question": "Which of the given countries, including Japan, has the third lowest obese population? The above graph depicts Obesity rate of few countries. Obesity - adult prevalence rate gives the percent of a country's population considered to be obese or overweight. Overweight and obesity are known to increase blood pressure. High blood pressure is the leading cause of strokes. Excess weight also increases your chances of developing other problems linked to strokes, including high cholesterol, high blood sugar, and heart disease. Japan is one of the countries with lowest obese population with just 4.3%.",
+            "question_id": 2426,
+            "answer_choices": [
+                "India",
+                "China",
+                "United States",
+                "Germany"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Obesity-adult_prevalence_rate.png",
+            "question": "Is German population have more health issues than Japan due to overweight? The above graph depicts Obesity rate of few countries. Obesity - adult prevalence rate gives the percent of a country's population considered to be obese or overweight. Overweight and obesity are known to increase blood pressure. High blood pressure is the leading cause of strokes. Excess weight also increases your chances of developing other problems linked to strokes, including high cholesterol, high blood sugar, and heart disease. Japan is one of the countries with lowest obese population with just 4.3%.",
+            "question_id": 2427,
+            "answer_choices": [
+                "True",
+                "False",
+                "Unknown",
+                "Unanswerable"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Unemployment,_youth_ages_15-24_total.png",
+            "question": "From the given data how many countries have decrease in unemployment rate from 2015 to 2018? The above graph shows unemployment rate of few countries in the year 2018. Unemployment in a country have adverse effect on country in terms of inflation, average wage, GDP etc. In times of high unemployment, wages typically remain stagnant, and wage inflation (or rising wages) is non-existent. GDP of the country also decreases with increase in unemployment. Unemployment is a very serious issue for a government and many government take it as there top priority. Croatia had a high unemployment rate of 18% in 2015 which the government worked and reduced drastically in 2018 to 8%. Given unemployment rate of United States 10%, Brazil 30%, Italy 35%, Netherlands 12% and Egypt 33% in year 2015.",
+            "question_id": 2428,
+            "answer_choices": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Unemployment,_youth_ages_15-24_total.png",
+            "question": " The above graph shows unemployment rate of few countries in the year 2018. Unemployment in a country have adverse effect on country in terms of inflation, average wage, GDP etc. In times of high unemployment, wages typically remain stagnant, and wage inflation (or rising wages) is non-existent. GDP of the country also decreases with increase in unemployment. Unemployment is a very serious issue for a government and many government take it as there top priority. Croatia had a high unemployment rate of 18% in 2015 which the government worked and reduced drastically in 2018 to 8%. Given unemployment rate of United States 10%, Brazil 30%, Italy 35%, Netherlands 12% and Egypt 33% in year 2015.",
+            "question_id": 2429,
+            "answer_choices": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Unemployment,_youth_ages_15-24_total.png",
+            "question": "Which country is likely to have similar wages as of Croatia? The above graph shows unemployment rate of few countries in the year 2018. Unemployment in a country have adverse effect on country in terms of inflation, average wage, GDP etc. In times of high unemployment, wages typically remain stagnant, and wage inflation (or rising wages) is non-existent. GDP of the country also decreases with increase in unemployment. Unemployment is a very serious issue for a government and many government take it as there top priority. Croatia had a high unemployment rate of 18% in 2015 which the government worked and reduced drastically in 2018 to 8%. Given unemployment rate of United States 10%, Brazil 30%, Italy 35%, Netherlands 12% and Egypt 33% in year 2015.",
+            "question_id": 2430,
+            "answer_choices": [
+                "Brazil",
+                "Egypt",
+                "United States",
+                "Italy"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Unemployment,_youth_ages_15-24_total.png",
+            "question": "Which country would have the cheapest labor? The above graph shows unemployment rate of few countries in the year 2018. Unemployment in a country have adverse effect on country in terms of inflation, average wage, GDP etc. In times of high unemployment, wages typically remain stagnant, and wage inflation (or rising wages) is non-existent. GDP of the country also decreases with increase in unemployment. Unemployment is a very serious issue for a government and many government take it as there top priority. Croatia had a high unemployment rate of 18% in 2015 which the government worked and reduced drastically in 2018 to 8%. Given unemployment rate of United States 10%, Brazil 30%, Italy 35%, Netherlands 12% and Egypt 33% in year 2015.",
+            "question_id": 2431,
+            "answer_choices": [
+                "Brazil",
+                "Egypt",
+                "United States",
+                "Italy"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Median_age_total.png",
+            "question": "Which country, from the given data is more phrone to problems of older population? The given scatter plot talks about median age of the people of Europe. The more the median age, the higher the life expectancy. Low birth rates and higher life expectancy contribute to the transformation of Europe's population pyramid shape. The most significant change is the transition towards a much older population structure, resulting in a decrease in the proportion of the working age while the number of the retired population increases. The total number of the older population is projected to increase greatly within the coming decades, with rising proportions of the post-war baby-boom generations reaching retirement. This will cause a high burden on the working age population as they provide for the increasing number of the older population. Poland is one of the European country with less median age of 41.",
+            "question_id": 2432,
+            "answer_choices": [
+                "France",
+                "Germany",
+                "Poland",
+                "Italy"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Median_age_total.png",
+            "question": "How many countries from the given data has less mdeian age than Poland? The given scatter plot talks about median age of the people of Europe. The more the median age, the higher the life expectancy. Low birth rates and higher life expectancy contribute to the transformation of Europe's population pyramid shape. The most significant change is the transition towards a much older population structure, resulting in a decrease in the proportion of the working age while the number of the retired population increases. The total number of the older population is projected to increase greatly within the coming decades, with rising proportions of the post-war baby-boom generations reaching retirement. This will cause a high burden on the working age population as they provide for the increasing number of the older population. Poland is one of the European country with less median age of 41.",
+            "question_id": 2433,
+            "answer_choices": [
+                3,
+                5,
+                1,
+                0
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Median_age_total.png",
+            "question": "How much is the age difference is between germany and Poland? The given scatter plot talks about median age of the people of Europe. The more the median age, the higher the life expectancy. Low birth rates and higher life expectancy contribute to the transformation of Europe's population pyramid shape. The most significant change is the transition towards a much older population structure, resulting in a decrease in the proportion of the working age while the number of the retired population increases. The total number of the older population is projected to increase greatly within the coming decades, with rising proportions of the post-war baby-boom generations reaching retirement. This will cause a high burden on the working age population as they provide for the increasing number of the older population. Poland is one of the European country with less median age of 41.",
+            "question_id": 2434,
+            "answer_choices": [
+                3,
+                5,
+                6.5,
+                9.5
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Waterways.png",
+            "question": "In the given data which country has higher exports? The given graph tells us about length of waterways. A waterway is any navigable body of water. Length of waterways affects the exports from a country. The more the waterways have high the country can export. Neighbouring countries do depend on them for there exports. The biggest role in the export market for the inland waterway system has been in the global trade for grains and coal.",
+            "question_id": 2435,
+            "answer_choices": [
+                "Japan",
+                "China",
+                "United States",
+                "India"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/Waterways.png",
+            "question": "How many country have higher exports than Japan? The given graph tells us about length of waterways. A waterway is any navigable body of water. Length of waterways affects the exports from a country. The more the waterways have high the country can export. Neighbouring countries do depend on them for there exports. The biggest role in the export market for the inland waterway system has been in the global trade for grains and coal.",
+            "question_id": 2436,
+            "answer_choices": [
+                3,
+                2,
+                4,
+                0
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_5.png",
+            "question": "Which of the following country is not having population approximately same as Marshall Islands? The scatter plot shows the count of labor force in few countries for the year 2017. Labor force is the number of people who are employed plus the unemployed who are looking for work. Labor force is interrelated to size of the population. Educated society results in direct relation to labor force.",
+            "question_id": 2437,
+            "answer_choices": [
+                "Norfolk Island",
+                "Grenada",
+                "Sweden",
+                "Kenya"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_5.png",
+            "question": "How many countries have better educational society when compared to Guatemala? The scatter plot shows the count of labor force in few countries for the year 2017. Labor force is the number of people who are employed plus the unemployed who are looking for work. Labor force is interrelated to size of the population. Educated society results in direct relation to labor force.",
+            "question_id": 2438,
+            "answer_choices": [
+                2,
+                5,
+                4,
+                3
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_5.png",
+            "question": "Which country is having a better education society and highest population? The scatter plot shows the count of labor force in few countries for the year 2017. Labor force is the number of people who are employed plus the unemployed who are looking for work. Labor force is interrelated to size of the population. Educated society results in direct relation to labor force.",
+            "question_id": 2439,
+            "answer_choices": [
+                "Kenya",
+                "Bolivia",
+                "Sweden",
+                "Cameroon"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_7.png",
+            "question": "Which country is next to China in exporting rice assuming each country produce and export rice? The graph shows the percentage distribution of labor force by sector of occupation which is Agriculture. Agriculture includes farming, fishing and forestry. Countries which has more agricultural production will have more labor force and more likely to be top exporters.",
+            "question_id": 2440,
+            "answer_choices": [
+                "India",
+                "Germany",
+                "Russia",
+                "Nigeria"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_7.png",
+            "question": "Which country is similar to United States in production of Corn, assuming that all countries produce corn? The graph shows the percentage distribution of labor force by sector of occupation which is Agriculture. Agriculture includes farming, fishing and forestry. Countries which has more agricultural production will have more labor force and more likely to be top exporters.",
+            "question_id": 2441,
+            "answer_choices": [
+                "India",
+                "Germany",
+                "Russia",
+                "China"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_7.png",
+            "question": "How many countries are better in agriculture production when compared to Russia? The graph shows the percentage distribution of labor force by sector of occupation which is Agriculture. Agriculture includes farming, fishing and forestry. Countries which has more agricultural production will have more labor force and more likely to be top exporters.",
+            "question_id": 2442,
+            "answer_choices": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_12.png",
+            "question": "Which country is having more GDP per capita when compared to Russia? The plot shows the entries of total amount of carbon dioxide, measured in metric tons, released by burning fossil fuels  in the process of producing and consuming energy. There is a strong correlation between per capita CO2 emissions and GDP per capita. It is observed that on an average, we see low carbon intensities at low incomes; carbon intensity rises as countries transition from low-to-middle incomes, especially in rapidly growing industrial economies; and as countries move towards higher incomes, carbon intensity falls again.",
+            "question_id": 2443,
+            "answer_choices": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_12.png",
+            "question": "Which country is best described to have rapidly growing industrial economy? The plot shows the entries of total amount of carbon dioxide, measured in metric tons, released by burning fossil fuels  in the process of producing and consuming energy. There is a strong correlation between per capita CO2 emissions and GDP per capita. It is observed that on an average, we see low carbon intensities at low incomes; carbon intensity rises as countries transition from low-to-middle incomes, especially in rapidly growing industrial economies; and as countries move towards higher incomes, carbon intensity falls again.",
+            "question_id": 2444,
+            "answer_choices": [
+                "India",
+                "China",
+                "Russia",
+                "Brazil"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_12.png",
+            "question": "How many countries are less developed industrially when compared to Russia? The plot shows the entries of total amount of carbon dioxide, measured in metric tons, released by burning fossil fuels  in the process of producing and consuming energy. There is a strong correlation between per capita CO2 emissions and GDP per capita. It is observed that on an average, we see low carbon intensities at low incomes; carbon intensity rises as countries transition from low-to-middle incomes, especially in rapidly growing industrial economies; and as countries move towards higher incomes, carbon intensity falls again.",
+            "question_id": 2445,
+            "answer_choices": [
+                2,
+                5,
+                3,
+                4
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_13.png",
+            "question": "Which country is most likely to produce most Cereal? The graph is plotted with countries in X-axis and percentage shares of total land area for Agriculture among agricultural land, forest, and other. Increasing yields reduces the pressure of expanding agricultural land. It is observed from a research that more the land usage more is the yield for example cereal.",
+            "question_id": 2446,
+            "answer_choices": [
+                "India",
+                "China",
+                "Russia",
+                "United States"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_13.png",
+            "question": "Which country stands 2nd next to India in producing Cereal? The graph is plotted with countries in X-axis and percentage shares of total land area for Agriculture among agricultural land, forest, and other. Increasing yields reduces the pressure of expanding agricultural land. It is observed from a research that more the land usage more is the yield for example cereal.",
+            "question_id": 2447,
+            "answer_choices": [
+                "China",
+                "United States",
+                "Russia",
+                "Poland"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_13.png",
+            "question": "Which country stands 3rd last in producing Cereal? The graph is plotted with countries in X-axis and percentage shares of total land area for Agriculture among agricultural land, forest, and other. Increasing yields reduces the pressure of expanding agricultural land. It is observed from a research that more the land usage more is the yield for example cereal.",
+            "question_id": 2448,
+            "answer_choices": [
+                "China",
+                "Indonesia",
+                "Russia",
+                "Japan"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_16.png",
+            "question": "Which country is more likely to health hazards due to Natural gas consumption? Natural gas - consumption compares the total natural gas consumed by different countries. Natural gas is a fossil energy source that formed deep beneath the earth's surface. The largest component of Natural gas is methane. Methane has adverse effect on health of people. Exposure of methane will cause Headaches, Nausea, Dizziness, etc. Natural gas is a fossil fuel which when combusted generates Global Warming emissions out of which CO2 is more than 50%. There have been documented cases of groundwater near oil and gas wells being used more than other places.",
+            "question_id": 2449,
+            "answer_choices": [
+                "India",
+                "Australia",
+                "Iran",
+                "Russia"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_16.png",
+            "question": "Which country emits lesser CO2 compared to all the other countries in the plot? Natural gas - consumption compares the total natural gas consumed by different countries. Natural gas is a fossil energy source that formed deep beneath the earth's surface. The largest component of Natural gas is methane. Methane has adverse effect on health of people. Exposure of methane will cause Headaches, Nausea, Dizziness, etc. Natural gas is a fossil fuel which when combusted generates Global Warming emissions out of which CO2 is more than 50%. There have been documented cases of groundwater near oil and gas wells being used more than other places.",
+            "question_id": 2450,
+            "answer_choices": [
+                "India",
+                "Australia",
+                "Iran",
+                "Russia"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/PRE_16.png",
+            "question": "Based on the above data, how many countries use lesser groundwater resource compared to India? Natural gas - consumption compares the total natural gas consumed by different countries. Natural gas is a fossil energy source that formed deep beneath the earth's surface. The largest component of Natural gas is methane. Methane has adverse effect on health of people. Exposure of methane will cause Headaches, Nausea, Dizziness, etc. Natural gas is a fossil fuel which when combusted generates Global Warming emissions out of which CO2 is more than 50%. There have been documented cases of groundwater near oil and gas wells being used more than other places.",
+            "question_id": 2451,
+            "answer_choices": [
+                "Three",
+                "Four",
+                "One",
+                "Two"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/2.png",
+            "question": "Which country is most likely to import Fish? The agricultural produce of various countries is depicted in Figure 2. Y indicates Yes, N indicates No.",
+            "question_id": 2452,
+            "answer_choices": [
+                "Canada",
+                "Argentina",
+                "Germany",
+                "India"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/2.png",
+            "question": "Tea, Potatoes and Coffee thrive well in tropical climate. Which country produces coffee? The agricultural produce of various countries is depicted in Figure 2. Y indicates Yes, N indicates No.",
+            "question_id": 2453,
+            "answer_choices": [
+                "Canada",
+                "Argentina",
+                "Germany",
+                "India"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/2.png",
+            "question": "Countries which produce fish have a coastline. Which country is landlocked? The agricultural produce of various countries is depicted in Figure 2. Y indicates Yes, N indicates No.",
+            "question_id": 2454,
+            "answer_choices": [
+                "Canada",
+                "Argentina",
+                "Germany",
+                "India"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/13.png",
+            "question": "According to Eisenhower Decision Principle, which of the following task should be dropped? Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent, and then placed in according quadrants in an Eisenhower Matrix. Tasks in Important/Urgent quadrant are done immediately and personally e.g. crises, deadlines, problems. Tasks in Important/Not Urgent quadrant get an end date and are done personally e.g. relationships, planning, recreation. Tasks in Unimportant/Urgent quadrant are delegated e.g. interruptions, meetings, activities. Tasks in Unimportant/Not Urgent quadrant are dropped e.g. time wasters, pleasant activities, trivia.",
+            "question_id": 2455,
+            "answer_choices": [
+                "Crying baby",
+                "Exercise",
+                "Distractions",
+                "Trivia"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/13.png",
+            "question": "According to Eisenhower Decision Principle, which of the following task should be delegated? Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent, and then placed in according quadrants in an Eisenhower Matrix. Tasks in Important/Urgent quadrant are done immediately and personally e.g. crises, deadlines, problems. Tasks in Important/Not Urgent quadrant get an end date and are done personally e.g. relationships, planning, recreation. Tasks in Unimportant/Urgent quadrant are delegated e.g. interruptions, meetings, activities. Tasks in Unimportant/Not Urgent quadrant are dropped e.g. time wasters, pleasant activities, trivia.",
+            "question_id": 2456,
+            "answer_choices": [
+                "Crying baby",
+                "Exercise",
+                "Distractions",
+                "Trivia"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/13.png",
+            "question": "According to Eisenhower Decision Principle, which of the following task has an end date? Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent, and then placed in according quadrants in an Eisenhower Matrix. Tasks in Important/Urgent quadrant are done immediately and personally e.g. crises, deadlines, problems. Tasks in Important/Not Urgent quadrant get an end date and are done personally e.g. relationships, planning, recreation. Tasks in Unimportant/Urgent quadrant are delegated e.g. interruptions, meetings, activities. Tasks in Unimportant/Not Urgent quadrant are dropped e.g. time wasters, pleasant activities, trivia.",
+            "question_id": 2457,
+            "answer_choices": [
+                "Crying baby",
+                "Exercise",
+                "Distractions",
+                "Trivia"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/13.png",
+            "question": "According to Eisenhower Decision Principle, which of the following task should be done immediately? Using the Eisenhower Decision Principle, tasks are evaluated using the criteria important/unimportant and urgent/not urgent, and then placed in according quadrants in an Eisenhower Matrix. Tasks in Important/Urgent quadrant are done immediately and personally e.g. crises, deadlines, problems. Tasks in Important/Not Urgent quadrant get an end date and are done personally e.g. relationships, planning, recreation. Tasks in Unimportant/Urgent quadrant are delegated e.g. interruptions, meetings, activities. Tasks in Unimportant/Not Urgent quadrant are dropped e.g. time wasters, pleasant activities, trivia.",
+            "question_id": 2458,
+            "answer_choices": [
+                "Crying baby",
+                "Exercise",
+                "Distractions",
+                "Trivia"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/15.png",
+            "question": "How many times does a note repeat within Fret Numbers 1-12 in all the 6 strings? Given chart is showing all of the notes on a guitar fretboard. The notes repeat after the 12th fret (e.g. the note at the 13th fret of the 1st string is an F). The notes of the sixth string and the first string are the same. Blues guitar generally follow a I-IV-V progression. For example, A-D-E, C-F-G, D-G-A are I-IV-V progressions.",
+            "question_id": 2459,
+            "answer_choices": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/15.png",
+            "question": "Which notes do not follow one of the example I-IV-V progressions? Given chart is showing all of the notes on a guitar fretboard. The notes repeat after the 12th fret (e.g. the note at the 13th fret of the 1st string is an F). The notes of the sixth string and the first string are the same. Blues guitar generally follow a I-IV-V progression. For example, A-D-E, C-F-G, D-G-A are I-IV-V progressions.",
+            "question_id": 2460,
+            "answer_choices": [
+                "6 string - 5 fret, 5 string - 5 fret, 5 string - 7 fret",
+                "5 string - 3 fret, 6 string - 1 fret, 6 string - 3 fret",
+                "6 string - 10 fret, 5 string - 10 fret, 5 string - 12 fret",
+                "5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/16.png",
+            "question": "Which of the following elements has low chemical reactivity? This given figure shows the periodic table with the location of the chemical elements. They are sorted by atomic number. The noble gases make up a group of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The elements in the alkali metals group have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. The alkaline earth metals form group II of the periodic table. The elements are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.",
+            "question_id": 2461,
+            "answer_choices": [
+                "H",
+                "He",
+                "Li",
+                "Be"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/16.png",
+            "question": "Which of the following elements has their outermost electron in the s-orbital? This given figure shows the periodic table with the location of the chemical elements. They are sorted by atomic number. The noble gases make up a group of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The elements in the alkali metals group have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. The alkaline earth metals form group II of the periodic table. The elements are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.",
+            "question_id": 2462,
+            "answer_choices": [
+                "K",
+                "Ca",
+                "Br",
+                "Kr"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/16.png",
+            "question": "Which of the following is both a transition metal and has no isotope older than the earth? This given figure shows the periodic table with the location of the chemical elements. They are sorted by atomic number. The noble gases make up a group of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The elements in the alkali metals group have their outermost electron in an s-orbital: this shared electron configuration results in their having very similar characteristic properties. The alkaline earth metals form group II of the periodic table. The elements are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.",
+            "question_id": 2463,
+            "answer_choices": [
+                "Ca",
+                "Fe",
+                "Tc",
+                "Os"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/6.png",
+            "question": "Which year did the economic downturn happen? The given figure shows the healthcare spending per person in UK for the year 2012. Percentage values show the growth rate compared to previous year. Healthcare spending per capita has increased every year since 1997 but growth rates have slowed considerably since the economic downturn.",
+            "question_id": 2464,
+            "answer_choices": [
+                "2003",
+                "2005",
+                "2007",
+                "2009"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/6.png",
+            "question": "The growth rate of per-capita healthcare spending for which two years are equal? The given figure shows the healthcare spending per person in UK for the year 2012. Percentage values show the growth rate compared to previous year. Healthcare spending per capita has increased every year since 1997 but growth rates have slowed considerably since the economic downturn.",
+            "question_id": 2465,
+            "answer_choices": [
+                "1998 and 2007",
+                "2000 and 2009",
+                "2002 and 2003",
+                "2005 and 2006"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/12.png",
+            "question": "In August 2004, which of the following iPod model was already manufactured? Ipod is a series of portable media players manufactured by Apple since 2001 . The standard model has a two-inch LCD screen and initially came with a storage capacity of 5 gigabytes . Later, it has been extended to 10, 15, 20, 30, 40, 60, 80, 120 and 160 gigabytes. All models originally use hard drives but the Ipod Shuffle , Ipod Touch and Ipod Nano instead have a built-in flash memory . The figure above shows the timeline of various iPod models manufactured by Apple. The solid vertical lines indicate the start of a year. The muted grey vertical lines indicate months.",
+            "question_id": 2466,
+            "answer_choices": [
+                "iPod shuffle",
+                "iPod nano",
+                "iPod photo",
+                "iPod mini"
+            ],
+            "answer_id": 3
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/12.png",
+            "question": "The iPod nano is not available in which storage size? Ipod is a series of portable media players manufactured by Apple since 2001 . The standard model has a two-inch LCD screen and initially came with a storage capacity of 5 gigabytes . Later, it has been extended to 10, 15, 20, 30, 40, 60, 80, 120 and 160 gigabytes. All models originally use hard drives but the Ipod Shuffle , Ipod Touch and Ipod Nano instead have a built-in flash memory . The figure above shows the timeline of various iPod models manufactured by Apple. The solid vertical lines indicate the start of a year. The muted grey vertical lines indicate months.",
+            "question_id": 2467,
+            "answer_choices": [
+                "1 GB",
+                "2 GB",
+                "3 GB",
+                "4 GB"
+            ],
+            "answer_id": 2
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/Charts/images/12.png",
+            "question": "Which iPod flavor is only available in 512 MB storage size? Ipod is a series of portable media players manufactured by Apple since 2001 . The standard model has a two-inch LCD screen and initially came with a storage capacity of 5 gigabytes . Later, it has been extended to 10, 15, 20, 30, 40, 60, 80, 120 and 160 gigabytes. All models originally use hard drives but the Ipod Shuffle , Ipod Touch and Ipod Nano instead have a built-in flash memory . The figure above shows the timeline of various iPod models manufactured by Apple. The solid vertical lines indicate the start of a year. The muted grey vertical lines indicate months.",
+            "question_id": 2468,
+            "answer_choices": [
+                "iPod shuffle",
+                "iPod nano",
+                "iPod photo",
+                "iPod mini"
+            ],
+            "answer_id": 0
+        }
+    ]
+}
