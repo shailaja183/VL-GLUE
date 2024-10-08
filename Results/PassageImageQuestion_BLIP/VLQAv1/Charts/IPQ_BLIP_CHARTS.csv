@@ -1,0 +1,252 @@
+qid,gt_ans,pred_ans_blip,correctness_blip
+0,United States,United Kingdom,0
+1,2,1,0
+2,Iraq,India,0
+3,Pakistan,Iraq,0
+4,Iraq,United Kingdom,0
+5,3,3,1
+6,United States,United Kingdom,0
+7,Indonesia,Indonesia,1
+8,2,5,0
+9,Sweden,Australia,0
+10,2,1,0
+11,Australia,Australia,1
+12,European Union,Pakistan,0
+13,2,2,1
+14,India,India,1
+15,European Union,United Kingdom,0
+16,United States,India,0
+17,3,3,1
+18,European Union ,United Kingdom,0
+19,United States,India,0
+20,3,1,0
+21,Pakistan,India,0
+22,1,3,0
+23,New Zealand,India,0
+24,0,3,0
+25,5,4,0
+26,Bangladesh,India,0
+27,True,Unknown,0
+28,70%,70%,1
+29,Peru,Peru,1
+30,Brazil,Peru,0
+31,13000 sq km,10000 sq km,0
+32,China,South Africa,0
+33,2,2,1
+34,South Africa,South Africa,1
+35,42%,10%,0
+36,960000,300000,0
+37,Chocolate Bar,Ice Cream,0
+38,3,3,1
+39,4,1,0
+40,"Korea, South",Philippines,0
+41,Moldova,Philippines,0
+42,Saudi Arabia,India,0
+43,Papua New Guinea,India,0
+44,India,India,1
+45,Qatar,Argentina,0
+46,Burma,India,0
+47,Germany,China,0
+48,Nigeria,India,0
+49,2,1,0
+50,Yemen,Denmark,0
+51,Ukraine,Ukraine,1
+52,Three,Five,0
+53,Lithuania,Ethiopia,0
+54,Three,Three,1
+55,Kuwait,Ethiopia,0
+56,Asia,Asia,1
+57,Africa,Africa,1
+58,3,5,0
+59,China,USA,0
+60,Italy,France,0
+61,no,yes,0
+62,2010,2012,0
+63,France,France,1
+64,France,France,1
+65,2017,2013,0
+66,2017,2013,0
+67,France,France,1
+68,2007,2000,0
+69,2007,2000,0
+70,yes,yes,1
+71,2011,2010,0
+72,1997,2000,0
+73,Mexico,United States,0
+74,Canada,United States,0
+75,2012,2012,1
+76,2016,2012,0
+77,yes,yes,1
+78,Brazil,France,0
+79,Argentina,France,0
+80,2016,2015,0
+81,2016,2015,0
+82,2015,2016,0
+83,2015,2016,0
+84,deflation,inflation,0
+85,2013,2013,1
+86,negative,negative,1
+87, net lender,zero,0
+88,2012,2013,0
+89,yes,yes,1
+90,negative,negative,1
+91,2017,2016,0
+92,increase,increase,1
+93,no,yes,0
+94,yes,yes,1
+95,2010,2010,1
+96,2017,2013,0
+97,2017,2016,0
+98,Qatar,Both,0
+99,Qatar,Both,0
+100,2011,2012,0
+101,2014,2013,0
+102,2016,2016,1
+103,2017,2015,0
+104,2017,2013,0
+105,2017,2013,0
+106,2011,2010,0
+107,2016,2010,0
+108,2016,2013,0
+109,2011,2010,0
+110,2015,2012,0
+111,Lower Middle Income,Low Income,0
+112,High Income,Low Income,0
+113,5,5,1
+114,Birmingham,Birmingham,1
+115,Liverpool,Liverpool,1
+116,Clothing & Footwear,Health,0
+117,Communication and Recreation & Culture,Health and Food & Drink,0
+118,2005,1999,0
+119,George,George,1
+120,Nancy,George,0
+121,1,2,0
+122,2008,2010,0
+123,2011 - 2013,2011 - 2013,1
+124,7,5,0
+125,1,2,0
+126,Cretaceous,Cretaceous,1
+127,Permian,Jurassic,0
+128,None,2012,0
+129,2015,2012,0
+130,Yes,Yes,1
+131,2017,2011,0
+132,2016,2012,0
+133,False,Unknown,0
+134,Cameroon,South Africa,0
+135,67,50,0
+136,Singapore,India,0
+137,2014,2013,0
+138,Fixed rate in imports,Less exports,0
+139,Decreased,Increased,0
+140,India,France,0
+141,India,Australia,0
+142,India,France,0
+143,Increased,Increased,1
+144,Woodland,Desert,0
+145,Alpine altitudinal belt with a potential evapotranspiration ratio of 1.5,Tropical latitudinal region with annual precipitation of 100mm,0
+146,An arid humidity province with a biotemperature of 2C,An arid humidity province with a biotemperature of 2C,1
+147,"E, F","F, G",0
+148,"B, C","B, C",1
+149,C,C,1
+150,A,C,0
+151,5.1,3.4,0
+152,Bank Staff,Nurse,0
+153,Receptionist,Doctor,0
+154,AGA,TCT,0
+155,Cys (C),Val (V),0
+156,2,1,0
+157,27%,50%,0
+158,50%,50%,1
+159,35%,25%,0
+160,41%,50%,0
+161,0.38 million,1.0 million,0
+162,$710000,$350000,0
+163,$65000,$30000,0
+164,JavaScript,Java,0
+165,3,2,0
+166,1,2,0
+167,5,2,0
+168,Yes,Yes,1
+169,"Italy, Spain","Italy, Spain",1
+170,Zimbabwe,Germany,0
+171,3,1,0
+172,China,China,1
+173,Nigeria,China,0
+174,4,3,0
+175,Vanuatu,Paraguay,0
+176,United Arab Emirates,Portugal,0
+177,"United Arab Emirates, Kuwait","Sweden, Iceland",0
+178,38.4 million,4 million,0
+179,4 years,5 years,0
+180,Iraq,United Kingdom,0
+181,Pakistan,United Kingdom,0
+182,United Kingdom and United States,United Kingdom and United States,1
+183,Indonesia,United Kingdom,0
+184,5 children/woman,5 children/woman,1
+185,3,3,1
+186,0.8 children/woman,1.5 children/woman,0
+187,India,Mexico,0
+188,Mexico,India,0
+189,3,3,1
+190,South Africa,United Kingdom,0
+191,United Kingdom,United States,0
+192,4,5,0
+193,Australia,Australia,1
+194,4,3,0
+195,Mexico and Maldives,Australia and Canada,0
+196,Australia,Australia,1
+197,3,3,1
+198,1,3,0
+199,Vietnam,India,0
+200,5.5,6.5,0
+201,4,2,0
+202,Yes,Yes,1
+203,Cameroon,Libya,0
+204,Cameroon,Libya,0
+205,United States,China,0
+206,4,3,0
+207,3,1,0
+208,China,China,1
+209,True,Unknown,0
+210,3,3,1
+211,4,3,0
+212,United States,Italy,0
+213,Italy,Italy,1
+214,Germany,France,0
+215,0,5,0
+216,6.5,5,0
+217,China,China,1
+218,4,2,0
+219,Sweden,Kenya,0
+220,2,5,0
+221,Kenya,Sweden,0
+222,Russia,Germany,0
+223,Germany,Germany,1
+224,3,2,0
+225,3,2,0
+226,China,India,0
+227,3,2,0
+228,India,United States,0
+229,Poland,United States,0
+230,Indonesia,Russia,0
+231,Russia,Australia,0
+232,Australia,Australia,1
+233,One,Three,0
+234,Germany,Canada,0
+235,India,Canada,0
+236,Germany,Canada,0
+237,Trivia,Exercise,0
+238,Distractions,Exercise,0
+239,Exercise,Exercise,1
+240,Crying baby,Exercise,0
+241,6,4,0
+242,"5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret","5 string - 5 fret, 5 string - 3 fret, 6 string - 3 fret",1
+243,He,H,0
+244,K,K,1
+245,Tc,Fe,0
+246,2009,2009,1
+247,2000 and 2009,2000 and 2009,1
+248,iPod mini,iPod mini,1
+249,3 GB,4 GB,0
+250,iPod shuffle,iPod mini,0
