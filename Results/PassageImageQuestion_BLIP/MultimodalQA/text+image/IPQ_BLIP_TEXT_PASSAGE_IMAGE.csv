@@ -1,0 +1,925 @@
+qid,gt_ans,pred_ans_blip,correctness_blip
+0,Spain,Spain,1
+1,West Bromwich Albion,West Bromwich Albion,1
+2,20-Mar,20-Dec,0
+3,"17 hours, 5 minutes","17 hours, 5 minutes",1
+4,bracelets,bracelets,1
+5,cap,cap,1
+6,yellow,yellow,1
+7,one,one,1
+8,grey,grey,1
+9,Iowa,Iowa,1
+10,2009,2009,1
+11,two,two,1
+12,brigade,brigade,1
+13,no,no,1
+14,2009,2009,1
+15,nine,eight,0
+16,Bill Elliott,Bill Elliott,1
+17,black,black,1
+18,black,black,1
+19,no,yes,0
+20,2009,2009,1
+21,1997,1997,1
+22,bridge,bridge,1
+23,La Rondine,La Rondine,1
+24,Urszula RadwaâÃska,Naomi Osaka,0
+25,professional tennis player,professional tennis player,1
+26,27-Oct-04,1-Jan-00,0
+27,yes,no,0
+28,Wolverhampton Wanderers,Norwich City,0
+29,"Denver, Colorado","Denver, Colorado",1
+30,Sarah Gilman,Dakota Fanning,0
+31,Kaitlyn Dever,Karen Devers,0
+32,twelve,twelve,1
+33,twelve,twelve,1
+34,College Navy,College Navy,1
+35,New England Patriots,New England Patriots,1
+36,New England Patriots,New England Patriots,1
+37,baseball,baseball,1
+38,baseball,baseball,1
+39,Christopher Jason Witten,Christopher Jason Witten,1
+40,pitcher,pitcher,1
+41,when the catcher already has possession of the ball,when the catcher already has possession of the ball,1
+42,Alan Shearer,Alan Shearer,1
+43,smile,smile,1
+44,smile,smile,1
+45,1979,1980,0
+46,1-Jul-97,1-Jul-97,1
+47,Spain,France,0
+48,33,30,0
+49,pockets,bag,0
+50,1962,1967,0
+51,2006,2015,0
+52,beard,beard,1
+53,Mike Powell,Ronaldinho,0
+54,blue,blue,1
+55,blue,blue,1
+56,blue,blue,1
+57,Norwich City,Norwich City,1
+58,Nick Faldo,Greg Norman,0
+59,yes,yes,1
+60,in Lower Manhattan,in Lower Manhattan,1
+61,Financial District of Lower Manhattan in New York City,Financial District of Lower Manhattan in New York City,1
+62,St. Patrick's Cathedral,The Statue of Liberty,0
+63,yes,no,0
+64,Southern Europe,Northern Europe,0
+65,Lucie ââ afâÂ°âÃ´ovâÂ°,Jelena JankoviÆÃ¡,0
+66,39,39,1
+67,professional tennis player,professional tennis player,1
+68,Philadelphia Eagles,Philadelphia Eagles,1
+69,three,two,0
+70,2004,2013,0
+71,ferris,circus,0
+72,ferris,ferris,1
+73,nine,nine,1
+74,Jeff Gordon,Jeff Gordon,1
+75,four,four,1
+76,Charles Matthew Hunnam,Charles Matthew Hunnam,1
+77,Ryan Douglas Hurst,Bruce Dern,0
+78,Washington Redskins,Washington Redskins,1
+79,"Augusta, Georgia","Macon, Georgia",0
+80,kissing,fighting,0
+81,five,five,1
+82,1-Aug-07,6-Aug,0
+83,Jacob Frey,Jacob Frey,1
+84,10 May 1871,9 May 1871,0
+85,May-90,Sep-90,0
+86,"the black-red-gold colours were the colours of the democratic, centrist, and republican political parties","the black-red-gold colours were the colours of the democratic, centrist, and republican political parties",1
+87,two,two,1
+88,no,yes,0
+89,US$17.4 billion,US$11.4 billion,0
+90,two,three,0
+91,leaf,leaf,1
+92,leaf,leaf,1
+93,8-Feb-66,8-Feb-56,0
+94,Jeff Jimerson,John Legend,0
+95,1967,1967,1
+96,zipper,zipper,1
+97,zipper,zipper,1
+98,zipper,zipper,1
+99,swoosh,Nike,0
+100,swoosh,Nike,0
+101,1957,1957,1
+102,XVIII.,1980,0
+103,tennis player,tennis player,1
+104,black,white,0
+105,book,book,1
+106,no,yes,0
+107,Denver Broncos,Dallas Cowboys,0
+108,four,four,1
+109,1995,1995,1
+110,Jacksonville Jaguars,Baltimore Ravens,0
+111,28,28,1
+112,nine,twelve,0
+113,7,7,1
+114,UCLA,UCLA,1
+115,palm,palm,1
+116,palm,palm,1
+117,September (after Labour Day),September (before Labour Day),0
+118,"advanced to the Stanley Cup Finals once, losing to the Pittsburgh Penguins in 2016","advanced to the Stanley Cup Finals once, losing to the Pittsburgh Penguins in 2016",1
+119,PewDiePie,Voot,0
+120,earring,earring,1
+121,earring,earring,1
+122,Karen Newman,Karen Newman,1
+123,white,white,1
+124,white,white,1
+125,New Orleans Pelicans,New Orleans Pelicans,1
+126,1971,2005,0
+127,yes,no,0
+128,Ottawa,Ottawa,1
+129,2.90%,9%,0
+130,BBC America,BBC America,1
+131,16-Jan-18,16-Jan-18,1
+132,scarf,scarf,1
+133,31-Mar-49,30-Mar-49,0
+134,2.90%,2.90%,1
+135,brown,brown,1
+136,mask,mask,1
+137,mask,mask,1
+138,perpendicular to the foul line to the nearest break in the sand caused by any part of the body or uniform,Up to the knee,0
+139,one,two,0
+140,one,one,1
+141,lights,lights,1
+142,lights,lights,1
+143,Malaysian ringgit,Swiss Franc,0
+144,Malaysia,Malaysia,1
+145,The Singapore dollar (sign: S$; code: SGD),The Singapore dollar (sign: S$; code: SGD),1
+146,appointed by the President of the Republic of Singapore,Appointed by the Prime Minister of Singapore,0
+147,2061,2061,1
+148,1933,1933,1
+149,New England Patriots,Philadelphia Eagles,0
+150,three,three,1
+151,2004,2004,1
+152,New England Patriots,New York Jets,0
+153,yes,yes,1
+154,yes,yes,1
+155,Hong Kong,Hong Kong,1
+156,France,France,1
+157,yes,no,0
+158,1949,1950,0
+159,yes,no,0
+160,two,two,1
+161,two,two,1
+162,two,two,1
+163,65%,65%,1
+164,24.45%,24%,0
+165,yes,no,0
+166,brick,brick,1
+167,Aquaria,Aquaria,1
+168,"is a transcontinental country in Eurasia, mainly in Anatolia in Western Asia, with a smaller portion on the Balkan","is a transcontinental country in Eurasia, mainly in Anatolia in Western Asia, with a smaller portion on the Balkan",1
+169,yes,no,0
+170,Turkey,Turkey,1
+171,Jeff Gordon,Jeff Gordon,1
+172,Caroline Wozniacki,Victoria Azarenka,0
+173,1929,1930,0
+174,no,yes,0
+175,Robert Arthur Seguso,Robert Alfred Seguso,0
+176,tennis,tennis,1
+177,green,black,0
+178,Sydney Trains T4 Eastern Suburbs & Illawarra Line,Sydney J4 Eastern Suburbs & Illawarra Line,0
+179,712,712,1
+180,quill,drill,0
+181,seven,seven,1
+182,seven,eight,0
+183,seven,six,0
+184,yes,yes,1
+185,Andrew (John Dye),Andrew (John Dye),1
+186,212,212,1
+187,"(John Dye), the angel of death","(John Dye), the angel of death",1
+188,"Tulsa, Oklahoma","Tulsa, Oklahoma",1
+189,hip,legs,0
+190,hip,legs,0
+191,Minnesota Timberwolves,New York Knicks,0
+192,blonde,blonde,1
+193,blonde,blonde,1
+194,Geoff Hurst,Geoff Hurst,1
+195,early 17th century,mid 17th century,0
+196,microphone,microphone,1
+197,microphone,microphone,1
+198,The Bourne Ultimatum,The Bourne Ultimatum,1
+199,"from February to November 2006, with a one-month break in June","from July to December 2006, with a one-month break in October",0
+200,no,yes,0
+201,2009,2010,0
+202,yes,yes,1
+203,lights,stage,0
+204,Kathleen Turner,Meryl Streep,0
+205,no,yes,0
+206,2009,2009,1
+207,1997,1998,0
+208,no,yes,0
+209,yes,yes,1
+210,Jeff Gordon,Jeff Gordon,1
+211,one,one,1
+212,one,one,1
+213,Christopher Jason Witten,Noah Fant,0
+214,Victoria Azarenka,Serena Williams,0
+215,11-Jul-18,11-Jul-18,1
+216,yes,yes,1
+217,sunglasses,sunglasses,1
+218,nine,five,0
+219,"2016 United Nations estimate puts the total population at 38,000,000","2016 United Nations estimate puts the total population at 38,000,000",1
+220,TD Garden,TD Garden,1
+221,blue,green,0
+222,green,green,1
+223,Santos,Santos,1
+224,yes,no,0
+225,yes,no,0
+226,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+227,yes,yes,1
+228,glove,glove,1
+229,Dil Se..,Dil Se..,1
+230,Utah Jazz,New Orleans Pelicans,0
+231,red,red,1
+232,Dil Se..,Dil Se..,1
+233,"Chicago, Illinois","Chicago, Illinois",1
+234,four,four,1
+235,1995,1995,1
+236,four,four,1
+237,music,music,1
+238,bowls,bowls,1
+239,Urszula RadwaâÃska,Karoline Wozniacki,0
+240,39,39,1
+241,professional tennis player,professional tennis player,1
+242,Muslim,Roman,0
+243,1859,1885,0
+244,Saints Row: The Third,GTA V,0
+245,cowboy,cowboy,1
+246,cowboy,cowboy,1
+247,one,one,1
+248,Chandler Massey,Chandler Massey,1
+249,8-May,7-May,0
+250,Vaughan,Vaughan,1
+251,2005,2007,0
+252,orange,orange,1
+253,Nintendogs,Nintendogs,1
+254,a waterspout,a pony,0
+255,no,yes,0
+256,Anaheim Ducks,Anaheim Ducks,1
+257,no,no,1
+258,1896,1956,0
+259,no,yes,0
+260,2009,2010,0
+261,1997,1997,1
+262,tennis,tennis,1
+263,tennis,tennis,1
+264,tennis,tennis,1
+265,"in southeastern Mexico, separates the Caribbean Sea from the Gulf of Mexico, with the northern coastline on the YucatâÂ°n Channel","in southwestern Mexico, separates the Gulf of Mexico from the Pacific Ocean, with the southern coastline on the Gulf of California",0
+266,Maximilian,Napoleon,0
+267,Ethan Suplee,Lee Suplee,0
+268,Eddie Steeples,Eddie Steeples,1
+269,Nadine E. Velazquez,Valerie Cruz,0
+270,fourth series will not be commissioned,2020,0
+271,Emma Gwynedd Mary Chambers,Miley Cyrus,0
+272,Clive Mantle,Clive Mantle,1
+273,James Edward Fleet,James Edward Fleet,1
+274,roughly midway between the cities of Raleigh and Chapel Hill,on the coast,0
+275,pearl,pearl,1
+276,pearl,pearl,1
+277,black,black,1
+278,Greg Vaughan,Greg Vaughan,1
+279,Crystal Chappell,Crystal Chappell,1
+280,yes,yes,1
+281,Lionel Messi,Lionel Messi,1
+282,Lionel Messi,Lionel Messi,1
+283,stripes,stripes,1
+284,stripes,stripes,1
+285,yes,yes,1
+286,Morena Baccarin,Piper Perabo,0
+287,Sarah Chalke,Sarah Chalke,1
+288,Mercedes,Ferrari,0
+289,yes,no,0
+290,30-Aug-15,30-Aug-15,1
+291,mustache,beard,0
+292,black,black,1
+293,black,black,1
+294,pink,red,0
+295,four,four,1
+296,Muslim,Christian,0
+297,Cardiff City,Cardiff City,1
+298,West Bromwich Albion,West Ham United,0
+299,Francis Ouimet (a),Walter Hagen (b),0
+300,up,up,1
+301,bridge,bridge,1
+302,bridge,bridge,1
+303,six,six,1
+304,"over 60,000 people","over 60,000 people",1
+305,no,yes,0
+306,16-May-18,17-May-18,0
+307,22,22,1
+308,27-Sep-17,27-Oct-17,0
+309,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+310,yes,no,0
+311,Rafael Nadal,Rafael Nadal,1
+312,Retief Goosen,John Patrick Daly,0
+313,six,11,0
+314,six,six,1
+315,six,six,1
+316,red,red,1
+317,six,seven,0
+318,seven,seven,1
+319,Glenn Amendment,Glenn Amendment,1
+320,1958,1958,1
+321,six,six,1
+322,six,six,1
+323,Less than 4%,Less than 4%,1
+324,microphone,microphone,1
+325,Slash featuring Myles Kennedy and The Conspirators,The artist with long black hair reaching past his shoulders.,0
+326,microphone,microphone,1
+327,Oracle Arena in Oakland,San Francisco Bay Bridge in San Francisco,0
+328,five,five,1
+329,the East End,the West End,0
+330,1859,1869,0
+331,"Engels, Saratov Oblast","Engels, Saratov Oblast",1
+332,pitcher,pitcher,1
+333,headband,headband,1
+334,headband,headband,1
+335,headband,headband,1
+336,microphone,microphone,1
+337,microphone,microphone,1
+338,microphone,microphone,1
+339,Real Madrid,Real Madrid,1
+340,blue,blue,1
+341,blue,blue,1
+342,triangle,triangle,1
+343,triangle,circle,0
+344,Lionel Messi,Lionel Messi,1
+345,Manchester United,Manchester United,1
+346,Todd Bodine,Todd Bodine,1
+347,no,no,1
+348,the home stadium of the division winner with the better conference record,the home stadium of the division winner with the better conference record,1
+349,Laurence Olivier and Lucie Arnaz,Laurence Olivier and Lucie Arnaz,1
+350,Tony Bennett,Tony Bennett,1
+351,yes,yes,1
+352,2009,2009,1
+353,1997,2010,0
+354,no,yes,0
+355,circle,circle,1
+356,clouds,clouds,1
+357,clouds,clouds,1
+358,nike,nike,1
+359,Lionel Messi,Lionel Messi,1
+360,Lionel Messi,Lionel Messi,1
+361,two,six,0
+362,"January 1, 1898", 1898',0
+363,yes,no,0
+364,Midtown Manhattan section of New York City at the junction of Broadway and Seventh Avenue,"Nottingham, England",0
+365,"at 225 East 60th Street, between Second and Third avenues in New York City","at 225 East 60th Street, between Second and Third avenues in New York City",1
+366,Kurt Busch,Mark Martin,0
+367,1967,1967,1
+368,8-Feb-66,8-Feb-67,0
+369,2008,2008,1
+370,2013,2012,0
+371,18,17,0
+372,eight,eight,1
+373,eight,Seven,0
+374,Edward Woodward,Edward Woodward,1
+375,yes,yes,1
+376,Rhode Island,Rhode Island,1
+377,Seth Magaziner,Seth Magaziner,1
+378,mountain,mountain,1
+379,mountain,mountain,1
+380,stripes,stripes,1
+381,stripes,stripes,1
+382,stripes,stripes,1
+383,moustache,beard,0
+384,yes,yes,1
+385,yes,no,0
+386,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+387,beach,beach,1
+388,four,four,1
+389,four,Six,0
+390,a CategoryÂ¬â 1,A CategoryÂ¬â 3,0
+391,Tracy Bonham,Mandy Moore,0
+392,glasses,glasses,1
+393,New York metropolitan area.,New York metropolitan area.,1
+394,1967,1969,0
+395,8-Feb-66,20-Apr-10,0
+396,Jeff Jimerson,Clinton Richardson,0
+397,between 1886 and 1894,between 1886 and 1894,1
+398,1859,1858,0
+399,"outside the jurisdiction of London, in the liberties of Halliwell/Holywell in Shoreditch and later the Clink, and at Newington Butts near the established entertainment district of St. George's Fields in rural Surrey",the first professional theatres were built inside the jurisdiction of London.,0
+400,six,one,0
+401,Bay of Fundy,Bay of Fundy,1
+402,"George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-LâÂºneburg","George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-LâÂºneburg",1
+403,Jeon Do-yeon,PARK Chan-wook,0
+404,Siesta,Siesta,1
+405,the French Polynesian island of Bora Bora,the French Polynesian island of Bora Bora,1
+406,Bora Bora,Bora Bora,1
+407,headband,headband,1
+408,headband,headband,1
+409,baseball,baseball,1
+410,baseball,baseball,1
+411,baseball,baseball,1
+412,Malaysian ringgit,Malaysian ringgit,1
+413,Malaysia,Malaysia,1
+414,sitting,sitting,1
+415,Navas,Navas,1
+416,13,20,0
+417,AtlÃ©tico Madrid,The team with a basketball hoop on their logo,0
+418,northwest of Tokyo Bay,northwest of Tokyo Bay,1
+419,"2016 United Nations estimate puts the total population at 38,000,000","2016 United Nations estimate puts the total population at 38,000,000",1
+420,Maria Sharapova,Maria Sharapova,1
+421,headband,headband,1
+422,four,Three,0
+423,seven,eight,0
+424,11-Dec-62,24-Sep-64,0
+425,Return of the Jedi,A New Hope,0
+426,Jamaican rapper Sean Paul,Jamaican rapper Sean Paul,1
+427,clock,clock,1
+428,clock,clock,1
+429,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+430,yes,no,0
+431,ferris,ferris,1
+432,ferris,ferris,1
+433,ferris,ferris,1
+434,ferris,ferris,1
+435,guitar,guitar,1
+436,bridge,bridge,1
+437,ferris,ferris,1
+438,nike,nike,1
+439,nike,nike,1
+440,Peter Andrew Beardsley MBE,Steven Gerrard,0
+441,Mark Messier,Mark Messier,1
+442,Wilkerson,Buchanan,0
+443,Justin Tyler Berfield,Justin Tyler Berfield,1
+444,Kathryn Joosten,Kathryn Hahn,0
+445,Stockholm-Arlanda Airport,Fantasy island station,0
+446,Stockholm Arlanda Airport,Orlando International Airport,0
+447,the East End,the East End,1
+448,1859,1839,0
+449,Muslim,Muslim,1
+450,one,two,0
+451,visor,visor,1
+452,visor,visor,1
+453,visor,visor,1
+454,three,three,1
+455,three,three,1
+456,six,six,1
+457,six,seven,0
+458,long,short,0
+459,long,long,1
+460,long,short,0
+461,2016âÃÃ¬17 competition,2016âÃÃ¬17 competition,1
+462,11-Dec-62,1-Dec-52,0
+463,1-May-03,1-May-03,1
+464,along the north-eastern coast of Puerto Rico,In a small village in the country of Chile.,0
+465,"Pittsburgh, Pennsylvania, U.S.","Pittsburgh, Pennsylvania, U.S.",1
+466,Bjâârlin,Bjorklund,0
+467,Greg Vaughan,Gregory Vaughan,0
+468,four,four,1
+469,four,four,1
+470,no,yes,0
+471,1995,1995,1
+472,Junior Johnson,Junior Johnson,1
+473,no,yes,0
+474,President McKinley,President Wilson,0
+475,"empire reached the peak of its military, political and economic power","empire reached the peak of its military, political and economic power",1
+476,one,one,1
+477,one,one,1
+478,maple,maple,1
+479,Angelique Kerber,Makarova,0
+480,39,0,0
+481,professional tennis player,professional tennis player,1
+482,cowboy,cowboy,1
+483,Boston College,Clemson,0
+484,Novak Djokovic,Rafael Nadal,0
+485,no,yes,0
+486,The Sound of Music,The Sound of Music,1
+487,Alan Shearer,Alan Shearer,1
+488,no,no,1
+489,United States of America,United States of America,1
+490,yes,no,0
+491,France,France,1
+492,Philadelphia Eagles,Philadelphia Eagles,1
+493,Philadelphia Eagles,Philadelphia Eagles,1
+494,summer,summer,1
+495,no,yes,0
+496,the Hawkesbury River,The Delaware River,0
+497,Vaughan,Vaughan,1
+498,Chandler Massey,Chandler Massey,1
+499,8-May,8-May,1
+500,yes,no,0
+501,Tony Stewart,Kurt Busch,0
+502,Dennis Franz,Dennis Franz,1
+503,1-Mar-05,1-Mar-05,1
+504,clouds,clouds,1
+505,clouds,clouds,1
+506,clouds,clouds,1
+507,Freetown,Freetown,1
+508,"London, England","London, England",1
+509,Moulin Rouge!,The Revenant,0
+510,Miley Cyrus,Miley Cyrus,1
+511,Miley Cyrus,Miley Cyrus,1
+512,2009,2009,1
+513,1997,1997,1
+514,shorts,shorts,1
+515,star,circle,0
+516,four,four,1
+517,Dave Chappelle,Ray Romano,0
+518,bridge,bridge,1
+519,bridge,bridge,1
+520,Georgia,Georgia,1
+521,yes,no,0
+522,"FedExField in Landover, Maryland","Monumental Stadium in Washington, D.C.",0
+523,Rony Seikaly,Trevor Ariza,0
+524,Jeff Jimerson,Miley Cyrus,0
+525,1967,1967,1
+526,1991,1995,0
+527,Quicken Loans Arena in downtown Cleveland,Quicken Loans Arena in downtown Cleveland,1
+528,Greg Norman,Greg Norman,1
+529,yes,yes,1
+530,"Peter Mattias ""Foppa"" Forsberg",the father of Henrik Lundqvist,0
+531,1-Aug-07,1-Aug-07,1
+532,"outside the jurisdiction of London, in the liberties of Halliwell/Holywell in Shoreditch and later the Clink, and at Newington Butts near the established entertainment district of St. George's Fields in rural Surrey","outside the jurisdiction of London, in the liberties of Halliwell/Holywell in Shoreditch and Clink, and at Newington Butts near the established entertainment district of St. George's Fields in Surrey",0
+533,1859,1869,0
+534,1971,1971,1
+535,yes,yes,1
+536,the 1970s,the 1960s,0
+537,at Minnesota Vikings,at Minnesota Vikings,1
+538,Helsinki,Helsinki,1
+539,Caroline Wozniacki,Caroline Wozniacki,1
+540,2011,2011,1
+541,Ed Sheeran,Ed Sheeran,1
+542,9-Sep-11,9-Sep-12,0
+543,no,yes,0
+544,no,yes,0
+545,XVIII.,XVI.,0
+546,Klemens von Metternich,Trieste von Metternich,0
+547,Wien Hauptbahnhof,Wien Hauptbahnhof,1
+548,Vienna,Vienna,1
+549,Vasco da Gama,Santos,0
+550,buckles,buttons,0
+551,buckles,buckles,1
+552,buckles,buttons,0
+553,Tarja Turunen,Nightwish,0
+554,1841,1841,1
+555,West Ham United,West Ham United,1
+556,yes,yes,1
+557,yes,yes,1
+558,St. Patrick's Cathedral,The Empire State Building,0
+559,"from February to November 2006, with a one-month break in June","from February to November 2007, with a one-month break in June",0
+560,Anelka,Anelka,1
+561,Kevin Harvick,Jeff Gordon,0
+562,nine,nine,1
+563,1967,1967,1
+564,Jeff Jimerson,Jeff Jones,0
+565,8-Feb-66,8-Feb-66,1
+566,"17 hours, 5 minutes","17 hours, 5 minutes",1
+567,no,yes,0
+568,2009,2009,1
+569,no,yes,0
+570,no,no,1
+571,Petter Solberg,Toby Price,0
+572,Edinson Cavani,Edinson Cavani,1
+573,angelfish,starfish,0
+574,1997,1997,1
+575,2009,2009,1
+576,the Hawkesbury River,he Fraser River,0
+577,no,yes,0
+578,2000,2000,1
+579,"may be an Extended Green, for left turns after the opposing traffic's full green phase","may be an Extended Green, for left turns after the opposing traffic's full green phase",1
+580,12-May,12-Nay,0
+581,1988,1988,1
+582,"George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-LâÂºneburg", King of Ireland,0
+583,25 April 1785,1 January 1800,0
+584,61 miles,61 miles,1
+585,31-Mar-49,31-Mar-41,0
+586,ferris,ferris,1
+587,ferris,ferris,1
+588,ferris,ferris,1
+589,Pickens High School,Pickens High School,1
+590,Manly-Warringah Sea Eagles,North Queensland Cowboys,0
+591,Sydney Roosters,Sydney Roosters,1
+592,Yokosuka,Constantinople,0
+593,the mascot of Berlin,the mascot of Berlin,1
+594,to prevent the massive emigration and defection,to prevent the massive emigration and defection,1
+595,"Knoxville, Tennessee","Nashville, Tennessee",0
+596,Novak Djokovic,Rafael Nadal,0
+597,Cariba Heine,Anna Torv,0
+598,year long contract to tour the United States,year long contract to tour France,0
+599,3.72076 msâÃ Ã­2 (about 38% of that of Earth),72 msâÃ Ã­2 (about 38% of that of Earth),0
+600,Theatre of Tragedy,Theatre of Drama,0
+601,Grant,Grant,1
+602,Dangrek Mountains plateau,Dangrek Mountains plateau,1
+603,Cambodia,Cambodia,1
+604,mid-August 1992,Mid-August 1994,0
+605,1977,1987,0
+606,PortMiami,Port of New York,0
+607,1997,1997,1
+608,Cardiff City,Cardiff City,1
+609,Real Madrid,Real Madrid,1
+610,1998 Winter Olympics,1998 Winter Olympics,1
+611,yes,no,0
+612,yes,yes,1
+613,yes,yes,1
+614,Arsenal,Arsenal,1
+615,"Rome, Italy","Rome, Italy",1
+616,General,General,1
+617,1896,1899,0
+618,yes,yes,1
+619,Stockholm-Arlanda Airport,Stockholm-Arlanda Airport,1
+620,Stockholm Arlanda Airport,"""Copenhagen Airport""",0
+621,61 miles,61 miles,1
+622,Ryan Douglas Hurst,Mike Douglas Hurst,0
+623,"John Teller, the founder of the Sons of Anarchy","George Washington, the first President of the United States",0
+624,"George III, King of Great Britain, King of Ireland, and prince-elector of the Electorate of Brunswick-LÃ¼neburg",The Ship of Adventure,0
+625,1867,1867,1
+626,25 April 1785,22 April 1785,0
+627,yes,no,0
+628,St. Patrick's Cathedral,Notre Dame Cathedral,0
+629,yes,no,0
+630,"Dallas, United States","Dallas, United States",1
+631,Lionel Messi,Lionel Messi,1
+632,Lionel Messi,Lionel Messi,1
+633,eagle,eagle,1
+634,1945,1945,1
+635,1. FC Kââln,FC Kââln,0
+636,Chennai Super Kings  (R),Kolkata Knight Riders  (R),0
+637,97,1,0
+638,from 1953 to 1994,from 1953 to 1995,0
+639,yes,no,0
+640,Florida,Florida,1
+641,19,19,1
+642,"Laverne ""Chip"" Fields, who is sometimes credited as Chip Hurd or Chip FieldsâÃÃ¬Hurd","Aubrey Plaza, who is sometimes credited as Aubrey Hurd or Aubrey FieldsâÃÃ¬Hurd",0
+643,Penny Gordon Woods,Penny Gordon Woods,1
+644,Rafael Nadal,Rafael Nadal,1
+645,Norwich City,Norwich City,1
+646,1859,1859,1
+647,the East End,the West End,0
+648,yes,yes,1
+649,Cleveland Cavaliers,Cleveland Cavaliers,1
+650,1999,2001,0
+651,Donny Osmond,Justin Bieber,0
+652,no,no,1
+653,"FedExField in Landover, Maryland","FedExField in Landover, Maryland",1
+654,XVIII.,XVIII.,1
+655,Arturo Vidal,Javier Hernandez,0
+656,two,two,1
+657,Super Bowl LI,Super Bowl LI,1
+658,2009,2009,1
+659,1997,1997,1
+660,at Green Bay Packers,at Green Bay Packers,1
+661,"East Rutherford, New Jersey","San Francisco, California",0
+662,New York metropolitan area.,San Francisco metropolitan area,0
+663,MetLife Stadium,MetLife Stadium,1
+664,1859,1859,1
+665,when the catcher already has possession of the ball,when the catcher does not have possession of the ball,0
+666,Tony Stewart,Jeff Gordon,0
+667,13-Jul-18,13-Jul-18,1
+668,1859,1868,0
+669,Pakistan,South Africa,0
+670,no,no,1
+671,St. Louis Cardinals, 'Cleveland Indians',0
+672,Rick Ross,Rick Ross,1
+673,London,London,1
+674,Muslim,Muslim,1
+675,1859,1869,0
+676,"may be an Extended Green, for left turns after the opposing traffic's full green phase","may be an Extended Green, for left turns after the opposing traffic's full green phase",1
+677,Malaysian ringgit,British pound,0
+678,London,London,1
+679,Muslim,Muslim,1
+680,yes,yes,1
+681,"in 1998, 2002 and 2006","in 1996, 2000 and 2004",0
+682,115,112,0
+683,the East End,the East End,1
+684,GarbiâÂ±e Muguruza,Naomi Osaka,0
+685,Arsenal,Arsenal,1
+686,as short as 3.05Â¬â m (10Â¬â ft 0Â¬â in) to as long as 5.30Â¬â m (17Â¬â ft 5Â¬â in),as long as 8.53Â¬â m (28Â¬â ft 0Â¬â in),0
+687,1896,1894,0
+688,Tampa Bay Buccaneers,San Francisco 49ers,0
+689,a show tune,a love song,0
+690,212,212,1
+691,"(John Dye), the angel of death","(John Dye), the angel of death",1
+692,Andrew (John Dye),Andrew (John Dye),1
+693,712,712,1
+694,no,yes,0
+695,1986,2010,0
+696,Newfoundland,Newfoundland,1
+697,2015,2012,0
+698,John Elway,John Elway,1
+699,4-Feb-97,4-Feb-97,1
+700,Martin Truex Jr.,Kasey Kahne,0
+701,no,yes,0
+702,no,yes,0
+703,"FedExField in Landover, Maryland","FedExField  in Landover,  Maryland",0
+704,XVIII.,XIII.,0
+705,pitcher,pitcher,1
+706,Ed Carpenter Racing,Ed Carpenter Racing,1
+707,Clint Bowyer,Clint Bowyer,1
+708,professional tennis player,professional tennis player,1
+709,professional tennis player,professional tennis player,1
+710,GarbiâÂ±e Muguruza,Caroline Wozniacki,0
+711,Urszula RadwaâÃska,Urszula RadwaâÃska,1
+712,39,39,1
+713,Minnesota Vikings,Minnesota Vikings,1
+714,Washington Redskins,Washington Redskins,1
+715,2004,2003,0
+716,central and southeastern United States,central and southwestern United States,0
+717,the 1970s,the 1970s,1
+718,in the 1970s,in the 1960s,0
+719,K. J. Choi,Adam Scott,0
+720,Philadelphia Warriors,San Francisco Warriors,0
+721,the East End,the West End,0
+722,1859,1869,0
+723,at Minnesota Vikings,at Minnesota Vikings,1
+724,Tichina Arnold,Naya Rivera,0
+725,northwest of Tokyo Bay,northwest of Tokyo Bay,1
+726,Muslim,Christian,0
+727,the East End,the North End,0
+728,Santos,Santos,1
+729,Chelsea,Chelsea,1
+730,England,England,1
+731,the East End,the West End,0
+732,Muslim,Muslim,1
+733,1859,1850,0
+734,1988,1988,1
+735,"over 60,000 people","over 60,000 people",1
+736,500-room,500-room,1
+737,no,yes,0
+738,no,yes,0
+739,London,London,1
+740,the East End,the north end,0
+741,London,London,1
+742,1859,1868,0
+743,Muslim,Muslim,1
+744,1. FC Kââln a,FC Kââln b,0
+745,Malaysian ringgit,Malaysian dollar,0
+746,the East End,the West End,0
+747,Pakistan,Malaysia,0
+748,Muslim,Christian,0
+749,Dublin,Dublin,1
+750,Muslim,Muslim,1
+751,1945,1945,1
+752,the mascot of Berlin,the mascot of Berlin,1
+753,26 June 1948âÃÃ¬30 September 1949,13 April 1865-9 April 1866,0
+754,the East End,the East End,1
+755,Pakistan,Cuba,0
+756,1859,1869,0
+757,Muslim,Christian,0
+758,"17 hours, 5 minutes","17 hours, 5 minutes",1
+759,20-Mar,20-Mar,1
+760,"Samut Prakan, Thailand","Phuket, Thailand",0
+761,Dallas Mavericks,Los Angeles Lakers,0
+762,Rachel,Kate,0
+763,1929,1930,0
+764,"Kiev, Ukraine","New York, USA",0
+765,"over 60,000 people","over 60,000 people",1
+766,no,no,1
+767,Vijay Singh,Tiger Woods,0
+768,Croatia,France,0
+769,Sydney Roosters,Sydney Roosters,1
+770,angelfish,angelfish,1
+771,Plymouth Argyle,Plymouth Argyle,1
+772,government property of Russia,Government property of France,0
+773,yes,yes,1
+774,the 2019âÃÃ¬20 NBA season,the 2019âÃÃ¬20 NBA season,1
+775,"2016 United Nations estimate puts the total population at 38,000,000","2016 United Nations estimate puts the total population at 38,000,000",1
+776,Washington Capitals,Washington Capitals,1
+777,1997,2001,0
+778,26 June 1948âÃÃ¬30 September 1949,27 June 1947âÃÃ¬30 September 1949,0
+779,the mascot of Berlin,the mascot of Berlin,1
+780,"Phoenix, Arizona","Phoenix, Arizona",1
+781,Hockey,Hockey,1
+782,the 1970âÃÃ¬71 season,1972,0
+783,China,China,1
+784,China,China,1
+785,Kathryn Joosten,Kathryn Joosten,1
+786,Wilkerson,Miller,0
+787,Justin Tyler Berfield,Justin Tyler Berfield,1
+788,39,39,1
+789,professional tennis player,singer,0
+790,FC St. Pauli,Hertha BSC,0
+791,between 1886 and 1894,between 1886 and 1894,1
+792,1859,1869,0
+793,Nick Faldo,Nick Faldo,1
+794,collapsed during the early 21st century,collapsed during the early 21st century,1
+795,1991,1992,0
+796,12-Dec-91,12-Dec-92,0
+797,12-Dec-91,11-Dec-91,0
+798,12-Dec-91,11-Dec-91,0
+799,Ray Harroun,Ray Harroun,1
+800,Dennis Franz,Dennis Franz,1
+801,1-Mar-05,1-Mar-05,1
+802,2013,2013,1
+803,Ipswich,Ipswich,1
+804,USSÂ¬â Missouri,USS Nimitz,0
+805,A. J. Allmendinger,A. Denny Hamlin,0
+806,31-Mar-49,31-Mar-50,0
+807,2.90%,2.90%,1
+808,Brian Vickers,Brian Vickers,1
+809,1-Mar-05,1-Mar-05,1
+810,Dennis Franz,Dennis Franz,1
+811,2015,2015,1
+812,4-Feb-97,4-Feb-00,0
+813,at Denver Broncos,at Denver Broncos,1
+814,2015,2015,1
+815,1997,1997,1
+816,no,yes,0
+817,Henny Penny,Henny Penny,1
+818,Buenos Aires,Buenos Aires,1
+819,Celia Cruz,Fidel Castro,0
+820,"examines the self-consciousness and insecurity within society, particularly the black community, and how these characteristics pertain to economic materialism",This song is about how society is falling apart and how people are losing their minds.,0
+821,Kanye West,Stevie Wonder,0
+822,Estelle,Stelle,0
+823,Bristol Rovers,Bristol Rovers,1
+824,Lionel Messi,Lionel Messi,1
+825,11-Dec-62,11-Dec-62,1
+826,no,yes,0
+827,Cincinnati,Cincinnati,1
+828,Peter Andrew Beardsley MBE,Gareth Bale,0
+829,4-Feb-97,4-Feb-98,0
+830,2015,2015,1
+831,Florida,Alabama,0
+832,Philadelphia Warriors,San Francisco Warriors,0
+833,2009,2010,0
+834,"Pittsburgh, Pennsylvania","Pittsburgh, Pennsylvania",1
+835,Dallas Mavericks,Spain,0
+836,New York Yankees,New York Yankees,1
+837,Argentina,Argentina,1
+838,2002,2011,0
+839,2009,2010,0
+840,1997,1999,0
+841,no,yes,0
+842,"Sunrise, Florida","Sunrise, Florida",1
+843,Madrid,Madrid,1
+844,Malaysian ringgit,Malaysian dollar,0
+845,1971,1971,1
+846,yes,no,0
+847,Milwaukee Bucks,Milwaukee Bucks,1
+848,Jeff Gordon,Jeff Gordon,1
+849,no,yes,0
+850,Philadelphia Warriors,Golden State Warriors,0
+851,Russell Westbrook,Russell Westbrook,1
+852,GaâÂ´l Monfils,Gael Monfils,0
+853,San Antonio Spurs,New York Knicks,0
+854,Tony Stewart,Tony Stewart,1
+855,39,8,0
+856,Muslim,Muslim,1
+857,Alabama,Alabama,1
+858,West Bromwich Albion,West Ham United,0
+859,yes,no,0
+860,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+861,yes,yes,1
+862,"Copenhagen,","Copenhagen,",1
+863,Sep-32,Sep-33,0
+864,Turkey,Mexico,0
+865,1995,1995,1
+866,Ed Carpenter Racing,Ed Carpenter Racing,1
+867,Christopher Jason Witten,Gavin Escobar,0
+868,northwest of Tokyo Bay,northwest of Tokyo Bay,1
+869,Clarence Seedorf,Cristiano Ronaldo,0
+870,1896,1997,0
+871,Urszula RadwaâÃska,Naomi Osaka,0
+872,professional tennis player,professional tennis player,1
+873,39,35,0
+874,Louie,Louie,1
+875,Deerfield Beach,Coconut Grove,0
+876,Mike Powell,Mike Powell,1
+877,professional tennis player,professional tennis player,1
+878,Rony Seikaly,lonzo Mourning,0
+879,Brentford,Brentford,1
+880,the 1970âÃÃ¬71 season,the 1970âÃÃ¬71 season,1
+881,LeBron James,LeBron James,1
+882,1859,1869,0
+883,Jeremy Mayfield,Ricky Rudd,0
+884,mid-August 1992,mid-August 1982,0
+885,Traumatic Brain Injury,Arthritis,0
+886,Cleveland Cavaliers,Denver Nuggets,0
+887,St. Patrick's Cathedral,St. Patrick's Cathedral,1
+888,yes,no,0
+889,yes,no,0
+890,yes,no,0
+891,Li Na,Li Na,1
+892,Red Star Belgrade,Red Star Belgrade,1
+893,Real Madrid,Real Madrid,1
+894,Santos,Santos,1
+895,no,yes,0
+896,Ernie Els,Graeme McDowell,0
+897,"Lillehammer, Norway","Nagano, Japan",0
+898,Fulham,Fulham,1
+899,yes,yes,1
+900,no,yes,0
+901,France to the west,France to the west,1
+902,Red Bull Salzburg,Red Bull Salzburg,1
+903,@ Montreal Canadiens,@ Tampa Bay Lightning,0
+904,Kurt Busch,Kurt Busch,1
+905,Leeds,Leeds,1
+906,Stockholm-Arlanda Airport,Stockholm Central Station,0
+907,1991,1992,0
+908,China,China,1
+909,Christopher Heyerdahl,Christopher Heyerdahl,1
+910,Anson Adams Mount IV,Anson Adams Mount IV,1
+911,Theatre of Tragedy,Theatre of Comedy,0
+912,Mato Grosso do Sul,Sergipe,0
+913,ringgit,ringgit,1
+914,1. FC Kââln,FC Kââln,0
+915,South Carolina,North Carolina,0
+916,1729,1629,0
+917,no,yes,0
+918,Liverpool,Liverpool,1
+919,"San Francisco, United States","San Francisco, United States",1
+920,no,yes,0
+921,Phil Mickelson,John Doe,0
+922,the 1970âÃÃ¬71 season,the 1970âÃÃ¬71 season,1
+923,Caroline Wozniacki,Caroline Wozniacki,1

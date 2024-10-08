@@ -1,0 +1,2490 @@
+qid,gt_ans,pred_ans_blip,correctness_blip
+0,Queens Park Rangers,Queens Park Rangers,1
+1,Adam Kennedy,Adam Kennedy,1
+2,0.301,401,0
+3,The Herbalist's Manual,The Herbalist's Manual,1
+4,bracelets,watches,0
+5,2010âÃÃ¬11,2010âÃÃ¬11,1
+6,Josh Smith,Josh Smith,1
+7,Leigh Centurions,Hull FC,0
+8,Tyrone Roberts,Tyrone Jones,0
+9,17-Oct,17-Oct,1
+10,yellow,yellow,1
+11,train,train,1
+12,Free transfer,Free transfer,1
+13,belt,belt,1
+14,yes,yes,1
+15,baby,baby,1
+16,Adele,Adele,1
+17,Blind Auditions,Eliminations,0
+18,"""Chandelier""","""Halo""",0
+19,gold,gold,1
+20,grey,grey,1
+21,grey,pink,0
+22,Britannia Stadium,Britannia Stadium,1
+23,sunglasses,sunglasses,1
+24,camera,camera,1
+25,two,two,1
+26,WCGA,WCFA,0
+27,AmâÂ©rica,Chivas,0
+28,1-Jul-17,1-Jul-17,1
+29,Joe Davis,Joe Dent,0
+30,Free transfer,Free transfer,1
+31,Walt Disney Home Entertainment,Walt Disney Home Entertainment,1
+32,Colonel,Colonel,1
+33,Indian Army,Indian Army,1
+34,1-Oct-05,1-Oct-05,1
+35,16-Dec-04,17-Dec-04,0
+36,car,car,1
+37,New York Yankees,New York Yankees,1
+38,"Moosic, Pennsylvania",Moosic,0
+39,Coolray Field,Coolray Field,1
+40,North,North,1
+41,PNC Field,PNC Field,1
+42,"10,000","10,000",1
+43,Maj. Gen. Henry Heth,Dr. Henry Heth,0
+44,4,4,1
+45,4,4,1
+46,Blackburn Rovers,Blackburn Rovers,1
+47,AmâÂ©rica,Atlantis,0
+48,drums,drums,1
+49,Uncle,Parent,0
+50,2011,2013,0
+51,Juan Carlos,Juan Carlos,1
+52,Kevin Harvick,Kevin Harvick,1
+53,PâÂºha,PâÂºha,1
+54,Lutheran,Catholic,0
+55,six,six,1
+56,2:32:28,2:32:28,1
+57,bye,snake,0
+58,Lokomotiv,Arsenal,0
+59,putter,golfer,0
+60,lightening,lightening,1
+61,EV Zug,EV Zug,1
+62,Kimmo Rintanen,Kimmo Rintanen,1
+63,Mika MyllylÃ¤,the fully-bearded man,0
+64,"2014, 2016, 2017","2015, 2016, 2017",0
+65,cigarette,cigarette,1
+66,cigarette,cigarette,1
+67,Klaus Allofs,Klaus Allofs,1
+68,railroad,railroad,1
+69,Ret,Ret,1
+70,Engine,Engine,1
+71,red,red,1
+72,one,one,1
+73,one,two,0
+74,Cologne,Cologne,1
+75,1. FC Kââln,Hamburger SV,0
+76,7-Aug,7-Sep,0
+77,Wide receiver,Wide receiver,1
+78,Buffalo Bills,Buffalo Bills,1
+79,Filippo Inzaghi,Filippo Inzaghi,1
+80,Mawella Lagoon Airport,Manulele Airport,0
+81,Norah Jones,Rihanna,0
+82,black,black,1
+83,"""Chasing Pirates"" (Droogs Remix)","""Chasing Pirates"" (Droogs Remix)",1
+84,Chasing Pirates remix EP,Chasing Pirates remix EP,1
+85,71-72=143,71-74=145,0
+86,69-70=139,69-70=140,0
+87,16.985,985,0
+88,no,no,1
+89,Oklahoma!,Oklahoma!,1
+90,no,no,1
+91,2002,2001,0
+92,tattoo,Tattoo,0
+93,Ekaterina Makarova,Annie Priest,0
+94,yellow,yellow,1
+95,one,one,1
+96,one,three,0
+97,Titans,Titans,1
+98,University of Evansville,University of Evansville,1
+99,Ramblers,Lumberjacks,0
+100,six,six,1
+101,six,six,1
+102,blue,blue,1
+103,blue,blue,1
+104,15085,15085,1
+105,four,four,1
+106,four,four,1
+107,beach,beach,1
+108,beach,beach,1
+109,"Sebring, Florida","Charlotte, North Carolina",0
+110,Sebring International Raceway,Sebring International Raceway,1
+111,"Engelberg, Switzerland","Engelberg, Switzerland",1
+112,mustache,mustache,1
+113,2010,2011,0
+114,stone,stone,1
+115,Himself,Himself,1
+116,2009,2009,1
+117,motorcycle,motorcycle,1
+118,Al-Rayyan,Al-Rayyan,1
+119,baseball,baseball,1
+120,Alameda,Alameda,1
+121,Minardi-European,Lola-European,0
+122,red,red,1
+123,red,red,1
+124,East Tennessee State University,University of Tennessee,0
+125,East Tennessee State University,University of Chattanooga,0
+126,Blue Raiders,Blue Raiders,1
+127,Jack Gordon,Jack Gordon,1
+128,Zellio Toppazzini,Rick Middleton,0
+129,Cleveland Barons,Boston Bruins,0
+130,blue,blue,1
+131,2019,2019,1
+132,"Story, screenplay and dialogues","Story, screenplay and dialogues",1
+133,Haseen Dillruba,Haseen Dillruba,1
+134,black,black,1
+135,black,black,1
+136,Molokai,Molokai,1
+137,water,water,1
+138,water,air,0
+139,water,land,0
+140,Pablo,Pablo,1
+141,Italy,Italy,1
+142,$54.7 billion,$54.7 million,0
+143,gun,gun,1
+144,gun,gun,1
+145,gun,gun,1
+146,Kyle Busch,Kyle Busch,1
+147,Meeting de Atletismo Madrid,Meeting de Atletismo Madrid,1
+148,SGP,GP,0
+149,pockets,pockets,1
+150,pockets,bag,0
+151,Ramiro Corrales,Ramiro Charles,0
+152,1996âÃÃ¬1999,1999âÃÃ¬2002,0
+153,13:08.8,13:08.9,0
+154,Miikka Anttila,Miikka Anttila,1
+155,one,one,1
+156,100 m,100 m,1
+157,pole,pole,1
+158,two,two,1
+159,two,two,1
+160,1985,1985,1
+161,Patty,Linda,0
+162,The Simpsons Movie,The Simpsons Movie,1
+163,AS Cannes,AS Monaco,0
+164,Daybreak,Daybreak,1
+165,bridge,bridge,1
+166,2011,2010,0
+167,thirteen,twelve,0
+168,thirteen,thirteen,1
+169,yes,yes,1
+170,yes,yes,1
+171,bow,sword,0
+172,bow,gun,0
+173,bow,bow,1
+174,propeller,propeller,1
+175,white,white,1
+176,white,white,1
+177,short,short,1
+178,Leicester City,Manchester City,0
+179,Andre Ayew,Andre Ayew,1
+180,Bruce McLaren Motor Racing Ltd,Bruce McLaren Motor Racing Ltd,1
+181,Jefferson FarfâÂ°n,Brian McBride,0
+182,Sol Campbell,Sol Campbell,1
+183,Czechoslovakia,Czechoslovakia,1
+184,Italy,Italy,1
+185,26.165,166,0
+186,South Carolina,Florida,0
+187,blue,blue,1
+188,blue,blue,1
+189,no,no,1
+190,no,no,1
+191,Greece,Greece,1
+192,Various,Various,1
+193,Monica Gimble / DJ Drang,Natalie Kelly / DJ Drang,0
+194,Showtime,HBO,0
+195,Showtime,HBO,0
+196,oval,oval,1
+197,Koikawa Harumachi,Kagemusha,0
+198,bell,bell,1
+199,bell,bell,1
+200,Jefferson FarfâÂ°n,Jefferson FarfâÂ°n,1
+201,blue,blue,1
+202,blue,blue,1
+203,blue,Red,0
+204,29-May-14,29-May-15,0
+205,First Nations,French,0
+206,14-Oct-17,14-Oct-17,1
+207,JosâÂ© Marââ a OlazâÂ°bal,The black-haired golfer,0
+208,"622,598","622,598",1
+209,earrings,earrings,1
+210,earrings,earrings,1
+211,left,right,0
+212,George Zahringer,Peter Uihlein,0
+213,necklace,necklace,1
+214,Agnieszka RadwaâÃska,Agnieszka RadwaâÃska,1
+215,"18,489","17,489",0
+216,people,animals,0
+217,W 37âÃÃ¬24,L 37-24,0
+218,Jack Perkins,Jack Perkins,1
+219,2002,2002,1
+220,necklace,necklace,1
+221,Iraq,Dubai,0
+222,Erbil,Erbil,1
+223,Iraq,Iraq,1
+224,red,red,1
+225,CONMEBOL,CONMEBOL,1
+226,Kevin Harvick,Tony Stewart,0
+227,"3,033 (-15)","4,033 (-15)",0
+228,female,female,1
+229,Conversations with Christian,Conversations with Christian,1
+230,Gettin' to It,The bass,0
+231,Conversations with Christian,The Good Feeling,0
+232,Jeff Gordon,Jeff Gordon,1
+233,4108,4108,1
+234,Kevin Harvick,Kevin Harvick,1
+235,3886,3886,1
+236,Ricky Rudd,Ricky Rudd,1
+237,1994,1994,1
+238,Suzanne,Serena,0
+239,microphone,microphone,1
+240,Illinois,Illinois,1
+241,Sons Of Anarchy,Sons Of Anarchy,1
+242,2009,2010,0
+243,Gilead,Gilead,1
+244,yes,yes,1
+245,table,table,1
+246,yes,yes,1
+247,Mill Village,Mill Village,1
+248,five,five,1
+249,five,five,1
+250,five,five,1
+251,Nick Evans,Nick Evans,1
+252,track,track,1
+253,football,football,1
+254,football,football,1
+255,football,football,1
+256,Mercedes-Benz,Mitsubishi,0
+257,Hino,Hino,1
+258,Star Wars: The Last Jedi,Star Wars: The Last Jedi,1
+259,2004,2004,1
+260,1989,1989,1
+261,Southland Conference,American Athletic Conference,0
+262,April,March,0
+263,yes,yes,1
+264,New York Liberty,New York Liberty,1
+265,Wolverhampton Wanderers,Wolverhampton Wanderers,1
+266,Aston Villa,West Ham United,0
+267,"Serena Williams   6âÃÃ¬1, 6âÃÃ¬7 (7âÃÃ¬9) , 6âÃÃ¬3","Serena Williams   6âÃÃ¬1, 6âÃÃ¬7 (7âÃÃ¬9) , 6âÃÃ¬3",1
+268,kissing,kissing,1
+269,Mark Martin,Jeff Gordon,0
+270,four,three,0
+271,five,five,1
+272,United States,United States,1
+273,Nick Price,John Daly,0
+274,Jerzy Janowicz,Rafal Nadal,0
+275,Arben Prifti,Peri Duro,0
+276,KorâÃâÂ´,Tirana,0
+277,George North,George North,1
+278,Mario Moretti Polegato,Giovanni Ferrero,0
+279,Francesco Gaetano Caltagirone,A: Francesco Maria Rossi,0
+280,nike,nike,1
+281,Galina Gorokhova,Galina Gorokhova,1
+282,Singer,Singer,1
+283,yes,yes,1
+284,yes,yes,1
+285,zipper,zipper,1
+286,Crystal Palace,Crystal Palace,1
+287,guitar,guitar,1
+288,Ronaldinho,Ronaldinho,1
+289,swoosh,Nike,0
+290,shield,circle,0
+291,black,black,1
+292,2013,2012,0
+293,2007 Albums of the Year,2007 Albums of the Year,1
+294,Shay Bishop,Shay Bishop,1
+295,2013âÃÃ¬2014,2011âÃÃ¬2012,0
+296,Noelle Quinn,Noelle Quinn,1
+297,5-May-09,4-May-09,0
+298,Daddy's Gurl,Daddy's Boy,0
+299,Once Again,Once Again,1
+300,The Strongest,The Strongest,1
+301,no,no,1
+302,The 50 Best Albums of 2013,The 50 Best Albums of 2012,0
+303,Toni Pressley,Hayley Raso,0
+304,two,three,0
+305,two,three,0
+306,four,four,1
+307,Ferrari Ki Sawaari,Chennai Express,0
+308,no,no,1
+309,no,no,1
+310,no,yes,0
+311,"1936, 1972, 2015","1937, 1973, 2016",0
+312,horse,horse,1
+313,horse,horse,1
+314,horse,horse,1
+315,yes,no,0
+316,yes,yes,1
+317,Atlanta Hawks,Detroit Pistons,0
+318,Francesco Totti,Francesco Totti,1
+319,Lazio,Roma,0
+320,hankerchief,potato,0
+321,hankerchief,watch,0
+322,Andrew Fisher,Andrew Fisher,1
+323,Andrew Fisher,Andrew Fisher,1
+324,William Brand,William Brand,1
+325,Bernhard Langer,Mark James,0
+326,Mike Vernon,Mike Vernon,1
+327,New Jersey,New York,0
+328,Martin Brodeur,Chris Osgood,0
+329,black,black,1
+330,book,book,1
+331,book,book,1
+332,black,black,1
+333,book,book,1
+334,18 - 24,18 - 24,1
+335,16 - 18,16 - 18,1
+336,Penrith Panthers,Cronulla Sharks,0
+337,camouflage,camouflage,1
+338,camouflage,camouflage,1
+339,camouflage,camouflage,1
+340,at Cleveland Browns,at Cleveland Browns,1
+341,Niko Neman,Niko Nemo,0
+342,"Rostov-on-Don, Rostov oblast","Kiev, Ukraine",0
+343,4âÃÃ¬8,4âÃÃ¬9,0
+344,Loan,Loan,1
+345,28-Jul-14,28-Jul-15,0
+346,Cardiff City,Cardiff City,1
+347,surfboards,surfboards,1
+348,surfboards,surfboards,1
+349,Giants,Giants,1
+350,Dodgers,Dodgers,1
+351,7,5,0
+352,necklace,necklace,1
+353,four,four,1
+354,four,four,1
+355,palm,palm,1
+356,stadium,stadium,1
+357,Nikolaj âÃ². Nielsen,Peter J. Rasmussen,0
+358,Henrik Mââllgaard,Henrik Mââllgaard,1
+359,eye,eye,1
+360,2012,2011,0
+361,"Joe ""Toes"" Kittridge","Randy ""Toes"" Thorne",0
+362,Clemson,Clemson,1
+363,earring,earring,1
+364,blue,blue,1
+365,01:21.2,01:21.2,1
+366,Honda,Honda,1
+367,Milwaukee Bucks,Milwaukee Bucks,1
+368,Nick Heidfeld,Nick Heidfeld,1
+369,226,236,0
+370,"""Broken""","""Broken""",1
+371,Dominique Aegerter,Luca Marini,0
+372,86-83-83=252,86-83-83=253,0
+373,2âÃÃ¬3 February,2âÃÃ¬3 February,1
+374,green,green,1
+375,26 March 1992 (Married),1787 (Divorced),0
+376,15-Jan-11,12-Jan-11,0
+377,two,two,1
+378,two,three,0
+379,Solicitor,Manager,0
+380,2009,2009,1
+381,2009,2009,1
+382,black,black,1
+383,black,black,1
+384,Bareilly Ki Barfi,Meesha Miya,0
+385,2019,2019,1
+386,Bareilly Ki Barfi,Coolie No. 1,0
+387,baseball,baseball,1
+388,football,basketball,0
+389,baseball,baseball,1
+390,baseball,baseball,1
+391,hoop,hoop,1
+392,scarf,scarf,1
+393,Charley Hull,Bubba Watson,0
+394,Charley Hull,Charley Hull,1
+395,27-Sep-94,27-Sep-94,1
+396,brown,blue,0
+397,brown,blue,0
+398,yes,yes,1
+399,mask,mask,1
+400,Gods and Generals,Gods and Generals,1
+401,Ante StarÆÃ§eviÆÃ¡,Luka Modric,0
+402,7,7,1
+403,"Rulon ""RuDog"" Douglas","Rulon ""RuDog"" Dudley",0
+404,Colonel,Colonel,1
+405,blue,blue,1
+406,blue,blue,1
+407,Hetty Feather,Black Mirror,0
+408,Luton Town,Coventry City,0
+409,0-2,0-0,0
+410,18-Dec-01,18-Dec-02,0
+411,139,140,0
+412,Artem Dzyuba,Artem Dzyuba,1
+413,horses,horses,1
+414,Reading,Reading,1
+415,10.34,34,0
+416,Billy Hamill,Billy Hamill,1
+417,2016,2016,1
+418,"Crvena zvezda mts  (Nov 7, 2019)","Panathinaikos OPAP (Dec 12, 2019)",0
+419,bridge,bridge,1
+420,steps,steps,1
+421,Nick Heidfeld,Nick Heidfeld,1
+422,Giancarlo Fisichella,Kimi Raikkonen,0
+423,red,red,1
+424,red,red,1
+425,55.726,726,0
+426,Steven Gerrard,Fernando Torres,0
+427,nike,nike,1
+428,nike,nike,1
+429,nike,nike,1
+430,Kelly Cain,Kelly Cain,1
+431,114,114,1
+432,racket,racket,1
+433,yes,yes,1
+434,yes,yes,1
+435,gray,gray,1
+436,5yo +,6yo +,0
+437,red,red,1
+438,Uttama Villain,Uttama Villain,1
+439,Avargal,Avargal,1
+440,Pavel Pogrebnyak,Pavel Pogrebnyak,1
+441,Malaysia,Malaysia,1
+442,WMKK,WMKK,1
+443,Malaysia,Malaysia,1
+444,Singapore Indoor Stadium,Dallas Stadium,0
+445,Singapore Indoor Stadium,.,0
+446,10-Sep-11,10-Sep-12,0
+447,10-Dec,3-Apr,0
+448,36-12,32-12,0
+449,New Zealand Warriors,New Zealand Warriors,1
+450,Brisbane Broncos,Brisbane Broncos,1
+451,252,252,1
+452,"16,401","16,401",1
+453,yes,yes,1
+454,Porin jÃ¤Ã¤halli,Porin jÃ¤Ã¤halli,1
+455,Ilves,Ilves,1
+456,Ville Uusitalo,Ville Uusitalo,1
+457,Tampere,Helsinki,0
+458,Tuomas Toukkola,Ville Peltonen,0
+459,ferris,ferris,1
+460,seven,five,0
+461,seven,eight,0
+462,ferris,ferris,1
+463,Nââ lton Santos,Jorge Santos,0
+464,Nââ lton Santos,Cafu,0
+465,Franz Beckenbauer,Bobby Moore,0
+466,Franz Beckenbauer,Boris Johnson,0
+467,hands,teeth,0
+468,yes,yes,1
+469,yes,yes,1
+470,jeans,jeans,1
+471,Florian Kainz,Michael Langer,0
+472,2018,2019,0
+473,2004,2005,0
+474,1995,2003,0
+475,Frank Marshall,Frank Marshall,1
+476,Poland,Poland,1
+477,David Eilenberg,David Eilenberg,1
+478,Shane Webcke,Adam Blair,0
+479,"2  Galatasaray (1), DarâÂºâÃ¼âÃ¼afaka (1)","2  Universidad de Chile (1), Colo-Colo (1)",0
+480,France,France,1
+481,yellow,yellow,1
+482,two,two,1
+483,two,two,1
+484,yes,yes,1
+485,Female Wing Kong Guard,Female Wing Kong Guard,1
+486,Lausanne,Zurich,0
+487,brick,brick,1
+488,brick,brick,1
+489,brick,brick,1
+490,glasses,glasses,1
+491,12,12,1
+492,Turkey,Turkey,1
+493,Pudhupettai,Pattiyal,0
+494,no,no,1
+495,Hendrick Motorsports,Gibson Motorsports,0
+496,Chevrolet,Chevrolet,1
+497,12-Mar-09,12-Mar-09,1
+498,4. Middlesex Crusaders,Middlesex Crusaders,0
+499,Eaten Alive,Eaten Alive,1
+500,1977,1975,0
+501,5-Sep,5-Sep,1
+502,oval,oval,1
+503,Monza,Monza,1
+504,Mercedes,Mercedes,1
+505,oval,oval,1
+506,oval,oval,1
+507,German Grand Prix,German Grand Prix,1
+508,mtv,mtv,1
+509,Arjuns ex-girlfriend,Simrans ex-girlfriend,0
+510,mtv,mtv,1
+511,1985,1980,0
+512,Boy at Outpost,The Magnificent Seven,0
+513,+1 Lap,1 Lap,0
+514,Red Bull-Renault,Red Bull-Toyota,0
+515,"Biddeford, Maine","Biddeford, Maine",1
+516,Kristina Barrois,Kristina Barrois,1
+517,green,green,1
+518,brown,brown,1
+519,brown,brown,1
+520,two,two,1
+521,âÃlex Corretja,Antonio Corretja,0
+522,Ratinho,Ratinho,1
+523,quill,quilt,0
+524,Pithamagan,Nandha,0
+525,bridge,bridge,1
+526,seven,eight,0
+527,trees,trees,1
+528,bridge,bridge,1
+529,seven,seven,1
+530,fountain,fountain,1
+531,1994,1994,1
+532,Freddie Ljungberg,Nolan Roux,0
+533,"[[University of Maryland, Baltimore County|University of Maryland, Baltimore County]]",Baltimore County]],0
+534,University of Central Arkansas,University of Central Arkansas,1
+535,mens soccer,mens soccer,1
+536,Bears,Bears,1
+537,Southern Methodist University,Southern Methodist University,1
+538,"Tulsa, Oklahoma","Tulsa, Oklahoma",1
+539,1911,1911,1
+540,seven,seven,1
+541,2,2,1
+542,gold,gold,1
+543,Utah Jazz,Chicago Bulls,0
+544,250,500,0
+545,no,yes,0
+546,blue,blue,1
+547,Arthur Curry / Aquaman (voice),James the Butler,0
+548,2018,2018,1
+549,Alexis SâÂ°nchez,Alexis SâÂ°nchez,1
+550,Sebastian Vettel,Lewis Hamilton,0
+551,headset,earpiece,0
+552,Adrian Sutil,Adrian Sutil,1
+553,hip,hip,1
+554,38.85,95,0
+555,Maine Road,Maine Road,1
+556,Tottenham Hotspur,Tottenham Hotspur,1
+557,Tottenham Hotspur,Nottingham Forest,0
+558,Tottenham Hotspur,Manchester United,0
+559,Sikorsky S-65,Lockheed F-22 Raptor,0
+560,Westland Whirlwind,Westland Whirlwind,1
+561,Sikorsky S-65,Igor Sikorsky,0
+562,Westland Whirlwind,Westland Haywood,0
+563,1st,1st,1
+564,Argentina,Argentina,1
+565,Rosenborg,Rosenborg,1
+566,Birmingham City,Birmingham City,1
+567,Kanchan Mehta,Amita Nair,0
+568,Ram Chauthranis secretary,Ram Chauthranis daughter,0
+569,Undisclosed,Undisclosed,1
+570,Free,Free,1
+571,Simon Heslop,Simon Heslop,1
+572,Cruz Azul,Atlas,0
+573,Pachuca,Pachuca,1
+574,"Enclosure Hough (1978), p.1.",Motte and bailey castle,0
+575,red,red,1
+576,sports,sports,1
+577,palm,palm,1
+578,Pittsburgh Steelers,Pittsburgh Steelers,1
+579,two,three,0
+580,Victoria Park,Victoria Palace,0
+581,cross,cross,1
+582,cross,cross,1
+583,The Daleks' Master Plan,The Key to Time,0
+584,blue,blue,1
+585,moustache,goatee,0
+586,2012,2012,1
+587,Mass Effect 3,No,0
+588,sixteen,sixteen,1
+589,yes,yes,1
+590,four,four,1
+591,microphone,microphone,1
+592,Skater,Skater,1
+593,white,white,1
+594,motorcycle,motorcycle,1
+595,Michael Dobson,Michael Dobson,1
+596,three,three,1
+597,three,three,1
+598,three,three,1
+599,white,white,1
+600,Yorkshire,Yorkshire,1
+601,eight,eight,1
+602,eight,eight,1
+603,eight,eight,1
+604,circle,circle,1
+605,circle,circle,1
+606,mountains,mountains,1
+607,microphone,microphone,1
+608,microphone,microphone,1
+609,microphone,microphone,1
+610,wolf,wolf,1
+611,wolf,wolf,1
+612,sun,sun,1
+613,sun,sun,1
+614,globe,globe,1
+615,globe,globe,1
+616,64-71-71=206,66-69-73=208,0
+617,one,eleven,0
+618,one,one,1
+619,yes,yes,1
+620,bleachers,bleachers,1
+621,Forfar Athletic,Clydebank,0
+622,Randy Savage,Sting,0
+623,oval,oval,1
+624,oval,oval,1
+625,oval,oval,1
+626,oval,oval,1
+627,oval,round,0
+628,oval,oval,1
+629,Litex Lovech,Litex Lovers,0
+630,Zoran JankoviÆÃ¡,risto Stoichkov,0
+631,red,red,1
+632,âÃ Ã­18,âÃ Ã­20,0
+633,AndrâÂ©s Romero,The player that is African-American,0
+634,lemon,lemon,1
+635,Ryan Briscoe,Will Power,0
+636,Scott Dixon,Scott Dixon,1
+637,cap,hat,0
+638,red,red,1
+639,golf,golf,1
+640,golf,golf,1
+641,golf,golf,1
+642,four,four,1
+643,four,four,1
+644,lights,lights,1
+645,pockets,knees,0
+646,Italy,Italy,1
+647,'Baker King','Baker King',1
+648,TV5,TV5,1
+649,Austrian Grand Prix,Austrian Grand Prix,1
+650,blue,blue,1
+651,five,three,0
+652,yes,yes,1
+653,yes,yes,1
+654,no,yes,0
+655,no,yes,0
+656,two,two,1
+657,70-67-68-72=277,70-67-68-72=277,1
+658,black,black,1
+659,"630,000","63,000",0
+660,yes,yes,1
+661,yes,no,0
+662,Waking the Dead,First Blood,0
+663,two,two,1
+664,Leo Diegel,Leo Diegel,1
+665,Cobi Jones,Cobi Jones,1
+666,Circuito di Cagliari,Circuito di Cagliari,1
+667,32.081,81,0
+668,Greece,Greece,1
+669,2013,2013,1
+670,white,white,1
+671,hand,foot,0
+672,hand,hand,1
+673,hand,foot,0
+674,fountain,fountain,1
+675,Martin Truex Jr.,Martin Truex Jr.,1
+676,four,four,1
+677,Jenson Button,Jenson Button,1
+678,Sebastian Vettel,Sebastian Vettel,1
+679,UFC 82,UFC 82,1
+680,yes,yes,1
+681,yes,yes,1
+682,sunglasses,sunglasses,1
+683,"Not Now, Comrade",A Clockwork Orange,0
+684,car,car,1
+685,two,two,1
+686,no,no,1
+687,no,no,1
+688,five,five,1
+689,five,Two,0
+690,Lhotse,Lhotse,1
+691,Nanga Parbat,Nanga Parbat,1
+692,Giancarlo Fisichella,Fernando Alonso,0
+693,Robert Kubica,Lewis Hamilton,0
+694,5,5,1
+695,four,four,1
+696,four,four,1
+697,1983,1982,0
+698,Mr. Mom,Hook,0
+699,yellow,blue,0
+700,three,three,1
+701,Thaniye,Thaniye,1
+702,Malayalam,Malay,0
+703,Rodrigo Tabata,Rodrigo Tabata,1
+704,2006,2006,1
+705,Christina Grimmie,Christina Perri,0
+706,Sauber-Petronas,Benetton-Renault,0
+707,Nick Heidfeld,Damon Hill,0
+708,three,three,1
+709,Running back,Running back,1
+710,red,red,1
+711,medal,medal,1
+712,RTL Televizija,RTL Butaco,0
+713,yes,yes,1
+714,Hulda from Holland,Hulda from Holland,1
+715,helmet,helmet,1
+716,helmet,helmet,1
+717,bed,bed,1
+718,bed,bed,1
+719,saturn,saturn,1
+720,Mayumi Ouchi,Mayumi Ouchi,1
+721,Lt. Col. Reinhardt,Lt. Col. Otis,0
+722,from New York Rangers,from New York Rangers,1
+723,two,three,0
+724,3,4,0
+725,blue,blue,1
+726,Greece,Greece,1
+727,singing,singing,1
+728,singing,singing,1
+729,Harmeet Singh,Niko Kari,0
+730,48.321,322,0
+731,shaking,shaking,1
+732,Eric Gordon,Caucasian,0
+733,2003,2003,1
+734,Allie Quigley,Allie Quigley,1
+735,Katie Smith,Katie Smith,1
+736,balloons,balloons,1
+737,balloons,balloons,1
+738,water,water,1
+739,"""The Mountains Win Again""",Chandelier,0
+740,"Old Lyme, Connecticut","Los Angeles, California",0
+741,clouds,clouds,1
+742,+1 lap,1 lap,0
+743,sunglasses,sunglasses,1
+744,Kyle Krisiloff,Ryan Reed,0
+745,earring,earring,1
+746,Bruno Peres,Bruno Peres,1
+747,left,right,0
+748,Chelsea,Chelsea,1
+749,Midfielder (MF),Midfielder (MF),1
+750,Hunslet,Leeds,0
+751,Blackburn Rovers,Chelsea,0
+752,Dhaulagiri,Dhaulagiri,1
+753,1965,1965,1
+754,19041995,19041985,0
+755,1995,1995,1
+756,20-Nov-04,19-Nov-03,0
+757,Bristol,Westminster,0
+758,yes,no,0
+759,white,white,1
+760,white,white,1
+761,Justin Holbrook,Ricky Stuart,0
+762,Stephen Kearney,Nathan Brown,0
+763,Uncle Buck,Uncle Buck,1
+764,yes,yes,1
+765,yes,no,0
+766,9-Jan,11-Mar,0
+767,bicycle,bicycle,1
+768,Sungkyunkwan Scandal,Sungkyunkwan Scandal,1
+769,Jang Keun-suk,Jang Keun-suk,1
+770,Shin Ha-kyun,Yoo Gan,0
+771,Rudy FernâÂ°ndez,Nate McMillan,0
+772,Krishnagiri,Krishnagiri,1
+773,6036,6037,0
+774,yes,yes,1
+775,glove,glove,1
+776,ADR loop group,Boom operator,0
+777,horses,horses,1
+778,Bunty Aur Babli,Bunty Aur Babli,1
+779,2005,2008,0
+780,beach,beach,1
+781,Kotka,Koska,0
+782,yellow,yellow,1
+783,yellow,yellow,1
+784,three,Six,0
+785,Watch Dogs 2,Watch Dogs 2,1
+786,2014,2013,0
+787,31-Aug-09,31-Aug-08,0
+788,Chevrolet,Chevrolet,1
+789,1991,1993,0
+790,clover,clover,1
+791,clover,clover,1
+792,Pistol Opera,Pistol Opera,1
+793,2001,2000,0
+794,Seijun Suzuki,Seijun Suzuki,1
+795,Pithoragarh,Nainital,0
+796,"3,088","3,088",1
+797,Golden Eagles,Golden Eagles,1
+798,yellow,yellow,1
+799,three,three,1
+800,2008,2008,1
+801,Road Atlanta,Road Atlanta,1
+802,black,brown,0
+803,Newcastle United,Newcastle United,1
+804,wheel,glove,0
+805,21.65,15,0
+806,Switzerland,Switzerland,1
+807,2,2,1
+808,headband,headband,1
+809,1953,1953,1
+810,Photographer,Photographer,1
+811,W 37âÃÃ¬34,L 37-34,0
+812,"41,610","41,610",1
+813,down,down,1
+814,music,music,1
+815,bowls,books,0
+816,bowls,bowls,1
+817,bowls,bowls,1
+818,3âÃÃ¬1,3âÃÃ¬1,1
+819,2âÃÃ¬0,1âÃÃ¬0,0
+820,Barnsley,Doncaster,0
+821,10-Sep-13,9-Sep-13,0
+822,War Memorial Hall,The White House,0
+823,38 Special,38 Special,1
+824,Li Na,Li Na,1
+825,Suliasi Vunivalu,Kurt Mann,0
+826,Harsha Vardhans mother,Harsha Vardhans mother,1
+827,Morelia,Atlas,0
+828,waist,knee,0
+829,8-Aug-17,7-Aug-17,0
+830,Undisclosed,Undisclosed,1
+831,Wonder Man,Wonder Man,1
+832,hand,hand,1
+833,Saints Row: The Third,Saints Row: The Third,1
+834,face,car,0
+835,A. J. Foyt,. J. Foyt,0
+836,sun,sun,1
+837,sun,sun,1
+838,flag,flag,1
+839,baseball,baseball,1
+840,baseball,baseball,1
+841,1955,1955,1
+842,2010,2010,1
+843,Confession,Confession,1
+844,Kimchi Family,Kimchi Family,1
+845,Kimchi Family,My Family,0
+846,Yukie,Ryo,0
+847,jTBC,SBS,0
+848,yes,no,0
+849,yes,no,0
+850,Dr. Sid Hammerback   Chief Medical Examiner,Mac Taylor,0
+851,"40,000","40,000",1
+852,Kuala Lumpur,Shah Alam,0
+853,white,white,1
+854,white,white,1
+855,fifteen,fifteen,1
+856,Gilbert Arenas,Gilbert Arenas,1
+857,Kobe Bryant,Kobe Bryant,1
+858,Heather Stanning,Heather Stanning,1
+859,four,four,1
+860,four,four,1
+861,71,62,0
+862,one,two,0
+863,orange,orange,1
+864,orange,orange,1
+865,orange,orange,1
+866,John Hospers,John Hospers,1
+867,2011,2011,1
+868,2005,2005,1
+869,1977,1977,1
+870,Mr. Gone,Heavy Weather,0
+871,02:14.6,02:14.9,0
+872,microphone,microphone,1
+873,microphone,microphone,1
+874,smile,smile,1
+875,red,red,1
+876,rectangle,square,0
+877,Claudia Shepard,Natalie Martinez,0
+878,phone,phone,1
+879,Boston Bruins,Boston Bruins,1
+880,Novak Djokovic,Rafael Nadal,0
+881,yes,yes,1
+882,20-Nov-13,20-Nov-13,1
+883,pier,pier,1
+884,six,six,1
+885,horse,horse,1
+886,Jaya,Jaya,1
+887,Malayali,Malayali,1
+888,Destination Moon,Destination Moon,1
+889,0 âÃÃ¬ 0(p),0-0,0
+890,"330,667","335,667",0
+891,Adam Scott,Adam Scott,1
+892,âÃ Ã­10,10,0
+893,Brisbane Broncos,Brisbane Broncos,1
+894,Ricardo Lââ¥pez,Juan Lââ¥pez,0
+895,Matthieu Sprick,Matthieu Sprick,1
+896,Dag Lââvaas,Dag Lââvaas,1
+897,two,two,1
+898,headband,headband,1
+899,blue,blue,1
+900,blue,blue,1
+901,1988,1988,1
+902,George,George,1
+903,Edinburgh,Edinburgh,1
+904,ice,ice,1
+905,2006,2007,0
+906,Younger Alby,Younger Alby,1
+907,sunglasses,sunglasses,1
+908,sunglasses,sunglasses,1
+909,Buddy Lazier,Buddy Lazier,1
+910,75-71-72-75=293,75-71-72-75=293,1
+911,George Sargent,George Sargent,1
+912,F/C,C,0
+913,Martin Truex Jr.,Moustache and beard:,0
+914,2009,2011,0
+915,Pasi Pihamaa,John Smith,0
+916,football,football,1
+917,Summer,Summer,1
+918,Croatia,Croatia,1
+919,black,black,1
+920,no,yes,0
+921,2004âÃÃ¬2005,2004âÃÃ¬2006,0
+922,Chelsea Brady,waitress,0
+923,clouds,clouds,1
+924,clouds,clouds,1
+925,blue,blue,1
+926,blue,blue,1
+927,beard,beard,1
+928,beard,beard,1
+929,beard,beard,1
+930,Richard Herring,Richard Herring,1
+931,Norway,Norway,1
+932,7,5,0
+933,one,one,1
+934,strawberry,strawberry,1
+935,yes,yes,1
+936,yes,yes,1
+937,cross,cross,1
+938,cross,cross,1
+939,no,no,1
+940,tongue,teeth,0
+941,visor,visor,1
+942,visor,hat,0
+943,three,three,1
+944,yes,yes,1
+945,yes,no,0
+946,TomâÂ°âÂ° Kostka,The drivers that is a female,0
+947,brown,brown,1
+948,Botafogo-PB (loan),Botofogo-PB (loan),0
+949,red,red,1
+950,one,one,1
+951,one,one,1
+952,yes,no,0
+953,yes,no,0
+954,helmet,helmet,1
+955,helmet,helmet,1
+956,Young Penny Mosby,Laurel,0
+957,71-70-67=208,71-70-67=208,1
+958,performing,performing,1
+959,The Jetsons & WWE: Robo-WrestleMania!,The Jetsons & WWE: Total Divas,0
+960,Mercedes,Mercedes,1
+961,yes,yes,1
+962,gray,gray,1
+963,yes,yes,1
+964,red,red,1
+965,1999,1999,1
+966,crampons,spikes,0
+967,green,green,1
+968,yes,yes,1
+969,no,no,1
+970,no,no,1
+971,torch,torch,1
+972,"""Sugar""",Night Changes,0
+973,two,two,1
+974,1996âÃÃ¬1997,2000âÃÃ¬2001,0
+975,yes,no,0
+976,yes,yes,1
+977,Nantlle Vale,Nantlle Vale,1
+978,Benvenuti al Nord,Benvenuti al Nord,1
+979,2012,2011,0
+980,Benvenuti al Nord,Benvenuti al Nord,1
+981,camera,camera,1
+982,camera,camera,1
+983,Gold,Gold,1
+984,2005âÃÃ¬2006,2005âÃÃ¬2006,1
+985,Manchester City,Manchester United,0
+986,Jordi Alba,Jordi Alba,1
+987,Boston College,Boston College,1
+988,microphone,microphone,1
+989,Batman,Batman,1
+990,pink,pink,1
+991,2007,2010,0
+992,sunglasses,sunglasses,1
+993,sunglasses,sunglasses,1
+994,four,four,1
+995,four,four,1
+996,tennis,tennis,1
+997,tennis,tennis,1
+998,tennis,tennis,1
+999,Paris Saint-Germain,Paris Saint-Germain,1
+1000,Molniya 8K78,Cosmos 3M,0
+1001,Tranmere Rovers,Tranmere Rovers,1
+1002,Kim Hirschovits,im Hirschovits,0
+1003,one,one,1
+1004,one,one,1
+1005,Bristol City,Birmingham City,0
+1006,Heart of Midlothian,Bolton Wanderers,0
+1007,Connor Randall,Connor Randall,1
+1008,Divock Origi,Daniel Sturridge,0
+1009,George Sargent,George Green,0
+1010,"11,896","11,183",0
+1011,"Las Vegas, Nevada","Las Vegas, Nevada",1
+1012,white,white,1
+1013,gold,gold,1
+1014,gold,gold,1
+1015,The Great Old Ones,The Great Old Ones,1
+1016,red,red,1
+1017,yes,yes,1
+1018,bridge,bridge,1
+1019,bridge,bridge,1
+1020,Chaudhary,Chaudhary,1
+1021,War,War,1
+1022,Perth,Perth,1
+1023,Samantha Widmer,Sarah Wilmer,0
+1024,2015,2015,1
+1025,Pepper,Pepper,1
+1026,23âÃÃ¬25 November 2012,23âÃÃ¬25 November 2012,1
+1027,headband,headband,1
+1028,photographer,photographer,1
+1029,five,four,0
+1030,photographer,photographer,1
+1031,dog,dog,1
+1032,dog,dog,1
+1033,United States,United States,1
+1034,Bernard Tomic,Rafael Nadal,0
+1035,North Carolina State University,Harvard University,0
+1036,two,two,1
+1037,one,two,0
+1038,Ford,Ford,1
+1039,3776,3446,0
+1040,Hank Parker Jr.,Bearded driver,0
+1041,2010,2012,0
+1042,four,four,1
+1043,Kevin Chappell,Kevin Chappell,1
+1044,"200,280","200,280",1
+1045,605,605,1
+1046,Shanshan Feng,Shanshan Feng,1
+1047,sunglasses,sunglasses,1
+1048,yes,yes,1
+1049,yes,yes,1
+1050,six,five,0
+1051,glove,glove,1
+1052,fifty,fifty,1
+1053,referee,referee,1
+1054,referee,referee,1
+1055,Franck RibâÂ©ry,Cristiano Ronaldo,0
+1056,Zlatan IbrahimoviÆÃ¡,Lionel Messi,0
+1057,red,red,1
+1058,blue,blue,1
+1059,Big,Big,1
+1060,Big,Big,1
+1061,no,yes,0
+1062,Delayed,Delayed,1
+1063,Real Sociedad,Atletico Madrid,0
+1064,microphone,microphone,1
+1065,Slash featuring Myles Kennedy and The Conspirators,Good Charlotte.,0
+1066,microphone,microphone,1
+1067,yes,yes,1
+1068,microphone,microphone,1
+1069,beard,beard,1
+1070,beard,beard,1
+1071,"1987, 1989, 2007, 2017","1987, 1989, 2007, 2017",1
+1072,2009,2009,1
+1073,Jamie Portman,Doug Portman,0
+1074,female,female,1
+1075,smiling,smiling,1
+1076,badge,badge,1
+1077,badge,badge,1
+1078,five,five,1
+1079,no,no,1
+1080,F and SF (R16 and GS later added),and SF (R16 and GS later added),0
+1081,no,no,1
+1082,"""Chandelier""","""Chandelier""",1
+1083,"Engels, Saratov Oblast","Kobylka, Minsk",0
+1084,Alexandra Vorobyova,Patricia Rizzo,0
+1085,tie,tie,1
+1086,nine,nine,1
+1087,nine,nine,1
+1088,Halil Æâbrahim Sâânmez,Haydar Ali,0
+1089,Douglas Hall,Douglas Hall,1
+1090,Luke Donald,Luke Donald,1
+1091,denim,denim,1
+1092,headband,headband,1
+1093,Serena Williams,Serena Williams,1
+1094,microphone,microphone,1
+1095,Manuel Fernandes,Ricardo Fernandes,0
+1096,blue,blue,1
+1097,blue,blue,1
+1098,Lionel Messi,Luis Suarez,0
+1099,Gareth Bale,Gareth Bale,1
+1100,Holidays,Holidays,1
+1101,Leon Bailey,Leon Bailey,1
+1102,Bayer Leverkusen,VfL Wolfsburg,0
+1103,How to Lose Friends & Alienate People,How to Lose Friends,0
+1104,crown,crown,1
+1105,Mark Martin,Mark Martin,1
+1106,Kevin Durant,Kevin Durant,1
+1107,Aberdeen,Aberdeen,1
+1108,Middlesbrough,Middlesbrough,1
+1109,'Bulldog',Dalmatian,0
+1110,'Boreas',Nereus,0
+1111,Moscow,Moscow,1
+1112,Todd Bodine,Todd Bodine,1
+1113,2:10:23,3:10:23,0
+1114,European Cup Winners' Cup,European Champions League,0
+1115,6âÃÃ¬2,6âÃÃ¬2,1
+1116,"""Skin"" ""Human""","""Skin"" ""Human""",1
+1117,no,yes,0
+1118,The American,The American,1
+1119,2011,2011,1
+1120,green,green,1
+1121,Nick Heidfeld,Fernando Alonso,0
+1122,Giancarlo Fisichella,Pamela Anderson,0
+1123,zipper,zipper,1
+1124,Gateshead,Newcastle,0
+1125,Barry Waddell,Paul Waddell,0
+1126,"Sebring, Florida","Miami, Florida",0
+1127,"New Orleans, Louisiana","New Orleans, Louisiana",1
+1128,"Sebring, Florida","Nancy, California",0
+1129,Sebring International Raceway,Flagstaff International Raceway,0
+1130,New Taipei,New Taipei,1
+1131,50 Gourdes,50 Gourdes,1
+1132,yes,no,0
+1133,yes,yes,1
+1134,2001,2004,0
+1135,Agent Banner,Rambo,0
+1136,The Karma Club,The Karma Club,1
+1137,Brentford,Brentford,1
+1138,Premiership Player,Championship Player,0
+1139,microphone,microphone,1
+1140,award,award,1
+1141,microphone,microphone,1
+1142,two,two,1
+1143,Tulsa Athletics,Tulsa Athletics,1
+1144,triangles,triangles,1
+1145,triangles,triangles,1
+1146,Akeil Barrett,Akeil Barrett,1
+1147,Tulsa,Tulsa,1
+1148,Forward,Forward,1
+1149,2010,2010,1
+1150,three,three,1
+1151,white,white,1
+1152,white,white,1
+1153,Dale Earnhardt,Dale Earnhardt,1
+1154,Dale Earnhardt,Dale Earnhardt,1
+1155,Dale Earnhardt,Bill Elliott,0
+1156,yes,yes,1
+1157,yes,yes,1
+1158,International Trial,Italian Trial,0
+1159,Rama,Rama,1
+1160,four,four,1
+1161,1âÃÃ¬2,1âÃÃ¬2,1
+1162,64-61-67=192,65-61-67=193,0
+1163,âÃ Ã­18,18,0
+1164,BYU,BYU,1
+1165,yes,yes,1
+1166,Texas Rangers,Texas Rangers,1
+1167,New York Yankees,New York Yankees,1
+1168,"6,000","2,000",0
+1169,"Charleston, South Carolina",Asheville,0
+1170,dog,cat,0
+1171,black,black,1
+1172,black,black,1
+1173,circle,circle,1
+1174,football,football,1
+1175,circle,circle,1
+1176,globe,globe,1
+1177,globe,globe,1
+1178,two,one,0
+1179,"Dr. Lucille ""Lucy"" Banerjee",Dr. Gargi Banerjee,0
+1180,The Blue Lamp,The Blue Lamp,1
+1181,1948,1948,1
+1182,Cronulla-Sutherland Sharks,Sydney Roosters,0
+1183,clouds,clouds,1
+1184,clouds,clouds,1
+1185,night,night,1
+1186,Molde,Voss,0
+1187,"8,203","8,203",1
+1188,Mohamed Salah,Sadio Mane,0
+1189,two,three,0
+1190,Feyenoord,Pawtucket Red Sox,0
+1191,Kurt Busch,Kurt Busch,1
+1192,two,two,1
+1193,Bradley Wright-Phillips,lint Dempsey,0
+1194,Josef Martââ nez,Josef Martââ nez,1
+1195,tennis,tennis,1
+1196,umbrella,umbrella,1
+1197,umbrella,umbrella,1
+1198,12-Mar-08,12-Mar-08,1
+1199,Nokia Theatre Times Square,Nokia Music Hall,0
+1200,Bobby Burns,Bobby Burns,1
+1201,skirt,skirt,1
+1202,"2,039 (âÃ Ã­20)","2,039 (âÃ Ã­20)",1
+1203,Kurt Busch,Kurt Busch,1
+1204,Nick Ward,Nick Ward,1
+1205,Wish You the Best,Wish You the Best,1
+1206,Gravel,Asphalt,0
+1207,Cardiff,Cardiff,1
+1208,halo,halo,1
+1209,halo,halo,1
+1210,halo,horns,0
+1211,Boston Bruins,Boston Bruins,1
+1212,brick,brick,1
+1213,one,one,1
+1214,one,two,0
+1215,353,352,0
+1216,eight,twelve,0
+1217,"""(Just Like) Starting Over""","""Woman""",0
+1218,yes,yes,1
+1219,yes,yes,1
+1220,two,two,1
+1221,two,three,0
+1222,soccer,soccer,1
+1223,necklace,necklace,1
+1224,brown,brown,1
+1225,Without a Trace,Law & Order,0
+1226,2018,1918,0
+1227,Mark Cosgrove,Steven Smith,0
+1228,Andrew McDonald,Andrew McDonald,1
+1229,from St. Louis Blues,from Detroit Red Wings,0
+1230,triangular,Square,0
+1231,18-May-11,18-May-11,1
+1232,"$168,945 ","$168,945 ",1
+1233,chairs,chairs,1
+1234,1987,1987,1
+1235,boat,boat,1
+1236,2018,2020,0
+1237,black,black,1
+1238,black,black,1
+1239,Singh & Kaur,Singh & Kaur,1
+1240,2019,2019,1
+1241,Punjab 1984,Punjab 1984,1
+1242,Jenny Langlo,John Stevens,0
+1243,Jack Frost,Jack Frost,1
+1244,2017âÃÃ¬18,2017âÃÃ¬18,1
+1245,Nintendo 3DS,Xbox 360,0
+1246,John Waals,Female lead,0
+1247,two,two,1
+1248,two,three,0
+1249,Second Division,Second Division,1
+1250,Carlisle United,Carlisle United,1
+1251,1933âÃÃ¬34,1933âÃÃ¬34,1
+1252,Galway,Mayo,0
+1253,FC Basel,FC Barcelona,0
+1254,Barcelona,Barcelona,1
+1255,Leicester City,Leicester City,1
+1256,3âÃÃ¬1,4âÃÃ¬1,0
+1257,yes,yes,1
+1258,yes,no,0
+1259,Celtic,Celtic,1
+1260,0âÃÃ¬3,1âÃÃ¬3,0
+1261,1âÃÃ¬0,1âÃÃ¬0,1
+1262,veil,veil,1
+1263,black,black,1
+1264,globe,globe,1
+1265,globe,globe,1
+1266,Rochdale,Rochdale,1
+1267,'While You Were Sleeping','While You Were Sleeping',1
+1268,four,four,1
+1269,Tiberiu BÄlan,player who played for team with blue jersey,0
+1270,no,no,1
+1271,no,no,1
+1272,red,red,1
+1273,BAR-Supertec,BAR-Supertec,1
+1274,Stoney Woodson,Peyton Manning,0
+1275,one,one,1
+1276,Tom Petty,Tom Petty,1
+1277,'Mother Mother',The Weight,0
+1278,Lightning Crashes,Lightning Crashes,1
+1279,no,no,1
+1280,2004,2004,1
+1281,Hideki Shirakawa,Hideki Shirakawa,1
+1282,footprints,footprints,1
+1283,Home and Away,Home and Away,1
+1284,Home and Away,True Blood,0
+1285,"78,132","66,213",0
+1286,Fallout 4: Nuka-World,Call of Duty: Nuka-World,0
+1287,Battlefield Hardline,Borderlands,0
+1288,Alpha Protocol,Alpha Protocol,1
+1289,hourglass,hourglass,1
+1290,black,black,1
+1291,Total Quality Logistics,Total Quality Logistics,1
+1292,blonde,blonde,1
+1293,blonde,blonde,1
+1294,blonde,blonde,1
+1295,"1991, 1993, 1995, 1999, 2001","1990, 1992, 1994, 1996, 1998",0
+1296,Determination,Arrival,0
+1297,happiness,happiness,1
+1298,blue,blue,1
+1299,yes,yes,1
+1300,24-May-98,24-May-98,1
+1301,0-20 : 1-09,0-20: 1-09,0
+1302,Munster Quarter-Final,Ibrox Stadium,0
+1303,five,five,1
+1304,three,three,1
+1305,clouds,clouds,1
+1306,"AzemâÂ©is, Portugal","Azeres, Portugal",0
+1307,"Langenthal, Switzerland","Langenthal, Switzerland",1
+1308,Carl Pettersson,Tiger Woods,0
+1309,horse,horse,1
+1310,horse,horse,1
+1311,horse,horse,1
+1312,eight,eight,1
+1313,New Brunswick,New Brunswick,1
+1314,Upper House,Upper House,1
+1315,1785,1885,0
+1316,Poplar Square Chase,Oak Tree Hunt,0
+1317,Poplar Square Chase,Red Rum Chase,0
+1318,Johnny Cash,John Lennon,0
+1319,clouds,clouds,1
+1320,CSI: NY,CSI: NY,1
+1321,hourglass,hourglass,1
+1322,hourglass,hourglass,1
+1323,Best Actress,Best Actor,0
+1324,Jeon Do-yeon,Han Ji-min,0
+1325,Louisville City FC,Louisville City FC,1
+1326,Kyle Bekker,Kyle Bekker,1
+1327,visor,visor,1
+1328,sand,sand,1
+1329,Siesta,Siesta,1
+1330,red,red,1
+1331,red,red,1
+1332,earth,earth,1
+1333,Spa Attendant,Boat,0
+1334,"Amar, Akbar & Tony","Amar, Akbar & Tony",1
+1335,2009,2009,1
+1336,three,three,1
+1337,Roy PrâÂ§ger,Player of African descent,0
+1338,white,white,1
+1339,Vada Chennai,Vada Chennai,1
+1340,"6,224 3,806",806,0
+1341,Evandro,Celsinho,0
+1342,earring,earring,1
+1343,Steffen Iversen,Matthew Etherington,0
+1344,baseball,baseball,1
+1345,baseball,baseball,1
+1346,gold,gold,1
+1347,Malaysia,Malaysia,1
+1348,"Sindelfingen, Glaspalast",Sindelfingen,0
+1349,European Darts Open,European Darts Open,1
+1350,three,five,0
+1351,three,three,1
+1352,Austin Dillon,Austin Dillon,1
+1353,Real Madrid,Barcelona,0
+1354,(Jelgava) https://web.archive.org/web/20160210235807/http://www.futsalplanet.com/home/index.asp,(Riga) https://web.archive.org/web/20160210235807/http://www.futsalplanet.com/home/index.asp,0
+1355,JCB Hall,Tokyo Dome,0
+1356,"10,000","10,000",1
+1357,sea,sea,1
+1358,blonde,blonde,1
+1359,Bye,Skull,0
+1360,5âÃÃ¬2,5âÃÃ¬2,1
+1361,four,3,0
+1362,2010,2011,0
+1363,Spun Off,Spun Off,1
+1364,Ret,Ret,1
+1365,Megan Duffy (G),Megan Duffy (G),1
+1366,Chicago Sky,Chicago Sky,1
+1367,seven,Nine,0
+1368,yes,yes,1
+1369,Arachnophobia,The Rock,0
+1370,Free,Free,1
+1371,Jack Riewoldt,Jack Riewoldt,1
+1372,Yorkshire,Yorkshire,1
+1373,132,132,1
+1374,mountains,mountains,1
+1375,football,football,1
+1376,football,football,1
+1377,purple,pink,0
+1378,2,2,1
+1379,eight,8,0
+1380,helicopters,helicopters,1
+1381,Tigers,Tigers,1
+1382,eyes,mouth,0
+1383,nine,nine,1
+1384,nine,six,0
+1385,none,none,1
+1386,none,none,1
+1387,Tournament of Champions 2010,Tournament of Champions 2010,1
+1388,22âÃÃ¬28 January 2010,14âÃÃ¬20 February 2010,0
+1389,ferris,ferris,1
+1390,2012,2012,1
+1391,Road Atlanta,Road Atlanta,1
+1392,daytime,daytime,1
+1393,daytime,daytime,1
+1394,guitar,guitar,1
+1395,ferris,water,0
+1396,bridge,bridge,1
+1397,Catallena,Catallena,1
+1398,Monni,Monni,1
+1399,black,black,1
+1400,black,black,1
+1401,nike,nike,1
+1402,nike,nike,1
+1403,tennis,tennis,1
+1404,Bjâârn Wirdheim,Tyra Banks,0
+1405,A. J. Allmendinger,A. Paul Tracy,0
+1406,Albert,Albert,1
+1407,2006,2009,0
+1408,dancing,dancing,1
+1409,Stig Blomqvist,Jan Magnussen,0
+1410,The King: Eternal Monarch,Targeted Action,0
+1411,2016,2016,1
+1412,Save Me,Save Me,1
+1413,four,Six,0
+1414,OCN,OCN,1
+1415,Seung-woo,Kang-woo,0
+1416,four,four,1
+1417,blue,white,0
+1418,blue,white,0
+1419,Mats Sundin,Player with blonde hair,0
+1420,black,black,1
+1421,Bell 206,Bell 206,1
+1422,to Wichita Thunder (ECHL),the Pittsburgh Penguins.,0
+1423,trophy,trophy,1
+1424,Malik Bendjelloul,Antonio Banderas,0
+1425,William Finlayson,David Cameron,0
+1426,Beechcraft King Air,Beechcraft King Air,1
+1427,Eurocopter EC225,Eurocopter EC130,0
+1428,Malcolm in the Middle,Seinfeld,0
+1429,The Thriller,The Thriller,1
+1430,"""Casanova""","A Century of Love""",0
+1431,plus,plus,1
+1432,plus,sign,0
+1433,Kingdom Hearts HD 1.5 Remix,Kingdom Hearts HD 1.5 Remix,1
+1434,Vincenzo Montella,Vincenzo Montella,1
+1435,Claude Sautet,Bald director,0
+1436,2000,2000,1
+1437,Cecil B. Demented,Cecil B. Demented,1
+1438,Prologue Narrator #1,Prologue Narrator #2,0
+1439,1965,1965,1
+1440,watch,watch,1
+1441,one,one,1
+1442,watch,watch,1
+1443,visor,visor,1
+1444,Steve Mandanda,Steve Mandanda,1
+1445,blue,blue,1
+1446,Wigan Athletic,Wigan Athletic,1
+1447,361 (âÃÃ¬207),343 (-207),0
+1448,tie,tie,1
+1449,Standard LiâÂ®ge,Sporting Kansas City,0
+1450,+1:18.343,01:18.3,0
+1451,Ferrari,Ferrari,1
+1452,Katinka HosszÃº,The contestant with the red hair,0
+1453,357,111,0
+1454,Ladybug Ladybug,Ladybug Ladybug,1
+1455,1963,1963,1
+1456,ball,hammer,0
+1457,six,Five,0
+1458,ball,ball,1
+1459,long,long,1
+1460,ten,ten,1
+1461,2011,2012,0
+1462,A Rose Reborn,A Rose Reborn,1
+1463,2âÃÃ¬0,3âÃÃ¬0,0
+1464,Scandal,Scandal,1
+1465,2007,2007,1
+1466,Kyle Jameson,Kyle Jameson,1
+1467,Passing touchdowns,Passing touchdowns,1
+1468,no,yes,0
+1469,no,no,1
+1470,34 - 10,34 - 10,1
+1471,St. George Illawarra Dragons,Melbourne Storm,0
+1472,Cronulla-Sutherland Sharks,Cronulla-Sutherland Sharks,1
+1473,"Bob, the New Teller","Jerome, the Old Teller",0
+1474,At Gunpoint,Hold Up,0
+1475,Ariadna SÃ¡nchez,Anita SÃ¡nchez,0
+1476,yes,no,0
+1477,yes,no,0
+1478,black,black,1
+1479,Alex Tagliani,Alex Tagliani,1
+1480,Michael Andretti,Michael Andretti,1
+1481,Phil Whitticase,Peter Whitticase,0
+1482,2012,2012,1
+1483,0.684,685,0
+1484,two,two,1
+1485,two,two,1
+1486,two,two,1
+1487,two,two,1
+1488,four,three,0
+1489,four,four,1
+1490,Lambeau Field,Lambeau Field,1
+1491,four,four,1
+1492,23.9,9,0
+1493,Canada,Canada,1
+1494,24.1,2,0
+1495,fans,fans,1
+1496,Elisabeth Gâârgl,Marion Rolland,0
+1497,108,108,1
+1498,Sebastien Ogier,Bearded driver,0
+1499,2015,2012,0
+1500,Executive producer,Executive producer,1
+1501,Timrââ¢ IK,Falkenbergs FF,0
+1502,two,two,1
+1503,two,two,1
+1504,Boston Celtics,Boston Celtics,1
+1505,2015,2013,0
+1506,0.34,35,0
+1507,LâÂ°szlââ¥ Bââlââni,Ion Dumitru,0
+1508,"Union Hill, New Jersey, U.S.","Union, New York, US",0
+1509,RNJ,RNJ,1
+1510,Santan,Cinderella,0
+1511,Meena,Nirvana,0
+1512,2015âÃÃ¬present,2015âÃÃ¬present,1
+1513,2013,2012,0
+1514,Cheap Thrills,Cheap Thrills,1
+1515,gold,gold,1
+1516,four,four,1
+1517,four,Three,0
+1518,four,four,1
+1519,Judgemental Hai Kya,Judgemental Hai Kya,1
+1520,2019,2020,0
+1521,"Rajkummar Rao, Kangana Ranaut","Rajkummar Rao, Preity Zinta",0
+1522,black,black,1
+1523,two,two,1
+1524,Beverly Hills Cop II,Beverly Hills Cop II,1
+1525,2010,2010,1
+1526,Austrian Tour,Spanish Tour,0
+1527,69 Mercury,65 Ford,0
+1528,Leon Constantine,Leo Constantine,0
+1529,Macclesfield Town,Macclesfield Town,1
+1530,bun,braid,0
+1531,"2,500","3,000",0
+1532,Tiger Woods,Tiger Woods,1
+1533,Sean O'Hair,Sean O'Hair,1
+1534,one,one,1
+1535,one,one,1
+1536,black,black,1
+1537,seven,six,0
+1538,208,207,0
+1539,blue,blue,1
+1540,blue,blue,1
+1541,sunglasses,sunglasses,1
+1542,sunglasses,sunglasses,1
+1543,cowboy,cowboy,1
+1544,58.11,85,0
+1545,PlayStation,PlayStation,1
+1546,The Getaway,The Game,0
+1547,1997,1997,1
+1548,four,four,1
+1549,four,four,1
+1550,soldier,soldier,1
+1551,2003,2002,0
+1552,Additional voices (voice),Additional voices (voice),1
+1553,Trainee,Trainee,1
+1554,Kilmarnock,Rangers,0
+1555,Celtic,Celtic,1
+1556,Wisconsin,Wisconsin,1
+1557,Kevin Beattie,John Beattie,0
+1558,Fort Apache the Bronx,Fort Apache the Bronx,1
+1559,"430,000","328,000",0
+1560,Portsmouth,West Ham,0
+1561,Squash,Tennis,0
+1562,"10,979","10,417",0
+1563,1919,1918,0
+1564,Dream Street,Dream Street,1
+1565,"Port Jervis, New York","Nyack, New York",0
+1566,Inbee Park,Inbee Park,1
+1567,Grease: The Musical,Grease: The Musical,1
+1568,Les Ferdinand,Les Ferdinand,1
+1569,Hulunbuir Hailar Airport,Hulunbuir Hailar Airport,1
+1570,2014,2012,0
+1571,Kidnapped for Christ,City of God,0
+1572,Ole Olsen,Ronnie Moore,0
+1573,10.96,86,0
+1574,670,180,0
+1575,four,four,1
+1576,s.t.,1 hr 45 min,0
+1577,Philadelphia Eagles,Philadelphia Eagles,1
+1578,0.0959,1918,0
+1579,Waterford,Waterford,1
+1580,Wicklow,Wicklow,1
+1581,Alessandro Attene,Alessandro Attene,1
+1582,23-Sep-00,23-Sep-00,1
+1583,Adelphi University,delphi University,0
+1584,womens bowling,womens bowling,1
+1585,Panthers,Dolphins,0
+1586,Adelphi University,Adelphi University,1
+1587,Panthers,Panthers,1
+1588,Need for Speed: Hot Pursuit 2,Need for Speed: Porsche Unleashed,0
+1589,Sergeant 9 (Voice),Sergeant 9 (Voice),1
+1590,green,green,1
+1591,2009âÃÃ¬2013,2009âÃÃ¬2013,1
+1592,Dejan Musli,Dejan Musli,1
+1593,Thomas De Gendt,Thomas De Gendt,1
+1594,Marcel Kittel,Mark Cavendish,0
+1595,ITV,PBS,0
+1596,Becca Hamilton,Becca Hamilton,1
+1597,2011,2011,1
+1598,Leicestershire,Middlesex,0
+1599,Hendrick Motorsports,Hendrick Motorsports,1
+1600,Jamie McMurray,Jamie McMurray,1
+1601,Ofir Marciano,Edouard,0
+1602,Croatia,Croatia,1
+1603,Croatia,Croatia,1
+1604,72-67=139,72-67=139,1
+1605,5 L,2 L,0
+1606,clouds,clouds,1
+1607,clouds,clouds,1
+1608,umbrella,umbrella,1
+1609,Barcelona,Barcelona,1
+1610,Yogi Bear,Yogi Bear,1
+1611,Round 19,Round 18,0
+1612,Storm debut,Storm debut,1
+1613,"It's Okay, That's Love",7th Grade Civil Servant,0
+1614,RaÃ¯s M'Bolhi,The bearded athlete.,0
+1615,Martin Sommer,Martin Sommer,1
+1616,FC Roskilde,FC Roskilde,1
+1617,1986   Details,1987   Details,0
+1618,"Barcelona, Spain","Barcelona, Spain",1
+1619,Mika Salo,Mika Salo,1
+1620,Johnny Herbert,Johnny Herbert,1
+1621,Southern Cross Group Stadium,Suncorp Stadium,0
+1622,Bubba Watson,Bubba Watson,1
+1623,Bubba Watson,Bubba Watson,1
+1624,173,246,0
+1625,Thunderbirds,Thunderbirds,1
+1626,275 (-13),275 (-12),0
+1627,4-Jul-14,4-Jun-14,0
+1628,George Boyd,George Boyd,1
+1629,Appropriations,Appropriations,1
+1630,Valentino Rossi,Casey Stoner,0
+1631,Leeds United,Leeds United,1
+1632,Ngozi Okobi,Ngozi Okobi,1
+1633,71-71-66=208,66-71-71=208,0
+1634,Grââ¢mio,Grââ¢mio,1
+1635,shorts,shorts,1
+1636,shorts,shorts,1
+1637,March,September,0
+1638,I Confess,Journey into Light,0
+1639,Dave Chappelle,Kevin Hart,0
+1640,"""Para Siempre""","""Despacito""",0
+1641,Northern Alberta Jubilee Auditorium,Calgary Tower,0
+1642,28-Nov-09,28-Nov-09,1
+1643,Louisiana Tech,Louisiana Tech,1
+1644,2014,2014,1
+1645,2017   Details,2017   Details,1
+1646,1990,1990,1
+1647,bridge,bridge,1
+1648,bridge,bridge,1
+1649,Seattle,Philadelphia,0
+1650,Intiman Playhouse,The Old Vic,0
+1651,David Coulthard,Michael Schumacher,0
+1652,L 13âÃÃ¬3,D 13-3,0
+1653,L 49âÃÃ¬14,W 14-49,0
+1654,Megan Leavey,The Three Musketeers,0
+1655,P. J. Brown,The white player,0
+1656,Kelvin Mateus de Oliveira,Kelvin Mateus de Oliveira,1
+1657,1âÃÃ¬0,1âÃÃ¬0,1
+1658,6-Mar-71,5-Mar-71,0
+1659,73-67-69=209,73-67-69=209,1
+1660,2000,2000,1
+1661,Main Prem Ki Diwani Hoon,The man and woman on the poster,0
+1662,Markus Gisdol,Pep Guardiola,0
+1663,Danny Mwanga,Mikel Obi,0
+1664,Eugenie Bouchard,Simona Halep,0
+1665,Sabine Lisicki,Sabine Lisicki,1
+1666,1âÃÃ¬3âÃÃ¬0,2âÃÃ¬2âÃÃ¬1,0
+1667,Mike Weir,Mike Weir,1
+1668,The Onion Movie,Yes,0
+1669,2008,2009,0
+1670,Sakurajima,Sakurajima,1
+1671,Luke Power,Luke Power,1
+1672,Kung Fu Panda 2,Kung Fu Panda 3,0
+1673,FâÂ§rjestads BK,FâÂ§rjestads BK,1
+1674,Stage World Cup,Stage World Cup,1
+1675,Fine Line,Fine Line,1
+1676,Nick Watney,Nick Watney,1
+1677,71-66-70-66=273,71-66-70-66=274,0
+1678,"315,000","315,000",1
+1679,Olympiaschanze K96,Olympiaschanze K48,0
+1680,St. Moritz,Rankenstein,0
+1681,1981/82,1981/82,1
+1682,Kim Seong-il,Kim Seong-il,1
+1683,Brandon Jennings,Derrick Rose,0
+1684,New York Jets,New York Jets,1
+1685,Exterminator 2,Exterminator 2,1
+1686,Min-suk,Min-suk,1
+1687,Ed Sheeran,Ed Sheeran,1
+1688,"$1,288,350 ","$1,288,350 ",1
+1689,Tari Phillips,Tari Phillips,1
+1690,1-Sep-19,1-Sep-19,1
+1691,"1982, 1991, 1999","1980, 1990, 1998.",0
+1692,Manchester United,Manchester United,1
+1693,Josefa Camejo International Airport,Punta Cana International Airport,0
+1694,459 (âÃ Ã­121),459 (âÃ Ã­121),1
+1695,Paul Menard,Kurt Busch,0
+1696,Vasco da Gama,America,0
+1697,buckles,buttons,0
+1698,buckles,buckles,1
+1699,Yannick Bolasie,Pape Sissoko,0
+1700,Ernie Irvan,Ernie Irvan,1
+1701,North Queensland Cowboys,Canberra Raiders,0
+1702,14-Oct,15-Oct,0
+1703,Staub & Fantasie,Staub & Fantasie,1
+1704,Usher,Usher,1
+1705,at Tampa Bay Buccaneers,at Green Bay Packers,0
+1706,VaraâÃ¦din,Skopje,0
+1707,"176,046","176,046",1
+1708,Istria,Istria,1
+1709,Sebastian Bach,Sebastian Bach,1
+1710,"702,299","65,099",0
+1711,"""Ima, Hanashitai Dareka ga Iru""","""The song whose cover shows a young woman on her bicycle""",0
+1712,Augusto Farfus,Yvan Muller,0
+1713,16.131,767,0
+1714,0-8,0-0,0
+1715,21-Apr,31-Aug,0
+1716,Bernd Leno,Neuer,0
+1717,15-Sep-15,15-Sep-15,1
+1718,Cardiff City,Cardiff City,1
+1719,Barnsley,Barnsley,1
+1720,23-Jul-19,15-Jun-19,0
+1721,2000âÃÃ¬2002,2000âÃÃ¬2002,1
+1722,157.96,21,0
+1723,Sergei Voronov,Sergei Voronov,1
+1724,Unknown,Unknown,1
+1725,Sreejith Paleri,John Smith,0
+1726,2014,2013,0
+1727,glove,glove,1
+1728,glove,glove,1
+1729,"Â¬Â£2,000,000","Â¬Â£2,000,000",1
+1730,Dani Sordo,Dani Sordo,1
+1731,Chevrolet,Chevrolet,1
+1732,Jeff Gordon,Jeff Gordon,1
+1733,NHL,NHL,1
+1734,Pittsburgh Penguins,Pittsburgh Penguins,1
+1735,2-Aug-10,2-Aug-10,1
+1736,Jolyon Palmer,Jolyon Palmer,1
+1737,Sebastian Vettel,Sebastian Vettel,1
+1738,First Lieutenant Johnny Barnes,Second Lieutenant Johnny Barnes,0
+1739,Mansfield Park,Mansfield Park,1
+1740,Hindi,Hindi,1
+1741,Anna,Anna,1
+1742,Pant Newydd,Pant Newydd,1
+1743,Alloa Athletic,Alloa Athletic,1
+1744,Miroslav Stoch,Khalid Eisa,0
+1745,Derbyshire,Derbyshire,1
+1746,Real Madrid,Real Madrid,1
+1747,Henri Pescarolo,Jo Schlesser,0
+1748,Leicester City,Leicester City,1
+1749,Bath & Body Works LLC,Bath & Body Works LLC,1
+1750,chains,earrings,0
+1751,Guy Smith,Guy Smith,1
+1752,1 âÃÃ¬ 1,2-Jan,0
+1753,St Mirren,Rangers,0
+1754,153,77,0
+1755,Zlatan IbrahimoviÆÃ¡,The player with a shaved head,0
+1756,Claudio Pizarro,Claudio Pizarro,1
+1757,Story by,Story by,1
+1758,Shark Tale,Shark Tale,1
+1759,Melbourne Victory,Melbourne Victory,1
+1760,Fred Daly  1st -->,The African-American winner,0
+1761,SâÂ£o Paulo,Rio de Janeiro,0
+1762,Campeonato Brasileiro SâÂ©rie A,Campeonato Brasileiro SâÂ©rie C,0
+1763,Sydney,Sydney,1
+1764,Molly Creamer (G),Molly Creamer (G),1
+1765,New York Liberty,New York Liberty,1
+1766,Andy Roddick,Andy Roddick,1
+1767,Canada,Canada,1
+1768,10,10,1
+1769,156,156,1
+1770,Shadow Madness,Shadow Madness,1
+1771,1998,1997,0
+1772,Newcastle Knights,Newcastle Knights,1
+1773,Jun-32,Jun-32,1
+1774,Christian Wade,Christian Wade,1
+1775,Benfica,Benfica,1
+1776,Hulk,Hulk,1
+1777,01:00.6,00:00.0,0
+1778,"2,019 (âÃÃ¬63)","2,019 (âÃÃ¬64)",0
+1779,1970,1970,1
+1780,Phoenix,Phoenix,1
+1781,6-Apr-03,1-Jan-03,0
+1782,"Auckland, New Zealand","Sydney, Australia",0
+1783,Auckland Vulcans,Canterbury Jets,0
+1784,"US: 12,101+","US: 12,101+",1
+1785,ferris,ferris,1
+1786,ferris,ferris,1
+1787,ferris,ferris,1
+1788,W 27âÃÃ¬26,W 18-7,0
+1789,Zhu Yuling,Zhu Yuling,1
+1790,Guo Yue  Zhang Yining,Guo Yue  Zhang Yining,1
+1791,1994,1994,1
+1792,"1984, 1988, 1989, 2010","1984, 1988, 1989, 2010",1
+1793,Manly-Warringah Sea Eagles,Canberra Raiders,0
+1794,-169,177,0
+1795,Fidel Martââ nez,Oribe Peralta,0
+1796,Tijuana,Tijuana,1
+1797,26-May-19,26-May-19,1
+1798,Waylon Francis,Waylon Francis,1
+1799,Abbaigaru,Chinna Chinna Asa,0
+1800,Beta,Beta,1
+1801,Justin Fuente,Kevin Sumlin,0
+1802,Justin Fuente,Mike Norvell,0
+1803,Craig Bellamy,Craig Bellamy,1
+1804,MB-339C,F-22 Raptor,0
+1805,2008,2008,1
+1806,1:36:33,1:36:34,0
+1807,Austin Dillon,Austin Dillon,1
+1808,2010,2010,1
+1809,Markus Eisenbichler,Marcel Hirscher,0
+1810,128.5,5,0
+1811,255.1,2,0
+1812,1995,1995,1
+1813,Eniola Aluko,Bethany England,0
+1814,7 + 6 = 13,6 + 7 = 13,0
+1815,Japan,Finland,0
+1816,Germany,Germany,1
+1817,Osaka,Tokyo,0
+1818,Zagreb,Paris,0
+1819,Yanmar Stadium Nagai,Dentsu Dome,0
+1820,Heart of Midlothian,Celtic,0
+1821,Juha Kankkunen,Juha Kankkunen,1
+1822,14.9,15,0
+1823,A Patch of Blue,A Patch of Blue,1
+1824,Maui's dolphin,Maui's dolphin,1
+1825,Spain,Spain,1
+1826,Rafael Nadal,Rafael Nadal,1
+1827,MSV Duisburg,1,0
+1828,Petter Solberg,Petter Solberg,1
+1829,Real Shandi Palmer,Real Shandi Palmer,1
+1830,Soup for One,Soup for One,1
+1831,Best screenplay,Best Actor,0
+1832,Monk,Monk,1
+1833,Texas Tech,Texas Tech,1
+1834,Dil,Dil,1
+1835,4âÃÃ¬52,4âÃÃ¬52,1
+1836,Ted Musgrave,Utah Teapot,0
+1837,Nice,Nice,1
+1838,Traffic Jam,Traffic Jam,1
+1839,Tiger Woods,Tiger Woods,1
+1840,"1,350,000",000,0
+1841,"Attendance 140,000+(Record)","Attendance 14,000+(Record)",0
+1842,Sultan,Monarch,0
+1843,Jamie Hunter,Michael Scott,0
+1844,Cardiff City,Cardiff City,1
+1845,RocketMan,RocketMan,1
+1846,Arminia Bielefeld,Arminia Bielefeld,1
+1847,Mark Webber,Mark Webber,1
+1848,3âÃÃ¬0,3âÃÃ¬0,1
+1849,Leaving Normal,Leaving Normal,1
+1850,New York Liberty,New York Liberty,1
+1851,Tony Stewart,Jimmie Johnson,0
+1852,Brian Vickers,Brian Vickers,1
+1853,Martin Johnsrud Sundby,Sven Hannawald,0
+1854,Where Does It Hurt?,Wuthering Heights,0
+1855,Arturo Vidal,Arturo Vidal,1
+1856,"1998, 1999",error,0
+1857,Ret,Ret,1
+1858,sig Sco,sig Sco,1
+1859,Indiana University Bloomington,Ohio State University,0
+1860,AmâÂ©rica,Europe,0
+1861,8.22%,93%,0
+1862,Giacinto Facchetti,White hair,0
+1863,Ossi VâÂ§âÂ§nâÂ§nen,Ville Nieminen,0
+1864,Frenkie de Jong,Nguyen Van Toan,0
+1865,Zlatan IbrahimoviÆÃ¡,Zlatan IbrahimoviÆÃ¡,1
+1866,Monaco,Monaco,1
+1867,Monaco,Monaco,1
+1868,Monaco,Monaco,1
+1869,Zlatan IbrahimoviÆÃ¡,Edinson Cavani,0
+1870,North Carolina,North Carolina,1
+1871,Norwich City,Norwich City,1
+1872,Anton Kochenkov,Mikhail Yusupov,0
+1873,VTB,Rockwell,0
+1874,Derby County,Derby County,1
+1875,"""On verra""","""On verra""",1
+1876,Lily Allen,Lady Gaga,0
+1877,Rokstarr,Blue,0
+1878,Gyula RÃ¡kosi,Ã¡nos Dunai,0
+1879,Waiting for Forever,Waiting for Forever,1
+1880,Crewe,Crewe,1
+1881,Kapustin Yar,Kourou,0
+1882,2016,2016,1
+1883,Drew Barrymore,Drew Barrymore,1
+1884,10-May-13,10-May-13,1
+1885,Harrachov,Harrachov,1
+1886,10-Mar-17,11-Mar-17,0
+1887,Aaron Jones,Aaron Jones,1
+1888,Philadelphia 76ers,Philadelphia 76ers,1
+1889,53.32 m,32 m,0
+1890,"""Vlad the Impaler""","""Pigtails""",0
+1891,Plymouth Argyle,Pointless,0
+1892,Lukas Podolski,Lukas Podolski,1
+1893,Borussia Dortmund,Borussia Dortmund,1
+1894,1979,1979,1
+1895,2010   Details,2009   Details,0
+1896,2008,2008,1
+1897,Bartender,Bartender,1
+1898,Vladimir Putin,Vladimir Putin,1
+1899,Olympiacos,Olympiacos,1
+1900,2012,2012,1
+1901,T15,T1,0
+1902,Clemson,Clemson,1
+1903,11 Alive,11 Alive,1
+1904,Mazda MX-5 Miata,exus LS,0
+1905,48.901,902,0
+1906,Fernando Alonso,Fernando Alonso,1
+1907,Nick Heidfeld,Nick Heidfeld,1
+1908,Marc Sneyd,Paul McShane,0
+1909,Karim Benzema,Cristiano Ronaldo,0
+1910,Francis Obikwelu,Charlie Francis,0
+1911,+ 1:22.108,+ 1:22.108,1
+1912,11,11,1
+1913,Louis Tellier,Louis Tellier,1
+1914,Raheem Sterling,Leroy Sane,0
+1915,Dele Alli,Dele Alli,1
+1916,Parish of Our Sacred Heart of Jesus,Parish of the Holy Family,0
+1917,"Garden City, New York","Garden City, New York",1
+1918,United Kingdom,United Kingdom,1
+1919,Gonzalo Higuaââ n,Jorge Molina,0
+1920,Sergio AgâÂºero,Simao Sabrosa,0
+1921,"Port St. Lucie, Florida","Port Charlotte, Florida",0
+1922,Ford,Ford,1
+1923,Bill Elliott,Bill Elliott,1
+1924,9-Jul-09,7-Jun-09,0
+1925,Bayer Leverkusen,Bayer Leverkusen,1
+1926,Olympiastadion,Red Bull Arena,0
+1927,Frankfurt,Frankfurt,1
+1928,Eintracht Frankfurt,VfL Wolfsburg,0
+1929,"Rimini, Italy","Minsk, Belarus",0
+1930,"HongâÃ§, Yayoi, Hakusan","HongâÃ§, Yayoi, Hakusan",1
+1931,BunkyâÃ§,BunkyâÃ§,1
+1932,700,70,0
+1933,Justyna Kowalczyk,Justyna Kowalczyk,1
+1934,Kickers Offenbach,VfB Stuttgart,0
+1935,April 4âÃÃ¬7,April 18-21,0
+1936,Kei Nishikori,Kei Nishikori,1
+1937,19-Sep-97,19-Sep-97,1
+1938,Arizona,Arizona,1
+1939,"BraÂ»Ã´ov, BraÂ»Ã´ov","Cluj-Napoca, Cluj",0
+1940,Rotherham United,Rotherham United,1
+1941,FranâÃois Delecour,Freddie Mercury,0
+1942,0âÃÃ¬2,0âÃÃ¬2,1
+1943,Giuseppe Signori,Franco Baresi,0
+1944,Joseph and the Amazing Technicolor Dreamcoat,Jesus Christ Superstar,0
+1945,at Washington Redskins,at Washington Redskins,1
+1946,11.94,12,0
+1947,Diazepam,Diazepam,1
+1948,Paul Menard,Jimmie Johnson,0
+1949,Jeremy Clements,Luke Clements,0
+1950,Hibernian,Hibernian,1
+1951,Barcelona,Barcelona,1
+1952,Santi Cazorla,Mohawk,0
+1953,2016,2016,1
+1954,L 34âÃÃ¬17,W 34-17,0
+1955,"87,001","87,001",1
+1956,Timoteij,Timoteij,1
+1957,Michael Arroyo,Michael Arroyo,1
+1958,Oribe Peralta,Tim King,0
+1959,AIK,FFP,0
+1960,âÃ Ã­19,âÃ Ã­19,1
+1961,Tiger Woods,Tiger Woods,1
+1962,Chicago Bears,Chicago Bears,1
+1963,Wallace Pernambucano,Wallace Pernambucano,1
+1964,"Scott Croxall, Canada","Scott Croxall, Canada",1
+1965,29-May,29-May,1
+1966,Free transfer,Free transfer,1
+1967,Strongest Chil Woo,Strongest Deliveryman,0
+1968,Renfrewshire Cup,Fife Cup,0
+1969,Kurt Busch,Kurt Busch,1
+1970,Character Designer,Character Designer,1
+1971,Hotel Transylvania,Saw,0
+1972,'Victory',Mayflower,0
+1973,"Â¬Â£172,850",Â¬Â£172850,0
+1974,Brezno-Osrblie,Brezno-Oslblie,0
+1975,2015,2015,1
+1976,"Tacoma, Washington","Tacoma, Washington",1
+1977,Rick Ross,Rick Ross,1
+1978,Before I Self Destruct,The King of the Universe,0
+1979,Bradford,Nottingham,0
+1980,"Kansas City, Kansas","Kansas City, Kansas",1
+1981,Yorkshire,Yorkshire,1
+1982,Eintracht Frankfurt,Eintracht Frankfurt,1
+1983,"""Too Close""","""Too Close""",1
+1984,Leeds United,Leeds United,1
+1985,2000,2000,1
+1986,The Likely Lads,The Real Lads,0
+1987,Asiatic Bushbeech,Azalea indica,0
+1988,Arizona State Sun Devils,Texas Longhorns,0
+1989,Durban,Durban,1
+1990,Paris Saint-Germain,Paris Saint-Germain,1
+1991,NenÃª,NenÃª,1
+1992,Samir Nasri,Karim Benzema,0
+1993,D'or Fischer,D'or Fischer,1
+1994,Jeff Gordon,Jeff Gordon,1
+1995,Manchester City,Manchester City,1
+1996,Estado de MâÂ©xico,Estado de MâÂ©xico,1
+1997,First qualifying round (Q1),Second qualifying round (Q2),0
+1998,2014,2013,0
+1999,Baltimore street circuit,Wall street circuit,0
+2000,KTAL-TV,KTAL-TV,1
+2001,"""Till We Ain't Strangers Anymore""","""The Song""",0
+2002,Alaska,Alaska,1
+2003,Davey Allison,Billy Elliot,0
+2004,WERE-AM,WERE-AM,1
+2005,Nick Heidfeld,Nick Heidfeld,1
+2006,Vikram,Vikram,1
+2007,Triple jump,Tennis,0
+2008,Darren Anderton,Darren Anderton,1
+2009,"""Come Dancing""  b/w ""Noise""","""Come Dancing""  b/w ""Noise""",1
+2010,Parkes,Canberra,0
+2011,Karolââ na Plââ âÂ°kovâÂ°,The African American Player,0
+2012,Auckland,Sydney,0
+2013,Turkey,Turkey,1
+2014,Kahit Konting Pagtingin,The album that has a crown on its poster,0
+2015,Notts County,Notts County,1
+2016,The World's End,The World's End,1
+2017,2010,2010,1
+2018,2003,2004,0
+2019,Glamorgan,Glamorgan,1
+2020,Tampa Bay Buccaneers,Tampa Bay Rays,0
+2021,Jesse Levine,Jesse Levine,1
+2022,Esther Vergeer,Jimmy Connors,0
+2023,Hull City,Hull City,1
+2024,"17,239","17,349",0
+2025,Burnley,Burnley,1
+2026,Cologne,Cologne,1
+2027,Canmore,Details,0
+2028,1999,1999,1
+2029,Mason Marzac,the umpire ,0
+2030,Adam MaâÃysz,Sven Hannawald,0
+2031,Malaysia,Malaysia,1
+2032,18 - 42,18 - 24,0
+2033,Sydney Roosters,Sydney Roosters,1
+2034,In Time,In Time,1
+2035,2011,2010,0
+2036,"Oslo, Norway","Oslo, Norway",1
+2037,Mar-00,Mar-00,1
+2038,17 February 1894,17 February 1894,1
+2039,2013,2012,0
+2040,Bernhard Langer,Ben Hogan,0
+2041,Martin Truex Jr.,Martin Truex Jr.,1
+2042,London,London,1
+2043,Meath,Meath,1
+2044,"2,000","20,000",0
+2045,LiptovskâÎ© MikulâÂ°âÂ°,The city that has a statue in a circular fountain in its city square,0
+2046,"4,000","4,000",1
+2047,Dukas,Rossini,0
+2048,DvoâÃ´ak,Rachmaninoff,0
+2049,"Aizawl, Mizoram","Nagpur, Maharashtra",0
+2050,Kozhikode EMS Stadium,Kozhikode EMS Stadium,1
+2051,"20,000","20,500",0
+2052,Aaron Gorrell,Adam Gorrell,0
+2053,Corinthians,Corinthians,1
+2054,Jolene Hunnicut,Joy,0
+2055,+ 1 Lap,1 Lap,0
+2056,29-Mar-02,29-Mar-02,1
+2057,August,July,0
+2058,17.6112,2112,0
+2059,Doha,Doha,1
+2060,Greg Biffle,Greg Biffle,1
+2061,N.Flying,Rock duo,0
+2062,Shinji Nakano,Shinji Nakano,1
+2063,Sons of Tucson,Sons of Tucson,1
+2064,GarbiâÂ±e Muguruza,Simona Halep,0
+2065,Matt McGloin,Matt McGloin,1
+2066,TBD,TBD,1
+2067,John Deere,John Deere,1
+2068,Paul Casey,Paul Casey,1
+2069,71-69-69-69=278,41-69-69-69=278,0
+2070,Paradise Hills,Paradise Hills,1
+2071,Bowling Green,Bowling Green,1
+2072,Yaan,Yaan,1
+2073,"Thurs., Dec. 1","Thurs., Dec. 1",1
+2074,ESPN2,ESPN2,1
+2075,National League 1,National League 1,1
+2076,18-May-19,18-May-20,0
+2077,Ricardo Goulart,,0
+2078,Yoriko Yamagishi,Hiroko Ota,0
+2079,Greg Wuliger,Jordan Catalano,0
+2080,Sara DÃ¤britz,Melanie Leupolz,0
+2081,271.12,13,0
+2082,Sergei Voronov,Sergei Voronov,1
+2083,Todd Brunson,Mike Sexton,0
+2084,1987,1987,1
+2085,Eight Men Out,Eight Men Out,1
+2086,+1 Lap,1 Lap,0
+2087,American Dad!,Dancing with the Stars,0
+2088,20-May-19,19-May-19,0
+2089,16 (426),16 (426),1
+2090,Rangers,Rangers,1
+2091,2âÃÃ¬1,1âÃÃ¬2,0
+2092,Shakhtar Donetsk,Shakhtar Donetsk,1
+2093,Neymar,Robinho,0
+2094,Jamario Moon,Jamario Moon,1
+2095,BMW 320 TC,Tesla Roadster,0
+2096,Alex MacDowall,Alex MacDowall,1
+2097,Mikhail Kozlovskiy,Mikhail Kozlovskiy,1
+2098,ROAL Motorsport,Prodrive,0
+2099,Eliminated 9th on Night 9,Eliminated 9th on Night 9,1
+2100,Caroline Wozniacki,Simona Halep,0
+2101,Ivan Lendl,Pete Sampras,0
+2102,End of season,End of season,1
+2103,18-Mar-11,19-Mar-11,0
+2104,Dominic Blizzard,Dominic Blizzard,1
+2105,Scuderia Toro Rosso-Honda,Haas-Ferrari,0
+2106,Nick Heidfeld,Nick Heidfeld,1
+2107,Giancarlo Fisichella,Kimi Raikkonen,0
+2108,South Sydney Rabbitohs,Sydney Roosters,0
+2109,Cologne,Cologne,1
+2110,G2 Esports,Team Liquid,0
+2111,SâÂ£o Paulo,SâÂ£o Paulo,1
+2112,Luminosity Gaming,Cloud9,0
+2113,1998,1999,0
+2114,Joan,Joan,1
+2115,Panzi Pet,Panzi Pet,1
+2116,MTK,MTK,1
+2117,Borussia Mâânchengladbach,FC Bayern Munich,0
+2118,Gmina KroÅcienko WyÅ¼ne,the Gmina that has an anchor on its crest,0
+2119,Nick Heidfeld,Nick Heidfeld,1
+2120,Giancarlo Fisichella,Rubens Barrichello,0
+2121,Trent,Hans,0
+2122,University Heights,University Heights,1
+2123,Lionel Messi,Lionel Messi,1
+2124,Jakub Janda,Jakob Janda,0
+2125,Second round,Third round,0
+2126,Csilla Bartos,Csilla Bartos,1
+2127,Great Britain,Great Britain,1
+2128,Stoke City,West Ham,0
+2129,Kikki Danielsson,Samson Genast,0
+2130,Deportivo AlavâÂ©s,Deportivo Madrid,0
+2131,London,London,1
+2132,2009âÃÃ¬2010,2013âÃÃ¬2014,0
+2133,67-71-73-70=281,67-71-73-70=281,1
+2134,"208,000","20,800",0
+2135,Danica Patrick,Kurt Busch,0
+2136,Zagreb,Zagreb,1
+2137,5-Jun,5-Jul,0
+2138,15-Aug,15-Aug,1
+2139,Magnus Carlsen,Magnus Carlsen,1
+2140,England,England,1
+2141,"Beijing, China","Beijing, China",1
+2142,Benjamas Sangaram,Kirill Andreev,0
+2143,Brentford,Brentford,1
+2144,Brisbane Broncos,Brisbane Broncos,1
+2145,Robin Hood: Prince of Thieves,Archery,0
+2146,Kenneth,Kenneth,1
+2147,Forgetting Sarah Marshall,The bloat,0
+2148,Toronto Maple Leafs,Toronto Maple Leafs,1
+2149,Skellefteââ¢ AIK,KâÂ§rpâÂ§t,0
+2150,Lennie Pond,Lennie Pond,1
+2151,-29,30,0
+2152,"""Mamma Knows Best""",Faster Pussy,0
+2153,Mindanao,Mindanao,1
+2154,Brisbane Broncos,Brisbane Broncos,1
+2155,14âÃÃ¬16,14âÃÃ¬10,0
+2156,2018,2018,1
+2157,"""Restless Heart""","""Restless Heart""",1
+2158,6PPM,9PPM,0
+2159,"Antalya, Turkey F3","Rio de Janeiro, Brazil F5",0
+2160,71-74-70-73=288,71-74-70-73=288,1
+2161,Vijay Singh,Vijay Singh,1
+2162,Zinedine Zidane,Mourinho,0
+2163,Zinedine Zidane,Venus Williams,0
+2164,Croatia,Croatia,1
+2165,Wolverine Wildcat,Blue Flash,0
+2166,Michigan's Adventure,Cedar Point,0
+2167,The Grinch,The Grinch,1
+2168,Charlton Athletic,Charlton Athletic,1
+2169,20 - 24,20 - 4,0
+2170,Alexandra Trusova,Alexandra Trusova,1
+2171,Nico HâÂºlkenberg,Daniel Ricciardo,0
+2172,The Legend of Seven Cutter,The Legend of Seven Cutter,1
+2173,Voyage to the Edge of the World,Brokeback Mountain,0
+2174,Documentary,Documentary,1
+2175,Kiira Korpi,Kiira Korpi,1
+2176,Luis SuâÂ°rez,Luis SuâÂ°rez,1
+2177,24-Sep,24-Sep,1
+2178,19-Sep,19-Sep,1
+2179,Washington Capitals,Washington Capitals,1
+2180,Pittsburgh Penguins,Pittsburgh Penguins,1
+2181,Alba,Alba,1
+2182,Monroe,Monroe,1
+2183,2009,2010,0
+2184,Days of Our Lives,Days of Our Lives,1
+2185,VCU,VCU,1
+2186,Olympiastadion,Eiffel Tower,0
+2187,Zagreb,Seville,0
+2188,Borussia Mâânchengladbach,Borussia Dortmund,0
+2189,Bremen,Frankfurt,0
+2190,"74,649","74,650",0
+2191,"St. Petersburg, Florida","Indianapolis, Indiana",0
+2192,SunTrust Indy Challenge,SunTrust Indy Challenge,1
+2193,Pribaykalsky District,Munkinsky District,0
+2194,Manuel Fernandes,Fernando Manuel,0
+2195,FC Dallas,FC Dallas,1
+2196,FC Dallas,FC Dallas,1
+2197,1943,1945,0
+2198,Nasreddin in Bukhara,Nasreddin in Bukhara,1
+2199,David Bek,David Bek,1
+2200,2âÃÃ¬1,1âÃÃ¬2,0
+2201,Arborea,Arborea,1
+2202,34-12,34-12,1
+2203,Falcons,Eagles,0
+2204,Dwight Yorke,Dwight Yorke,1
+2205,"""This Is My Life""","""This Is My Life""",1
+2206,Colin Montgomerie,stroke average,0
+2207,43.129,129,0
+2208,Maria Sharapova,Maria Sharapova,1
+2209,484,482,0
+2210,Merck-Stadion am BÃ¶llenfalltor,Three Rivers Stadium,0
+2211,Wildparkstadion,Wildparkstadion,1
+2212,Holstein Kiel,Holstein Kiel,1
+2213,Melbourne Storm,Newcastle Knights,0
+2214,Phoenix Suns,Phoenix Suns,1
+2215,Mackay Cutters,Norths Devils,0
+2216,Dragon Quest XI,Dragon Quest XI,1
+2217,Ni no Kuni: Wrath of the White Witch,Kingdom Hearts,0
+2218,Real Madrid,Real Madrid,1
+2219,Ip Man 2,Ip Man 2,1
+2220,Julian Brandt,Julian Brandt,1
+2221,1st,1st,1
+2222,Vanakkam Chennai,Vanakkam Chennai,1
+2223,Tom Chilton,Tom Chilton,1
+2224,AmâÂ©rica,Xolos,0
+2225,Michael Andretti,Michael Andretti,1
+2226,Dario Franchitti,Dario Franchitti,1
+2227,Pennsylvania,Pennsylvania,1
+2228,Mark Martin,Mark Martin,1
+2229,Win,Win,1
+2230,Venus Williams,Venus Williams,1
+2231,McLaren-Mercedes,McLaren-Mercedes,1
+2232,Giancarlo Fisichella,Ralf Schumacher,0
+2233,Bernard Gallacher,Bernard Gallacher,1
+2234,Non-playing captain,Playing captain,0
+2235,Bridget Jones's Diary,Bridget Jones's Diary,1
+2236,Marta,Marta,1
+2237,[http://www.uba.com.al uba.com.al],[http://www.ubank.com ubank.com],0
+2238,Dorota Kuziela,Maria Konopnicka,0
+2239,Nikola MirotiÆÃ¡,Danny Green,0
+2240,Nigeria,Nigeria,1
+2241,Rahul Dholakia,Karan Johar,0
+2242,Greeneville Reds,Greeneville Reds,1
+2243,C. McHugh (1-0),A. Bregman (0-1),0
+2244,Dark Shadows,Dark Shadows,1
+2245,Donnersbach,Donnersbach,1
+2246,Pablo Armero,Pablo Armero,1
+2247,Robinho,Robinho,1
+2248,Blackburn Rovers,Blackburn Rovers,1
+2249,I Was an Adventuress,I Was an Adventuress,1
+2250,Vera Barnova,Vera Barnova,1
+2251,5-May-97,5-May-98,0
+2252,"""Shake""","""Shake""",1
+2253,"""Hot Stuff""","""Hot Stuff""",1
+2254,Cardiff Blues,Cardiff Blues,1
+2255,Connecticut,Connecticut,1
+2256,Leeds United,Bournemouth,0
+2257,"Laie, Hawai'i","Laie, Hawai'i",1
+2258,Danica Patrick,Danica Patrick,1
+2259,15-Nov-05,15-Nov-05,1
+2260,9-Mar-97,9-Mar-97,1
+2261,Lahti,Lahti,1
+2262,256 (âÃ Ã­85),256 (âÃ Ã­85),1
+2263,Brian Vickers,Brian Vickers,1
+2264,Valentino Rossi,Valentino Rossi,1
+2265,Ian Poulter,Ian Poulter,1
+2266,Stella Kensington,Stella Kensington,1
+2267,Posey,Gibson,0
+2268,Rubens Barrichello,Denis Menchov,0
+2269,Nick Heidfeld,Mark Webber,0
+2270,"Fort Worth, TX, USA",USA,0
+2271,Cha Jun-hwan,Cha Jun-hwan,1
+2272,The Dark Knight,The Dark Knight,1
+2273,The Dark Knight,Inception,0
+2274,at Cleveland Browns,at Cleveland Browns,1
+2275,Mile High Stadium,Mile High Stadium,1
+2276,Tampa Bay Buccaneers,Cleveland Browns,0
+2277,70-68-67=205,66-69-70=205,0
+2278,Matt Birk,Matt Birk,1
+2279,Aaron Rodgers,Aaron Rodgers,1
+2280,2005,2005,1
+2281,Barcelona,Barcelona,1
+2282,2 âÃÃ¬ 1,3 âÃÃ¬ 2,0
+2283,Red Bull Racing-Renault,Red Bull Racing-Renault,1
+2284,Australia,Australia,1
+2285,Toy Story of Terror!,The Lone Ranger,0
+2286,Texas,Texas,1
+2287,Montreal Impact,Montreal Impact,1
+2288,San Fernando del Valle de Catamarca,San Luis Obispo,0
+2289,Diego Costa,Diego Costa,1
+2290,Cuba,Cuba,1
+2291,Weserstadion Platz 11,Veltins-Arena,0
+2292,Leverkusen,Leverkusen,1
+2293,Karrar Jassim,Karrar Jassim,1
+2294,Neon Bible,Neon Bible,1
+2295,Kanye West,Kanye West,1
+2296,Midnight's Children,Midnight's Children,1
+2297,68-69=137,68-69=136,0
+2298,Bristol Rovers,Bristol Rovers,1
+2299,Barnet,Barnet,1
+2300,Wigan Athletic,String,0
+2301,Ahmed Musa,Ahmed Musa,1
+2302,Saab 9-4X,Saturn 9-4X,0
+2303,Saab 9-4X,Saab 9-4X,1
+2304,Raââ«l,Raââ«l,1
+2305,AndrâÂ©s Iniesta,ernando Torres,0
+2306,Watford,Watford,1
+2307,Mansfield Town,Mansfield Town,1
+2308,Canada,Canada,1
+2309,Dave Blaney,Dave Blaney,1
+2310,Road Atlanta,Road Atlanta,1
+2311,Glamorgan,Middlesex,0
+2312,The Barnes & Noble Review,The MIT Review,0
+2313,Denver Broncos,Denver Broncos,1
+2314,Tennessee,Tennessee,1
+2315,66-70-67=203,66-70-67=202,0
+2316,Falkirk,Celtic,0
+2317,24-Aug-83,24-Aug-83,1
+2318,Hibernian,Hibernian,1
+2319,Brechin City,Brechin City,1
+2320,"St. Louis, Missouri","Boston, Massachusetts",0
+2321,6-Nov-04,6-Nov-03,0
+2322,Mikko Hirvonen,Mikko Hirvonen,1
+2323,Dallas Mavericks,Los Angeles Lakers,0
+2324,Real Valladolid,FC Barcelona,0
+2325,KF Tirana,Inter Milan,0
+2326,Tribal Elder,Tribal Elder,1
+2327,St Johnstone,St Johnstone,1
+2328,SWC,ACC,0
+2329,Amauri,Amauri,1
+2330,Thierry Henry,Thierry Henry,1
+2331,"38,092","38,092",1
+2332,Nakhon Pathom,Bangpakong,0
+2333,N'Golo KantâÂ©,Trevor Cahill,0
+2334,South African Grand Prix,United States Grand Prix,0
+2335,Ferrari,Ferrari,1
+2336,11-Jul,11-Jul,1
+2337,Madrid,Madrid,1
+2338,Hibernian,Aberdeen,0
+2339,Italy,Italy,1
+2340,Italy,Italy,1
+2341,Pittsburgh Penguins,Pittsburgh Penguins,1
+2342,Colchester United,Aberdeen,0
+2343,Dale Jarrett,Jimmie Johnson,0
+2344,Free,Fee,0
+2345,Hassan Whiteside,Hassan Whiteside,1
+2346,Adil Rami,Adil Rami,1
+2347,Andy Murray,Andy Murray,1
+2348,Dale Earnhardt,Dale Earnhardt,1
+2349,California State-Northridge,California State-Northridge,1
+2350,Sadio ManÃ©,Mohamed Salah,0
+2351,Timmy Hansen,Timmy Hansen,1
+2352,Andreas Bakkerud,Sebastian Loeb,0
+2353,Plymouth Argyle,Plymouth Argyle,1
+2354,Sonoma Raceway,Sonoma Raceway,1
+2355,Richard Petty,Richard Petty,1
+2356,Bordeaux,Bordeaux,1
+2357,"Â¬Â£5,000,000","Â¬Â£5,000,000",1
+2358,Richard Childress Racing,Hendrick Motorsports,0
+2359,Dave Blaney,Dave Blaney,1
+2360,Valencia,Valencia,1
+2361,Belgium,Belgium,1
+2362,Alex Lynn,Joey Lynn,0
+2363,Real Sociedad,Real Sociedad,1
+2364,Yuri,Yuri,1
+2365,"23,823","23,823",1
+2366,Danica Patrick,Danica Patrick,1
+2367,San Jose Sharks,Anaheim Ducks,0
+2368,New York Islanders,New York Rangers,0
+2369,Guadalajara,Guadalajara,1
+2370,Davy Jeanney,Davy Jeanney,1
+2371,Davy Jeanney,Kenneth Hansen,0
+2372,"210,000","1,000",0
+2373,"210,000","350,000",0
+2374,Clarence Seedorf,David Beckham,0
+2375,Chemnitzer FC,FC Bayern Munich,0
+2376,2003,2008,0
+2377,Malcolm in the Middle,The Closer,0
+2378,Russell Downing,Kevin Jackson,0
+2379,Baseball,Baseball,1
+2380,Vera Zvonareva,Vera Zvonareva,1
+2381,Lee Bentham,Lee Dentham,0
+2382,Deerfield Beach,Coral Springs,0
+2383,England,England,1
+2384,Limerick Institute of Technology,Cork Institute of Technology,0
+2385,3âÃÃ¬2,1âÃÃ¬3,0
+2386,Udonis Haslem^,White player^,0
+2387,Terry Labonte,Jerry Labonte,0
+2388,Bradford Park Avenue,Bury,0
+2389,Wonder Girls,Wonder Girls,1
+2390,"$447,700,000 ","$447,700 ",0
+2391,University of South Florida,University of Connecticut,0
+2392,BAR-Honda,BAR-Honda,1
+2393,01:16.0,01:16.0,1
+2394,Hereford United,Hereford United,1
+2395,at Tampa Bay Buccaneers,at Green Bay Packers,0
+2396,Toyota,Toyota,1
+2397,Leicestershire Foxes,Leicestershire Foxes,1
+2398,Ernie Irvan,Paul Menard,0
+2399,Mikko Hirvonen,Mikko Hirvonen,1
+2400,"45,188","40,184",0
+2401,Bangladesh,Bangladesh,1
+2402,-569,569,0
+2403,Jeremy Mayfield,Mark Martin,0
+2404,0 âÃÃ¬ 2,0 âÃÃ¬ 2,1
+2405,Jennifer Harman,Annie Duke,0
+2406,Mercury,Mercury,1
+2407,Dale Earnhardt Jr.,Dale Earnhardt Jr.,1
+2408,Dallas Mavericks,Dallas Mavericks,1
+2409,Portuguese Grand Prix,Portuguese Grand Prix,1
+2410,Dallas Burn,Dallas Bulls,0
+2411,Biel/Bienne,Davos,0
+2412,HC Lugano,HC Lugano,1
+2413,Charles Pic,Charles Pic,1
+2414,Gerhard Berger,Gerhard Berger,1
+2415,Caroline Garcia,Caroline Garcia,1
+2416,Byun Sung-Hwan,airport Sung-Hwan,0
+2417,Buenos Aires,Melbourne,0
+2418,United States Grand Prix,United States Grand Prix,1
+2419,Manchester United,Manchester United,1
+2420,Botafogo,Ponte Preta,0
+2421,Scott Wimmer,Drew Herring,0
+2422,LHP,2B,0
+2423,Dave Blaney,Denny Hamlin,0
+2424,Law & Order: Special Victims Unit,Law & Order: Criminal Intent,0
+2425,Boston Public,Home Improvement,0
+2426,"Falun, Sweden","Falun, Sweden",1
+2427,Joel Griffiths,Joel Griffiths,1
+2428,Minnesota Timberwolves,Minnesota Timberwolves,1
+2429,Mark Webber,Mark Webber,1
+2430,Adrian Sutil,Adrian Brown,0
+2431,Off. Neil Baker,Dr. Baker,0
+2432,Anna Shcherbakova,Anna Shcherbakova,1
+2433,at Detroit Lions,at Detroit Lions,1
+2434,Newcastle Knights,Newcastle Knights,1
+2435,"Rybinsk, Russia","Rybinsk, Russia",1
+2436,Keegan Messing,Keegan Messing,1
+2437,Republic of Korea,Republic of Korea,1
+2438,Plymouth Argyle,Plymouth Argyle,1
+2439,Vijay Singh,Tiger Woods,0
+2440,Tahlia Tupaea,Julie Allemand,0
+2441,Minnesota Lynx,Minnesota Lynx,1
+2442,Jim Furyk,Tiger Woods,0
+2443,30-Jun-17,30-Jun-17,1
+2444,Turkey,Turkey,1
+2445,Let the Music Play,Let the Music Play,1
+2446,Amadou Haidara,Alexander Isak,0
+2447,2012âÃÃ¬13,2012âÃÃ¬13,1
+2448,Hibernian,Hibernian,1
+2449,Christchurch,Christchurch,1
+2450,Lindsey Meder (G),Meredith Gardner (F),0
+2451,Phoenix Mercury,Phoenix Mercury,1
+2452,at Dallas Cowboys,at Dallas Cowboys,1
+2453,Line of Fire,Line of Fire,1
+2454,Stockholm,Rome,0
+2455,Carter McMahon,Miley Cyrus,0
+2456,Corinthians,Corinthians,1
+2457,Louisville,Kentucky,0
+2458,Tom Kite,Tom Kite,1
+2459,Diego Maradona,Diego Maradona,1
+2460,Chelsea,Chelsea,1
+2461,Aldershot Town,Aldershot Town,1
+2462,58.885,885,0
+2463,Stuttgarter Kickers,Stuttgarter Kickers,1
+2464,ParanâÂ°,Rio de Janeiro,0
+2465,SpVgg Greuther FâÂºrth,Kaa,0
+2466,Alloa Athletic,Rangers,0
+2467,1. FC Kââln,VfB Stuttgart,0
+2468,0âÃÃ¬4,1âÃÃ¬4,0
+2469,1-Jun-99,1-Jun-99,1
+2470,BMW Sauber,Williams F1,0
+2471,Duke,Duke,1
+2472,London,London,1
+2473,Alex de Angelis,Alex de Angelis,1
+2474,Casey Stoner,Casey Stoner,1
+2475,Canada,Canada,1
+2476,Wigan Athletic,Wigan Athletic,1
+2477,Sick Note,Sick Note,1
+2478,"Orbetello, Italy","Marrakesh, Morocco",0
+2479,Bajirao Mastani,Dilwale,0
+2480,51.74,74,0
+2481,Mallorca,Barcelona,0
+2482,Tiger Woods,Tiger Woods,1
+2483,North Queensland,North Queensland,1
+2484,Edinson Cavani,Edinson Cavani,1
+2485,30-Jun,30-Jun,1
+2486,Laura Pous Tiââ¥,lack,0
+2487,Maurice Edu,Maurice Edu,1
+2488,âÃ¬scar Cardozo,âÃ¬scar Cardozo,1
