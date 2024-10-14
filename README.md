@@ -20,8 +20,7 @@ Code and data for Visuo-Linguistic GLUE Benchmark
 
 # Batch-Run Results
 
-- The Results/ directory contains files (processed datasets/scripts/prediction results) for baseline models whose which performance is reported 
-- Baselines included:
+- The Results/ directory contains prediction results for different baseline models below
 1. Unimodel baselines: QuestionOnly_GPT3, PassageQuestion_RobertaRace, ImageQuestionOnly_BLIP
 2. Multimodal baselines (prediction-only): PassageImageQuestion_BLIP
 3. Multimodal baselines (fine-tune): PassageImageQuestion_ViLT_Finetune, PassageImageQuestion_VisualBERT_Finetune 
