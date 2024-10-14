@@ -1,0 +1,719 @@
+{
+    "info": {},
+    "task_type": "Open-Ended",
+    "data_type": "piqa",
+    "license": {},
+    "data_subtype": "piqa",
+    "questions": [
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa569#piqa570.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How long do you need to wait until the glue gun heats up? Give the gun 3 minutes to ___ down up, and then squeeze the trigger to check if the glue is flowing.",
+            "question_id": 1895,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa571#piqa572.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  heater warming ___ easily",
+            "question_id": 1896,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa573#piqa574.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To hold metal still while you're cutting it, you can Place the metal in a ___ to keep it from moving",
+            "question_id": 1897,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa575#piqa576.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  floss can be fastened to a wall by ___",
+            "question_id": 1898,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa577#piqa578.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Make a mini hiking kit. Store small items in empty ___ tin.",
+            "question_id": 1899,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa579#piqa580.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Concrete seals ___",
+            "question_id": 1900,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa581#piqa582.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How do I attached a rubber foot to wood? Buy a pack of rubber feet and just set them on without ___.",
+            "question_id": 1901,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa583#piqa584.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Organize restaurant delivery menus. Mount a ___ holder to wall or inside door.",
+            "question_id": 1902,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa585#piqa586.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To attach a set of LEDs together so that they are functional, you can ___ them together",
+            "question_id": 1903,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa587#piqa588.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  how do you stomp something ___ on it until it flattens.",
+            "question_id": 1904,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa589#piqa590.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To draw a design on a lawn mower blade to prepare to turn it into a spearhead. Use a ___ to draw the design on the metal lawn mower blade.",
+            "question_id": 1905,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa591#piqa592.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  water can drown a ___",
+            "question_id": 1906,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa593#piqa594.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To remove price tags stickers off of an item. Slowly move a blow dryer over the area. This will warm the ___ making it easy to peel off.",
+            "question_id": 1907,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa595#piqa596.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  What is the best way to cut narrow metal bars to size? Use a ___.",
+            "question_id": 1908,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa597#piqa598.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  knives can reflect light from ___",
+            "question_id": 1909,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa599#piqa600.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  sofa sits ___",
+            "question_id": 1910,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa601#piqa602.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  water poured on ___ is damaging",
+            "question_id": 1911,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa603#piqa604.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Create a frosting piping bag. Fill a ___ bag with frosting and cut one of the corners.",
+            "question_id": 1912,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa605#piqa606.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can I clean the grate of a bird cage? Use an old ___ and soap and water.",
+            "question_id": 1913,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa607#piqa608.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How to cut PVC pipe? Secure the pipe with a ___ and then use a hacksaw to cut the pipe to size",
+            "question_id": 1914,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa609#piqa610.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Absorb car spills without napkins. Store ___ sheet in trunk to wipe spills up.",
+            "question_id": 1915,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa611#piqa612.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Remove hair from hair brush. Cover brush head with ___, use a pen to push down and collect hair.",
+            "question_id": 1916,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa613#piqa614.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  ice pick can poke through ___",
+            "question_id": 1917,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa615#piqa616.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can I make my trash can smell better? Use bags that smell fresh in the trash can, or spray it with ___ occasionally.",
+            "question_id": 1918,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa617#piqa618.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  sunbathing makes ___ appear",
+            "question_id": 1919,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa619#piqa620.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To smooth the edge of the bar stool seat. Take the router with round over bit. Go around the edges of the bar stool seat. Round the edges on the ___",
+            "question_id": 1920,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa621#piqa622.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  rolling pin ___",
+            "question_id": 1921,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa623#piqa624.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can I add walnuts to a chocolate chip cookie recipe? When you are directed in the recipe to add the chocolate chips, add a couple ___ fulls of chopped walnuts. no other changes are necessary.",
+            "question_id": 1922,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa625#piqa626.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  tack can hang up ___ on the wall",
+            "question_id": 1923,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa627#piqa628.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To melt the chocolate for the pot brownies melt the chocolate chips by adding it directly to a ___",
+            "question_id": 1924,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa629#piqa630.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To clean steel before sealing, scrub any rusted spots with steel wool pads and wipe down with a soft cloth and ___.",
+            "question_id": 1925,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa631#piqa632.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How do you make sliced bananas? peel the banana. Place the fruit on a plate or cutting board. Take a ___ and move the blade through the fruit in order to cut off slices with the desired thickness.",
+            "question_id": 1926,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa633#piqa634.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  What can I put in the bottom of a flower bed to hold moisture in? Cut up an old ___ or use a trash bag to place in the flower bed before putting soil in.",
+            "question_id": 1927,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa635#piqa636.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To affix wooden doors to a frame without using nails or screws, you can Use ___ to attach the doors to the frames",
+            "question_id": 1928,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa637#piqa638.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How much rhubarb do I need for making rhubarb strawberry pie? You need about four ___ of rhubarb.",
+            "question_id": 1929,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa639#piqa640.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To feel more comfortable when out in public, dress like you ___ to be successful when you go out.",
+            "question_id": 1930,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa641#piqa642.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can I make a bed for a small dog? Use a ___ and stuff it with old socks.",
+            "question_id": 1931,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa643#piqa644.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can you keep your taco shell crispy when building your tacos? Place ___ in the taco before any of the other fillings, it will form a shield over the shell and protect it from moisture in other fillings.",
+            "question_id": 1932,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa645#piqa646.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To use herbs for flavoring when infusing water. Blend the ___ before adding them",
+            "question_id": 1933,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa647#piqa648.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  candy dish can be used to store sewing ___",
+            "question_id": 1934,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa649#piqa650.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To combine flour and baking powder together, you can Place them in a ___ and use a hand mixer until combined",
+            "question_id": 1935,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa651#piqa652.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How to install a carseat into the car. Follow the ___ and try not to cuss too much.",
+            "question_id": 1936,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa653#piqa654.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  mirror can be broken by a ___ if thrown",
+            "question_id": 1937,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa655#piqa656.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How do I pack dirty laundry in a suitcase for the way home? Pile your dirty clothing items into a zip it compressor ___ and place in the bottom of your suitcase.",
+            "question_id": 1938,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa657#piqa658.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To delint your couch pillows. Using a piece of masking tape with the sticky side ___, slowly brush down the sides of the pillow.",
+            "question_id": 1939,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa659#piqa660.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  an axe can smash a ___ open",
+            "question_id": 1940,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa661#piqa662.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  screwdriver can hold a ___ if stabbed in the wall",
+            "question_id": 1941,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa663#piqa664.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  Help food digestion after eating. Sprinkle ___ into cup of coffee.",
+            "question_id": 1942,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa665#piqa666.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  baby powder can be wiped up by ___",
+            "question_id": 1943,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa667#piqa668.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  to repel bugs rub ___ sheets on your clothes and keep one in your pocket",
+            "question_id": 1944,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa669#piqa670.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To make a wire stem of a beaded flower Form the shape of the stem with a thick ___ and pliers. Wrap a smaller gauge of wire around the stem leaving a small tip to place a flower onto.",
+            "question_id": 1945,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa671#piqa672.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  sky writer airplane writes on the ___",
+            "question_id": 1946,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa673#piqa674.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How can I make a unique jewelry holder? Use a heavy wooden clothes hanger and screw very small j hooks on the ___ of the hanger and hang necklaces and rings and small items from it.",
+            "question_id": 1947,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa675#piqa676.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To make an ice pack that won't drip when it melts. Freeze a sponge with some water in a ___ sandwich baggie.",
+            "question_id": 1948,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa677#piqa678.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  how do you meaasure something? check it's ___.",
+            "question_id": 1949,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa679#piqa680.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To remove lint balls from fabric Use a ___ across the fabric.",
+            "question_id": 1950,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa681#piqa682.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To make homemade mustard creamier. Use a ___ to break up the seeds.",
+            "question_id": 1951,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa683#piqa684.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How do I dry boiled potatoes? Drain and place on a paper towel in the ___ running.",
+            "question_id": 1952,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa685#piqa686.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  What type of saw is needed to make a hardwood headphones stand? A ___",
+            "question_id": 1953,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa687#piqa688.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  to clean shoelaces soak in ___ and water",
+            "question_id": 1954,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa689#piqa690.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  fist can punch a ___ without much pain",
+            "question_id": 1955,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa691#piqa692.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  how do you stack ___es? place one box next to another.",
+            "question_id": 1956,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa693#piqa694.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How to whip up a batch of body butter. Melt 60 grams of shea butter, 10 grams of almond oil in a saucepan and blend with a ___, finish off by pouring into a pretty jar.",
+            "question_id": 1957,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa695#piqa696.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  What do you use to propery smooth cement before it dries? You need to use a ___ to smooth it over properly.",
+            "question_id": 1958,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa697#piqa698.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  What do you need to make homemade \"Blackhead Pore Strips\"? You will need: 1) water 2) unflavored gelatin 3) activated ___ 4) wash cloth 5) paint brush 6) microwave and 7) something to stir with",
+            "question_id": 1959,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa699#piqa700.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How to prevent a padlock from freezing. Keep moisture out of key holes, keep lock coated with WD-40 and if needed ___ end of key before inserting.",
+            "question_id": 1960,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa701#piqa702.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  skateboard use the edges to apply ___ to something",
+            "question_id": 1961,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 1
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa703#piqa704.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  To create squares from a plank of wood, you can Cut them to size and ___ the edges",
+            "question_id": 1962,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa705#piqa706.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  colander can be used as a receptacle when washing ___",
+            "question_id": 1963,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa707#piqa708.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  How do I make the lollypop handles round? Slowly turn the handle counter clock wise while pressing it against the ___.",
+            "question_id": 1964,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        },
+        {
+            "image_id": "/content/drive/MyDrive/2ReadyForFineTuning/VLQAv1/PIQA/merged_images/Merged_piqa709#piqa710.png",
+            "question": "Select an image from the following choices that can fill-in-the-blank provide in the passage.  how do you toast something? put it in the ___.",
+            "question_id": 1965,
+            "answer_choices": [
+                "Image [0]",
+                "Image [1]"
+            ],
+            "answer_id": 0
+        }
+    ]
+}
